@@ -1,0 +1,6063 @@
+﻿B
+B
+
+EB
+EB
+
+GB
+GB
+
+kB
+KB
+
+MB
+MB
+
+PB
+PB
+
+TB
+TB
+
+About %s\n\nPublisher: %S\nRelease Date: %S\nVersion: %S\nDescription: %S\nUpdate URL: %S\n
+关于 %s\n\n发布者: %S\n发布日期: %S\n版本: %S\n描述: %S\n更新网址: %S\n
+
+Too many activations\nA single purchased copy of %s Plus can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+Too many activations\nA single purchased copy of %s Plus can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+
+Invalid path specified. Please modify and try again.
+指定的路径无效，请修改并重试。
+
+Current Directory
+当前目录
+
+&Deselect
+取消选定(&D)
+
+&Deselect All
+取消全选(&D)
+
+ (disk space: %#Z)
+ (剩余空间: %#Z)
+
+ (of %#Z)
+ (总计 %#Z)
+
+There is not enough free disk space to save the files in the folder you selected.\r\nDo you want to continue anyway?
+没有足够的剩余空间用以存放您所选定的文件。\r\n确定要继续吗？
+
+The directory you chose is not on the same drive as the %s client. It will not come along when you move the USB drive. Are you sure you want to continue?
+您选择的不是相同的路径 %s 客户端将不会找到该路径.当你移动 USB 驱动器时. 你是否要继续吗？
+
+&Select
+选定(&S)
+
+&Select All
+全选(&S)
+
+One or more files exceed the filesystem size limit, these files can not be saved properly.\r\nDo you want to continue anyway?
+一个或多个文件超出系统文件大小限制，这些文件无法被正确保存。\r\n您希望继续吗？
+
+Please add fewer torrents at once.
+Please add fewer torrents at once.
+
+Add RSS Feed
+添加 RSS 订阅
+
+Would you like to add "%s" to your search list?
+您希望将 "%s" 添加到您的搜索清单中吗？
+
+Advertisement
+Advertisement
+
+This is an advertisement from one of uTorrent's partners.
+This is an advertisement from one of uTorrent's partners.
+
+Anti-virus Information
+防病毒信息
+
+%s application %s failed to copy to %s
+%s application %s failed to copy to %s
+
+\nThis app was downloaded from %S
+\n此程序下载于 %S
+
+Installing %s
+正在安装... %s
+
+This %s app was downloaded from a website.\nOnly install it if it came from a trusted source.\nWould you like to install?\n\nTitle: %s\nPublisher: %S\nUpdate URL: %S
+该程序 %s 是从网站上下载.\n如果来源于正规网站则可以安装.\n你将希望安装吗?\n\n标题: %s\n发布者: %S\n更新网址: %S
+
+Are you sure you want to open the containing folders for %d torrents?\n
+您确定要打开 %d Torrent 所在文件夹?\n
+
+Are you sure you want to open the converted files for %d torrents?\n
+你确定想为 %d torrents 打开转换后的文件？
+
+Are you sure you want to open %d torrents?\n
+您确定要打开 %d Torrent?\n
+
+Unable to find '%s'.
+无法找到 '%s'。
+
+Error '%s' while downloading URL.
+下载链接 '%s' 错误。
+
+Unable to generate temp filename.
+无法生成临时文件名。
+
+Neither NAT-PMP nor UPnP is enabled. Please check your preferences.
+NAT-PMP或者UPnP都未启用。请检查您的设置。
+
+The contents of this torrent were verified to be free of viruses and spyware on %s
+该Torrent的内容经验证没有病毒与间谍软件于 %s
+
+  Delete infected files and associated torrent
+删除受感染文件和关联Torrent
+
+There was an error while scanning the content of this torrent.
+扫描Torrent内容时发生错误。
+
+Virus Found!\r\n\r\n
+找到病毒!\r\n\r\n
+
+You have recently un-quarantined this possibly infected torrent
+您最近已将该可能感染的Torrent移出隔离区
+
+Antivirus installed
+防毒软件已安装
+
+ and more...
+更多...
+
+Antivirus app not installed
+防毒软件未安装
+
+Torrent contents are being checked for viruses and spyware.
+正在扫描Torrent内容中的病毒和间谍软件。
+
+  Keep virus quarantined (default)
+保持病毒隔离(默认)
+
+Torrent contents are waiting to be checked for viruses and spyware.
+Torrent内容正在等待扫描病毒与间谍软件。
+
+  Ignore and let virus free (not advised)\r\n
+忽略并且不处理病毒(不建议)\r\n
+
+The torrent you downloaded contains a virus! We have safely\r\nquarantined the virus. What do you want to do?\r\n\r\n
+您下载的Torrent内容中包含病毒!我们已安全地\r\n隔离病毒。您想做什么操作?\r\n\r\n
+
+Torrent name: *
+Torrent名称: *
+
+File name: *
+文件名称: *
+
+All files (*.*)||*.*||
+所有文件 (*.*)||*.*||
+
+The app '%s' is requesting access to:\n%s%s%s%s%s%s%s%s%s%s\n\nWould you like to grant this app access?
+应用程序 '%s' 正在请求访问:\n%s%s%s%s%s%s%s%s%s%s\n\n您要授权该程序访问吗?
+
+Access to ActiveX Controls
+访问 ActiveX 控件
+
+Ability to run in the background
+在后台运行
+
+Ability to create torrents
+可创建Torrent
+
+Read access to all torrents
+读取全部 Torrents
+
+Write access to all torrents
+写入全部 Torrents
+
+This btapp requires ActiveX, but it is disabled in advanced preferences.
+该程序需要 ActiveX 控件, 但已在高级设置中被禁用.
+
+Missing app name
+缺少程序名称
+
+Missing update url
+缺少更新链接
+
+App is not compatible with client
+程序与客户端不兼容
+
+Missing index.html
+缺少 index.html 文件
+
+GetContentFile() does not contain a file [BtApp]
+连接获取文件() 没有包含任何文件 [BT应用程序]
+
+GetContentFile() does not contain [btinstall.txt]
+GetContentFile() 不包含 [btinstall.txt]
+
+App load failed (%s)
+程序载入失败 (%s)
+
+BtApp does not contain index.html
+该程序不包含 Index.html 文件
+
+Failed to load btapp as a zipfile
+载入压缩文件失败
+
+The torrent you are trying to add is already in the list of torrents. Do you want to load the trackers from it?
+您添加的 Torrent 已经存在于任务列表中。您想要从中载入 Tracker 吗？
+
+Are you sure you want to add %d torrents?
+您确定要新增 %d 个种子吗？
+
+The installation of "%s" is complete
+"%s" 安装已完成
+
+Anti-virus signature update failed. Please try again later!
+防病毒特征库升级失败.请稍后重试!
+
+Can't open .torrent file: %s
+无法打开 Torrent 文件: %s
+
+Warning: Delete to trash failed for %s. Error: %d. Deleting permanently.
+Warning: Delete to trash failed for %s. Error: %d. Deleting permanently.
+
+Failure: %s
+失败: %s
+
+Files missing from job. Please recheck.
+任务文件丢失。请重新检查。
+
+Peers6 field is of invalid length
+用户区域的长度错误
+
+Peers field is of invalid length
+用户区域的长度错误
+
+Tracker sending invalid data
+Tracker sending invalid data
+
+Tracker reply in bad format
+Tracker 返回的数据格式错误
+
+This magnet link will not work unless you enable the DHT.\n\nDo you want to enable DHT?
+该磁链无法使用,除非您启用DHT.\n\n您是否要启用DHT?
+
+Tracker reply has no peers field
+Tracker 的回应没有用户区域
+
+Executing: %s
+正在执行: %s
+
+working
+工作中
+
+Unable to load "%s": %s!
+未能载入 "%s": %s！
+
+Unable to save .torrent to '%s'.
+无法另存 Torrent 为 '%s'。
+
+Unknown torrent
+未知的 Torrent
+
+Former volume not mounted
+Former volume not mounted
+
+Warning: %s
+警告: %s
+
+Cancel
+取消
+
+Checking auto portmap configuration ...
+正检查自动端口映射配置...
+
+Checking queue ... we are #%d.
+正检查队列... 我们是 #%d.
+
+Offer
+Offer
+
+Connecting ...
+连接中...
+
+CONVERTING %:.1d %%
+正在转换 %:.1d %%
+
+CONVERTING
+正在转换
+
+TRANSFERRING %:.1d %%
+正在传输 %:.1d %%
+
+(auto detect)||16 kB||32 kB||64 kB||128 kB||256 kB||512 kB||1024 kB||2048 kB||4096 kB||8192 kB||16384 kB||
+(自动检测)||16 kB||32 kB||64 kB||128 kB||256 kB||512 kB||1024 kB||2048 kB||4096 kB||8192 kB||16384 kB||
+
+&Cancel
+取消(&C)
+
+Unable to save to '%s'.
+无法另存为 '%s'。
+
+&Close
+关闭(&C)
+
+The size of the selected data is 0 bytes. Please specify another file or directory.
+选定数据大小为 0 字节。请指定其他文件或目录。
+
+The directory you have selected contains more than 1000 files. The resulting .torrent will get very large. A better idea is to put the files into a compressed file and then share that file.\r\n\r\nDo you want to continue anyway?
+您选定的目录所含的文件多于 1000 个。因此 Torrent 文件会非常大。最好压缩为一个文件后再分享。\r\n\r\n仍然要继续吗？
+
+Drag either a single file or a folder to the window.
+把单个文件或目录拖拽到窗口中。
+
+Please enter the name of a file or directory.
+请输入文件或目录名称。
+
+Please enter a valid tracker URL. Do you want to continue without having any trackers?
+请输入一个有效的 Tracker 链接。您要在没有 Tracker 的情况下继续吗？
+
+There was an error computing the hash: (%d) %s
+散列值计算错误: (%d) %s
+
+The directory you have selected contains one or more hidden files.\r\n\r\nDo you want to include the hidden files?
+你选择的目录内包含一些隐藏文件.\r\n\r\nDo 你想添加这些隐藏文件吗？
+
+The tracker protocol is invalid. udp, http and https are the only valid ones. Do you want to continue without having any trackers?
+tracker协议是无效的。UDP,HTTP和HTTPS是唯一有效的协议。你要在没有任何trackers的情况下继续吗？
+
+All files (*.*)||*.*||
+所有文件 (*.*)||*.*||
+
+Torrent files||*.torrent||All files (*.*)||*.*||
+Torrent 文件||*.torrent||所有文件 (*.*)||*.*||
+
+You have selected to share your entire My Documents folder and all its files. It is not advisable to do so unless you are certain you want to share all the contents, including possibly private documents.\n\nAre you sure you want to proceed?
+您已经选择共享整个"我的文档"文件夹以及其下的所有文件。我们并不建议进行如此设置除非您确定您希望共享此文件夹下的所有内容，可能其中包含有私人文件。\n\n您确定要进行此操作吗？
+
+The file or directory '%s' cannot be found. Please enter a different filename. Note that you can't share the root of a drive.
+无法找到 '%s' 文件或目录。请输入另外的文件名。注意: 您不能分享驱动器根目录。
+
+Too many pieces in the torrent. Select a larger piece size.
+Torrent 中存在太多区块，请选择一个较大的区块大小。
+
+&Reset
+重置(&R)
+
+Select where to save the .torrent
+选择保存 Torrent 文件的位置
+
+Select a file
+选择文件
+
+Select a folder
+选择目录
+
+One or more trackers are invalid. Do you want to continue without having any trackers?
+一个或多个trackers无效。你要在没有任何trackers的情况下继续吗？
+
+Always perform this check
+总是执行检测
+
+Let Windows decide based on media type
+让系统根据媒体文件类型来选择
+
+Best Rating
+最高评分
+
+Click to vote
+点击投票
+
+Comments Disabled.
+评论被禁用.
+
+Newest
+最新
+
+%u Ratings
+%u 评分
+
+Oldest
+最旧
+
+Please Comment
+请提出建议
+
+Submit
+提交
+
+Worst Rating
+最差评分
+
+Your rating
+你的评分
+
+Click here to learn more about BitTorrent Certified devices
+点击这里了解BitTorrent认证设备的更多信息
+
+http://www.bittorrent.com/certified-devices/
+http://www.bittorrent.com/certified-devices/
+
+OR
+OR
+
+Copy converted files to USB
+复制转换后的文件到USB
+
+Plug USB into BitTorrent Certified playback device
+插入USB到BitTorrent认证设备
+
+Drag and drop a \ntorrent onto a device.
+拖放\ntorrent到设备。
+
+Convert
+转换
+
+Plug in your (mounted) Android.\nConverted files will be transferred.
+插入您的(已挂载)Android.\n转换后的文件将被传输。
+
+Converted files are moved\nto iTunes automatically.
+转换后的文件已自动\n移动至 iTunes。
+
+BitTorrent MOVE devices connect to your torrent library and stream media to your TV
+BitTorrent移动设备连接到您的Torrent库并同步流媒体到您的电视
+
+Plug in a USB stick, select \nconverted files, and click Transfer.
+插入U盘，选择转换后的\n文件，并点击传输。
+
+Transfer
+传输
+
+Open iTunes
+打开 iTunes
+
+Stream to BitTorrent Certified MOVE device
+串流到BitTorrent移动设备
+
+Transfer to Storage
+传输到存储
+
+Copy/Play on PS3
+复制/播放到 PS3
+
+Copy/Play on XBOX
+复制/播放到 XBOX
+
+Now walk your USB stick over\nto your PS3 and plug it in.
+现在将您的U盘\n插到 PS3。
+
+Now walk your USB stick over\nto your XBOX and plug it in.
+现在将您的U盘\n插到 XBOX。
+
+Automatically transfer newly converted media when connected
+媒连接时自动传输新转换的媒体
+
+connected
+已连接
+
+Go to iTunes to transfer converted µTorrent media onto your devices.
+转到 iTunes 来传输转换后的 µTorrent 媒体到您的设备。
+
+Make media playable in BitTorrent Certified devices
+让媒体文件可在BitTorrent认证设备上播放
+
+USB Storage Disabled
+USB存储已禁用
+
+Transfer playable media to multiple removable storage devices of your choice
+按您的选择传输可播放媒体到多个可移动存储设备
+
+Ready For Transfers
+准备好传输
+
+Not Connected
+未连接
+
+disconnected
+断开
+
+Download iTunes
+下载 iTunes
+
+Add an Android Device
+添加 Android 设备
+
+Are you sure?
+您确定?
+
+Cancel
+取消
+
+No
+否
+
+Yes
+是
+
+mounted
+已挂载
+
+Not enough Free Space on device.
+设备上空闲空间不足。
+
+Transfer failed
+传输失败
+
+Open iTunes
+打开 iTunes
+
+Check out these apps to experience %s\\\\u00ae on tablets, mobile devices and more
+Check out these apps to experience %s\\\\u00ae on tablets, mobile devices and more
+
+Find torrents and download them directly to your Android phone or tablet
+Find torrents and download them directly to your Android phone or tablet
+
+New Device Added!
+已添加新设备!
+
+Simple, secure access to your %s client on any device
+Simple, secure access to your %s client on any device
+
+%s\\\\u00ae For Android
+%s\\\\u00ae For Android
+
+%s\\\\u00ae For Mobile
+%s\\\\u00ae For Mobile
+
+%s\\\\u00ae Remote
+%s\\\\u00ae Remote
+
+Enable USB Storage on Device
+启用设备上的USB存储
+
+Connect via USB
+通过USB连接
+
+Transfer Selected Files to USB Storage
+传输选定文件到USB存储
+
+Transfer Selected Files to Storage
+传输选定文件到存储
+
+Connect your Android device\nand enable USB storage
+连接您的 Android 设备\n并启用USB存储模式
+
+Waiting for Device...
+正在等待设备...
+
+Connect your Android device\nto your PC via USB cable
+通过USB将您的 Android 设备\n连接到您的电脑
+
+On your Android device,\nenable USB storage
+在您的 Android 设备上，\n启用USB存储模式
+
+Do you want to cancel adding your Android device?
+您确定要取消添加 Android 设备?
+
+<a>Unable to add your Android device?</a>
+<a>无法添加您的 Android 设备?</a>
+
+<a>Unable to transfer to your Android device?</a>
+<a>无法传输到您的 Android 设备?</a>
+
+Add torrents
+Add torrents
+
+Add RSS feeds
+Add RSS feeds
+
+Change settings
+Change settings
+
+Download and read torrent data files
+Download and read torrent data files
+
+Delete torrent files
+Delete torrent files
+
+List torrents and their files and properties, list settings
+List torrents and their files and properties, list settings
+
+List torrents and their files and properties for torrents belonging to other entities
+List torrents and their files and properties for torrents belonging to other entities
+
+Remove torrents
+Remove torrents
+
+Remove RSS feeds
+Remove RSS feeds
+
+Control/modify/delete torrents belonging to other entities
+Control/modify/delete torrents belonging to other entities
+
+Set torrent properties
+Set torrent properties
+
+Start/pause/resume/stop/recheck/forcestart torrents and change priorities of files
+Start/pause/resume/stop/recheck/forcestart torrents and change priorities of files
+
+&Close
+关闭(&C)
+
+D: %z/s
+下载: %z/s
+
+ETA: *
+剩余时间: *
+
+U: %z/s
+上传: %z/s
+
+About
+About
+
+Webpage
+网页
+
+Close
+关闭
+
+Add New Torrent
+添加新 Torrent
+
+ Save In *
+保存到 *
+
+...
+...
+
+ Name *
+名称 *
+
+Don't show this again
+不要再次询问
+
+ Convert on Completion for *
+ 转换完成 *
+
+Select from My Devices
+从我的设备选择
+
+ Torrent Options *
+ Torrent 选项 *
+
+S&kip hash check
+跳过散列检测(&K)
+
+Label:
+标签:
+
+&Start torrent
+开始下载(&S)
+
+Add to top of queue
+添加到队列顶部
+
+ Torrent Contents *
+ Torrent 内容 *
+
+Name:
+名称:
+
+Comment:
+说明:
+
+Size:
+大小:
+
+Date:
+日期:
+
+S&elect All
+全部选定(&E)
+
+Select &None
+全部取消(&N)
+
+&Advanced...
+高级...(&A)
+
+OK
+确定
+
+Cancel
+取消
+
+Waiting for Torrent Information
+等待Torrent信息
+
+Create Subfolder
+创建子目录
+
+Devices
+设备
+
+Drag torrents onto devices in the sidebar to initiate media conversions.
+拖放 Torrents 到侧边栏的设备中开始媒体转换.
+
+Add a Device
+添加设备
+
+Android
+Android
+
+iPods/iPhones
+iPods/iPhones
+
+iPads/Apple TV
+iPads/Apple TV
+
+USB to PS3
+USB 到 PS3
+
+USB to Xbox 360
+USB 到 Xbox 360
+
+BitTorrent Certified Device
+BitTorrent认证设备
+
+Click on your device below to enable this feature.
+Click on your device below to enable this feature.
+
+Android
+Android
+
+Apple
+Apple
+
+Game
+游戏
+
+BitTorrent Certified
+BitTorrent认证
+
+Feed
+订阅
+
+Feed URL:
+订阅链接:
+
+&Custom Alias:
+自定别名(&C):
+
+Subscription
+订阅
+
+Do &not automatically download all items
+不自动下载所有项目(&N)
+
+&Automatically download all items published in feed
+自动下载在订阅中发布的所有项目(&A)
+
+Use &smart episode filter
+使用智能剧集过滤(&S)
+
+OK
+确定
+
+Cancel
+取消
+
+Always check for updates to this version
+总是检测更新到此版本
+
+Yes
+是
+
+No
+否
+
+Enter Password
+输入密码
+
+Enter Password
+输入密码
+
+OK
+确定
+
+Cancel
+取消
+
+X
+X
+
+Retry Install
+重试安装
+
+Cancel
+取消
+
+Tip Title
+Tip Title
+
+info....
+info....
+
+Unlock Bundle
+Unlock Bundle
+
+Create New Torrent
+制作 Torrent
+
+ Select Source *
+ 选择来源 *
+
+Add file
+添加文件
+
+Add directory
+添加目录
+
+Skip Files:
+跳过文件:
+
+ Torrent Properties *
+ Torrent 属性 *
+
+Trackers:
+Trackers:
+
+Web Seeds:
+网页速度:
+
+Comment:
+说明:
+
+Piece size:
+区块大小:
+
+ Other *
+ 其他 *
+
+S&tart seeding
+开始做种(&T)
+
+&Private torrent
+私用种子(&P)
+
+Preserve file &order
+保持文件顺序(&O)
+
+Create &Encrypted
+Create &Encrypted
+
+ Related *
+ 相关 *
+
+Website:
+网站:
+
+Rss:
+RSS:
+
+Similar Torrents:
+Similar Torrents:
+
+Create
+创建
+
+Creating torrent
+正在创建 Torrent
+
+Website
+网站
+
+RSS Feeds
+RSS
+
+Similar Torrents
+Similar Torrents
+
+<a>View this bundle</a>
+<a>View this bundle</a>
+
+Show:
+显示:
+
+Resolution:
+间隔:
+
+Comments
+说明
+
+Dialog
+Dialog
+
+<a>SysLink1</a>
+<a>SysLink1</a>
+
+Button1
+Button1
+
+Button1
+Button1
+
+Device Pairing Request
+设备配对请求
+
+PIN from device:
+设备PIN码:
+
+Yes
+是
+
+No
+否
+
+ Read Statistics *
+ 读取统计 *
+
+Cache:
+缓存:
+
+From Cache
+读取缓存
+
+From File
+读取文件
+
+#
+#
+
+Amount
+总计
+
+Avg Size
+平均大小
+
+Rate
+速度
+
+ Write Statistics *
+ 写入统计 *
+
+Cache:
+缓存:
+
+#
+#
+
+To Cache
+写入缓存
+
+Amount
+总计
+
+To File
+写入文件
+
+Avg Size
+平均大小
+
+Rate
+速度
+
+Hashing
+正在散列
+
+&Reset
+重置(&R)
+
+Queue
+队列
+
+Corked jobs
+Corked jobs
+
+App
+程序
+
+Static
+统计
+
+Static
+统计
+
+Static
+统计
+
+Static
+统计
+
+Static
+统计
+
+Static
+统计
+
+Static
+统计
+
+Static
+统计
+
+Static
+统计
+
+Gate Torrent
+Gate Torrent
+
+OK
+确定
+
+Don't show me this again
+不要再显示
+
+You Just added a ...
+You Just added a ...
+
+Let Me Unlock the Free Content
+Let Me Unlock the Free Content
+
+Get More Bundles
+Get More Bundles
+
+Share on Facebook
+Share on Facebook
+
+Share on Twitter
+Share on Twitter
+
+Gated torrent explaination....
+Gated torrent explaination....
+
+Delete Bundle Torrent
+Delete Bundle Torrent
+
+Cancel
+取消
+
+Don't show me this again
+不要再显示
+
+Gated torrent explaination....
+Gated torrent explaination....
+
+Wait...
+Wait...
+
+Get More Bundles
+Get More Bundles
+
+Let Me Unlock the Free Content
+Let Me Unlock the Free Content
+
+Delete
+删除
+
+Dialog
+Dialog
+
+Cancel
+取消
+
+Remember my prefrerence
+Remember my prefrerence
+
+Gated torrent explaination....
+Gated torrent explaination....
+
+Wait...
+Wait...
+
+Get More Bundles
+Get More Bundles
+
+See What's Added
+See What's Added
+
+µTorrent Setup
+µTorrent 安装
+
+&Accept
+接受(&A)
+
+&Decline
+拒绝(&D)
+
+< &Back
+< 返回(&B)
+
+&Cancel
+取消(&C)
+
+Please select an option before proceeding
+请在继续前选择一个选项
+
+Update Settings
+更新设置
+
+Notify me before installing updates
+安装更新之前通知我
+
+Program Location
+程序位置
+
+Install µTorrent in:
+将 µTorrent 安装至:
+
+Portable mode
+便携模式
+
+B&rowse...
+浏览...(&R)
+
+Create Start menu entry
+创建开始菜单项目
+
+Create Quick Launch icon
+创建快速启动图标
+
+Create Desktop icon
+创建桌面图标
+
+The following options automate the configuration of some additional settings in Windows.
+以下选项将自动配置系统中的一些额外设置。
+
+Additional Settings
+额外设置
+
+Add an exception for µTorrent in Windows Firewall
+添加系统防火墙例外
+
+Start µTorrent when Windows starts up
+系统启动时自动运行µTorrent
+
+Select which file types you would like µTorrent to handle by default.
+选择您希望 µTorrent 默认关联文件类型。
+
+File Types
+文件类型
+
+.torrent (BitTorrent files)
+.torrent (BitTorrent 文件)
+
+Magnet URIs
+磁力链接(Magnet URIs)
+
+.btsearch (BitTorrent Search Engine files)
+.btsearch (BitTorrent 搜索引擎文件)
+
+<a>SysLink1</a>
+<a>SysLink1</a>
+
+Static
+统计
+
+Radio1
+Radio1
+
+Radio2
+Radio2
+
+OpenCandy Offer
+OpenCandy 发布
+
+Continue >
+继续 >
+
+Add Torrent from URL
+从链接添加 Torrent
+
+Please enter the location of the .torrent you want to open:
+请输入您想打开的 .torrent 地址:
+
+OK
+确定
+
+Cancel
+取消
+
+We want to show you the most meaningful advertisements we can\nThis survey will help us figure out the most relevant ads for you
+We want to show you the most meaningful advertisements we can\nThis survey will help us figure out the most relevant ads for you
+
+Start Survey
+Start Survey
+
+<a>No Thanks</a>
+<a>No Thanks</a>
+
+This information will not be shared anywhere at any time
+This information will not be shared anywhere at any time
+
+Male
+Male
+
+Female
+Female
+
+Single
+Single
+
+Dating
+Dating
+
+Married
+Married
+
+Under 18
+Under 18
+
+18 - 21
+18 - 21
+
+Over 21
+Over 21
+
+Gambling
+Gambling
+
+Gaming
+Gaming
+
+Dating
+Dating
+
+Sports Fan
+Sports Fan
+
+Music and Movies
+Music and Movies
+
+Shopping
+Shopping
+
+Plus upgrade
+Plus升级
+
+Don't show me this again
+不要再显示
+
+Continue
+继续
+
+Tell me more
+告诉我更多
+
+Pick a file
+选择一个文件
+
+OK
+确定
+
+Cancel
+取消
+
+&OK
+确定(&O)
+
+&Cancel
+取消(&C)
+
+Dialog
+Dialog
+
+OK
+确定
+
+Cancel
+取消
+
+Check1
+检查
+
+Static
+统计
+
+Static
+统计
+
+Set Name
+设置名称
+
+Name
+名称
+
+OK
+确定
+
+Cancel
+取消
+
+RSS Downloader
+RSS 下载器
+
+&Help
+帮助(&H)
+
+&Close
+关闭(&C)
+
+ Filter Settings *
+ 过滤设置 *
+
+Filter:
+过滤器:
+
+Not:
+非:
+
+Save in:
+保存到:
+
+...
+...
+
+Feed:
+订阅:
+
+Quality:
+画质:
+
+&Episode Number: [ex. 1x12-14]
+季集示例(&E): [例如: 1x12-14]
+
+&Filter matches original name instead of decoded name
+过滤器匹配原始名称而不是解码后名称(&F)
+
+Don't start downloads automatically
+不要自动开始下载
+
+&Give download highest priority
+赋予下载最高优先级(&G)
+
+Smart ep. filter
+智能季集过滤器
+
+&Minimum interval:
+最小间隔(&M):
+
+&Reset
+重置(&R)
+
+Label for new torrents:
+新建 Torrent 标签:
+
+&Add
+添加(&A)
+
+&Delete
+删除(&D)
+
+?
+? 
+
+&Delete
+删除(&D)
+
+µTorrent Remote
+远程控制
+
+Your µTorrent Remote account does not currently have a security question set. A security question can be used later to transfer your username to another computer. Would you like to create one now?
+你的 µTorrent 远程账户尚未设置安全问题. 设置安全问题可以使你在另一台计算机上使用同一账户. 你希望创建这个问题吗？
+
+Question:
+问题:
+
+Answer:
+答案:
+
+Submit
+提交
+
+No thanks
+取消
+
+µTorrent Remote
+远程控制
+
+There is already a computer using the username *
+帐户名已经被使用
+
+If this username is yours, please enter your security answer below to confirm your identity and transfer the username to this computer.
+如果该帐户名是你的, 请输入安全问题答案以确认你的身份并转移该账户到这台计算机上.
+
+Question:
+问题:
+
+Sample edit box
+Sample edit box
+
+Answer:
+答案:
+
+Submit
+提交
+
+Cancel
+取消
+
+Select Player
+选择播放器
+
+Cancel
+取消
+
+OK
+确定
+
+Select a Storage Device
+选择一个存储设备
+
+OK
+确定
+
+Preferences
+设置
+
+OK
+确定
+
+Cancel
+取消
+
+&Apply
+应用(&A)
+
+General Options
+常规选项
+
+Turn anti-virus feature ON
+打开防病毒功能
+
+Turn auto-update ON
+打开自动更新
+
+Check for anti-virus updates
+检查防病毒自动更新
+
+Your last anti-virus update was:
+您最后一次防病毒更新是在:
+
+None
+无
+
+ Windows Integration *
+ 系统集成 *
+
+Sta&rt µTorrent when Windows Starts
+系统启动时自动运行 µTorrent
+
+Associate with torrent files
+关联到 torrent 文件
+
+Start Minimized
+启动时最小化到系统托盘
+
+C&heck association on startup
+启动时检查文件关联(&H)
+
+Define Minimize in UI Settings
+在界面设置中定义最小化
+
+Install IPv6/Teredo
+安装 IPv6/Teredo
+
+ Updates && Privacy
+ 更新 && 隐私
+
+&Automatically install updates
+&自动安装更新
+
+Notify me before installing updates
+安装更新之前通知我
+
+Update to beta versions
+更新到Beta版本
+
+Send detailed info when checking for updates (always anonymous)
+检查更新时发送细节信息(匿名)
+
+&Boss-Key:
+老板键(&B):
+
+&Clear Private Data
+清除隐私数据(&C)
+
+Use Boss-Key password
+使用老板键密码
+
+ When Downloading *
+ 下载时 *
+
+&Append .!ut to incomplete files
+添加 .!ut 后辍到未完成文件
+
+P&re-allocate all files
+预分配磁盘空间(&R)
+
+Pr&event standby if there are active torrents
+有活动 Torrents 时阻止进入待机
+
+&Language:
+选用语言(&L)
+
+ Display Options *
+ 显示选项 *
+
+C&onfirm when deleting torrents
+删除 Torrent 时要求确认(&O)
+
+Confirm when d&eleting trackers
+删除 Tracker 时要求确认(&E)
+
+S&how confirmation dialog on exit
+退出时显示确认对话框(&H)
+
+A&lternate list background color
+交替显示列表背景色(&L)
+
+Show current speed in the &title bar
+在标题栏显示当前速度(&T)
+
+Sh&ow speed limits in the status bar
+在状态栏显示速度限制(&O)
+
+Use fine grained file priorities
+使用细致化文件优先级
+
+Confirm exit if critical seeder
+重要种子退出需确认
+
+ System Tray *
+ 系统托盘 *
+
+&Minimize button minimizes uT to tray
+最小化按钮最小化uT到系统托盘(&M)
+
+&Always show tray icon
+总是显示系统托盘图标(&A)
+
+C&lose button closes uT to tray
+关闭按钮关闭uT到系统托盘(&L)
+
+&Single click on tray icon to open
+单击系统托盘图标打开主窗口(&S)
+
+Show &balloon notifications in tray
+系统托盘显示气泡提示(&B)
+
+Al&ways activate when clicked
+点击时总是激活(&W)
+
+ When Adding Torrents *
+ 添加任务时 *
+
+&Don't start the download automatically
+不要自动开始下载(&D)
+
+A&ctivate the program window
+激活程序窗口(&C)
+
+S&how options to change the name and location of the torrent data
+在 Torrent 数据中显示可改变名称与位置的选项
+
+ Actions for Double Click *
+ 双击操作 *
+
+For seeding torrents:
+正在做种的Torrent:
+
+For downloading torrents:
+正在下载的Torrent:
+
+ Location of Downloaded Files *
+ 下载文件的保存位置 *
+
+&Put new downloads in:
+将新建下载放置到(&P):
+
+...
+...
+
+&Move completed downloads to:
+下载完成后移至(&M):
+
+...
+...
+
+&Only move from the default download directory
+只从默认下载目录移动(&O)
+
+ Location of .torrents *
+ Torrent 位置 *
+
+Store .torrents in:
+保存 Torrent 到:
+
+...
+...
+
+Move .torrents for finished jobs to:
+任务完成后将 Torrent 文件移动到:
+
+...
+...
+
+&Automatically load .torrents from:
+自动载入 Torrent 从(&A):
+
+&Delete loaded .torrents
+删除载入的 Torrent(&D)
+
+...
+...
+
+ Listening Port *
+ 监听端口 *
+
+Port used for incoming connections:
+传入连接所使用的端口:
+
+Random port
+随机端口
+
+Enable &UPnP port mapping
+启用 UPnP 端口映射(&U)
+
+&Randomize port each start
+每次启动后使用随机端口(&R)
+
+Enable &NAT-PMP port mapping
+启用 NAT-PMP 端口映射(&N)
+
+Add Windows &Firewall exception
+添加系统防火墙例外(&F)
+
+ Proxy Server *
+ 代理服务器 *
+
+T&ype:
+类型(&Y):
+
+&Proxy:
+代理(&P):
+
+P&ort:
+端口(&O):
+
+Authentication
+验证
+
+Username:
+用户:
+
+Password:
+密码:
+
+Use proxy for hostname lookups
+对于主机名查询使用代理
+
+Use proxy for peer-to-peer connections
+对于点对点连接使用代理
+
+ Proxy Privacy
+ 代理隐私
+
+Disable all local DNS lookups
+禁用所有本地 DNS 查询
+
+Disable features that leak identifying information
+禁用会泄露验证信息的功能
+
+Disable connections unsupported by the proxy
+禁用代理不支持的连接
+
+ Global Upload Rate Limiting *
+ 全局上传速度限制 *
+
+Maximum upload rate (kB/s): [0: unlimited]
+最大上传速度(KB/s): [0: 无限制]
+
+Alternate upload rate when not downloading (kB/s):
+无下载时切换上传速度为(KB/s):
+
+ Global Download Rate Limiting *
+全局下载速度限制*
+
+Maximum download rate (kB/s): [0: unlimited]
+最大下载速度(KB/s): [0: 无限制]
+
+ Global Rate Limit Options
+ 全局速度限制选项
+
+Apply rate limit to transport overhead
+应用速度限制到额外传输
+
+Apply rate limit to uTP connections
+应用速度限制到 uTP 连接
+
+Stop transfers on user interaction
+用户交互时停止传输
+
+ Number of Connections
+连接数:
+
+Global maximum number of connections:
+全局最大连接数量:
+
+Maximum number of connected peers per torrent:
+每个任务的最大连接用户数:
+
+Number of upload slots per torrent:
+每个任务的上传通道数:
+
+Use additional upload slots if upload speed < 90%
+如果上传速度小于90%则使用额外的上传通道
+
+Enable Transfer Cap
+启用传输限定
+
+ Cap Settings *
+ 限定设置 *
+
+Transfer Cap:
+传输限制:
+
+Time Period (days):
+时间期间(天): 
+
+Limit Type:
+限制类型: 
+
+Uploads
+上传
+
+Downloads
+下载
+
+Uploads + Downloads
+上传 + 下载
+
+ Usage history for selected period:
+ 选定期间的使用历史: 
+
+Uploaded:
+已经上传:
+
+Static
+统计
+
+Downloaded:
+已经下载:
+
+Static
+统计
+
+Uploaded + Downloaded:
+已经上传 + 已经下载
+
+Static
+统计
+
+Time period:
+时段:
+
+Static
+统计
+
+Reset History
+重置历史
+
+ Basic BitTorrent Features *
+ 基本 BitTorrent 功能 *
+
+&Enable DHT Network
+启用 DHT 网络(&E)
+
+&Ask tracker for scrape information
+向 Tracker 查询状态信息(&A)
+
+&Enable DHT for new torrents
+新建 Torrent 时启用 DHT(&E)
+
+Enable &Peer Exchange
+启用用户交换(&P)
+
+Enable &Local Peer Discovery
+启用本地用户发现(&L)
+
+&Limit local peer bandwidth
+限制本地用户带宽(&L)
+
+Enable bandwidth management [uTP]
+启用带宽管理[uTP]
+
+Enable UDP tracker support
+启用 UDP Tracker 支持
+
+IP/Hostname to report to tracker:
+向 Tracker 提交的IP/主机名:
+
+ Protocol Encryption *
+ 协议加密 *
+
+Outgoing:
+传出连接:
+
+Allow incoming legacy connections
+允许传入旧式连接
+
+ Queue Settings *
+ 队列设置 *
+
+Maximum number of active torrents (upload or download):
+最大的活动任务数(上传或下载):
+
+Maximum number of active downloads:
+最大的活动下载数:
+
+ Seeding Goal (Default Values)
+ 做种目标(默认数值)
+
+Minimum ratio (%):
+最小比率(%): 
+
+Minimum seeding time (minutes):
+最小做种时间(分): 
+
+Minimum number of available seeds:
+最少可用种子数量:
+
+&Seeding tasks have higher priority than downloading tasks
+做种任务的优先级高于下载任务(&S)
+
+ When µTorrent Reaches the Seeding Goal *
+ 当 µTorrent 达到做种目标时 *
+
+Limit the upload rate to (kB/s): [0 = stop]
+限定上传比率为(KB/s): [0 = 停止]
+
+&Enable Scheduler
+启用计划任务(&E)
+
+ Scheduler Table *
+ 计划任务列表 *
+
+ Scheduler Settings *
+ 计划任务设置 *
+
+Limited upload rate (kB/s):
+限制上传速度为(KB/s):
+
+&Disable DHT when turning off
+关闭时禁用 DHT 网络
+
+Limited download rate (kB/s):
+限制下载速度为(KB/s):
+
+µTorrent Remote provides an easy and highly secure way of accessing your client through a browser.
+μTorrent 远程控制提供简单和安全的方法用浏览器来访问您的客户端。
+
+Just enable the connection below, choose a computer name and password and remember to leave this computer on.
+启用下面的连接，选择计算机名和密码并保持该计算机开机。
+
+Learn More
+进一步了解
+
+Enable µTorrent Remote Access
+启用μTorrent远程控制
+
+ Authentication *
+ 验证 *
+
+&Computer name:
+计算机名(&C):
+
+&Password:
+密码(&P):
+
+* Your computer name can be anything you choose.
+* 您的计算机名可以任意指定。
+
+Static
+统计
+
+Visit http://remote.utorrent.com/ and enter this computer name and password.
+访问 http://remote.utorrent.com/ 并输入该计算机名和密码。
+
+Set Security Question
+设置安全问题
+
+<a>SysLink1</a>
+<a>SysLink1</a>
+
+For a new torrent, always convert it for playback on the selected devices:
+对新的Torrent, 在以下选中设备上总是将它转换为可播放:
+
+Enable &Web UI
+启用网页界面(&W)
+
+ Authentication *
+ 验证 *
+
+&Username:
+用户(&U):
+
+&Password:
+密码(&P):
+
+Enable &Guest account with username:
+启用访客帐户所使用的用户名(&G):
+
+ Connectivity *
+ 连接设置 *
+
+Alternative &listening port (default is the connection port):
+可选监听端口(&L)(默认为连接端口):
+
+&Allow access only from these IPs (separate multiple entries with a comma):
+只允许以下IP地址访问(逗号分割)(&A):
+
+Download directories
+下载目录
+
+Add
+添加
+
+Remove
+移除
+
+ Advanced Options [WARNING: Do not modify!] *
+ 高级选项 [警告: 请勿修改！] *
+
+&Filter:
+过滤器(&F):
+
+&Value:
+参数(&V):
+
+&True
+True(&T)
+
+&False
+False(&F)
+
+&Set
+设置(&S)
+
+&Reset
+重置(&R)
+
+ Speed Popup List [Separate multiple values with a comma]
+ 速度弹出列表 [用逗号分隔多重数值]
+
+&Override automatic speed popup list
+覆盖自动速度弹出列表(&O)
+
+Upload speed list:
+上传速度列表:
+
+Download speed list:
+下载速度列表:
+
+ Persistent Labels [Separate multiple labels with a | character]
+ 永久标签 [请用 | 字符分隔多个标签]
+
+ Search Engines [Format: name|URL] *
+ 搜索引擎 [格式: 名称|链接] *
+
+ Basic Cache Settings *
+ 基本缓存设置 *
+
+The disk cache is used to keep frequently accessed data in memory to reduce the number of reads and writes to the hard drive. µTorrent normally manages the cache automatically, but you may change its behavior by modifying these settings.
+磁盘缓存的作用是将用户频繁访问的数据保存在内存中，从而减少读写硬盘的次数。µTorrent 通常自动管理缓存，但您可以通过修改以下设置更改其操作模式。
+
+&Override automatic cache size and specify the size manually (MB):
+手动指定缓存大小以覆盖自动设置的缓存大小(MB)(&O):
+
+&Reduce memory usage when the cache is not needed
+不需要缓存时减少内存的使用量(&R)。
+
+ Advanced Cache Settings *
+ 高级缓存设置 *
+
+Enable caching of disk &writes
+启用磁盘写入缓存(&W)
+
+Wr&ite out untouched blocks every 2 minutes
+每 2 分钟写入未使用的区块(&I)
+
+Wri&te out finished pieces immediately
+立即写入已下载完毕的区块(&T)
+
+Enable caching of disk &reads
+启用磁盘读取缓存(&R)
+
+Turn off read caching if the upload speed is slow
+如果上传速度较低则关闭读取缓存
+
+Remove old blocks from the cache
+从读取缓存中移除较旧的缓存区块
+
+Increase automatic cache size when cache thrashing
+缓存超负荷时增加自动缓存的大小
+
+ Run Program
+ 运行程序
+
+Run this program when a torrent finishes:
+当下载完成时运行此程序: 
+
+...
+...
+
+Run this program when a torrent changes state:
+当状态变更时运行此程序: 
+
+...
+...
+
+Use Label and Directory Rules
+使用标题和目录规则
+
+Auto Label *
+自动标题 *
+
+Label:
+标签:
+
+Contains:
+包含:
+
++
++
+
+-
+-
+
+Label-Directory Mapping
+标题-目录映射
+
+...
+...
+
++
++
+
+-
+-
+
+Forget Paired Device
+移除已配对设备
+
+Paired Devices
+已配对设备
+
+Setup Guide
+设置向导
+
+ Bandwidth
+ 带宽
+
+Your Upload Speed:
+您的上传速度:
+
+Settings
+设置
+
+Upload Limit:
+上传限制:
+
+Static
+统计
+
+Upload Slots:
+上传通道:
+
+Static
+统计
+
+Connections (per-torrent):
+连接数 (每个 Torrent):
+
+Static
+统计
+
+Connections (global):
+连接数 (全局):
+
+Static
+统计
+
+Max active torrents:
+最大的活动任务数:
+
+Static
+统计
+
+Max active downloads:
+最大的下载任务数:
+
+Static
+统计
+
+ Network
+ 网络
+
+Current Port: (0:random)
+当前端口: (0:随机)
+
+Automatic Port Mapping (Recommended)
+自动端口映射 (推荐)
+
+&Cancel
+取消(&C)
+
+&Run tests
+运行测试(&R)
+
+&Save && Close
+保存并关闭(&S)
+
+Don't show this again
+不要再次询问
+
+Copy
+复制
+
+Name of Torrent:
+Torrent 名称:
+
+Done
+完成率
+
+File Name(s):
+文件名称(s):
+
+Share link:
+分享链接:
+
+BODY COPY
+全部复制
+
+Your computer and µTorrent must be on and serving your content at the time somebody is downloading it.
+您的电脑和 μTorrent 要保持开启, 当有人下载时就可以分享内容.
+
+Failed to create the requested torrent
+无法新建请求的 Torrent
+
+Stats Service
+统计服务
+
+Display
+显示
+
+Clear
+清除
+
+Reset
+重置
+
+Load
+载入
+
+Save
+保存
+
+Transmit
+传输
+
+Close
+关闭
+
+µTorrent Automatic Shutdown
+µTorrent 自动关闭
+
+&Cancel
+取消(&C)
+
+uTorrent Shutdown Information
+uTorrent 关闭信息
+
+Exit Now
+立即退出
+
+Disk Jobs:
+磁盘任务:
+
+Time until automatic exit:
+自动退出前的时间:
+
+Trackers:
+Trackers:
+
+1 minute
+1分钟
+
+Speed Guide
+速度设置向导
+
+&Run speed test at:  www.dslreports.com
+通过  www.dslreports.com 测试网络速度(&R)
+
+Connection Type:
+连接类型:
+
+ Affected Settings *
+ 影响设置 *
+
+Upload Limit:
+上传限制:
+
+Upload Slots:
+上传通道:
+
+Connections (per-torrent):
+连接数 (每个 Torrent):
+
+Connections (global):
+连接数 (全局):
+
+Max active torrents:
+最大的活动任务数:
+
+Max active downloads:
+最大的下载任务数:
+
+Current Port: [0: auto]
+当前端口[0: 自动]:
+
+&Test if port is forwarded properly
+测试端口转发是否正确(&T)
+
+&Cancel
+取消(&C)
+
+&Use Selected Settings
+使用选定设置(&U)
+
+Security Scan Warning
+安全扫描警报
+
+OK
+确定
+
+This file has been altered from its original state and could contain files that harm your computer.
+该文件被修改可能包含损坏您计算机的文件.
+
+We recommend downloading a clean version directly from the content provider's website.
+我们建议从内容提供方网站直接下载干净的版本.
+
+µTorrent Streaming Feedback
+µTorrent Streaming Feedback
+
+Please tell us about your streaming experience.
+Please tell us about your streaming experience.
+
+Comments
+说明
+
+OK
+确定
+
+Cancel
+取消
+
+Torrent Properties
+Torrent 属性
+
+OK
+确定
+
+Cancel
+取消
+
+ Trackers (separate tiers with an empty line) *
+ Tracker (用一个空行来分割) *
+
+ Bandwidth Settings *
+ 带宽设置 *
+
+Maximum upload rate (kB/s): [0: default]
+最大上传速度(KB/s): [0: 默认]
+
+Maximum download rate (kB/s): [0: default]
+最大下载速度(KB/s): [0: 默认]
+
+Number of upload slots: [0: default]
+上传通道数: [0: 默认]
+
+ Seeding Goal
+ 做种目标
+
+&Override default settings
+替代默认设置(&O)
+
+Minimum ratio (%):
+最小比率(%): 
+
+Minimum seeding time (minutes):
+最小做种时间(分): 
+
+Minimum number of available seeds:
+最少可用种子数量:
+
+ Other Settings *
+ 其它设置 *
+
+&Initial Seeding
+初始做种(&I)
+
+&Peer Exchange
+用户交换(&P)
+
+&Enable DHT
+启用 DHT(&E)
+
+&Local Peer Discovery
+本地用户发现(&L)
+
+Web Seeds
+网络种子
+
+ Run Program *
+ 运行程序 *
+
+Run this program when the download finishes:
+在下载完成时运行此程序:
+
+...
+...
+
+You can use these commands:\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%S - State of torrent\r\n%L - Label\r\n%T - Tracker
+您可以使用以下命令:\r\n%F - 下载文件的名称 (单文件 Torrent 适用)\r\n%D - 文件保存的目录\r\n%N - Torrent 的标题\r\n%S - Torrent 的状态\r\n%L - 标签\r\n%T - Tracker
+
+%M - Status message string (status column)\r\n%I - hex encoded info-hash\r\n%K - kind of torrent (single|multi)\r\n\r\nState: combo of:\r\nstarted=1, checking=2, start-after-check=4,\r\nchecked=8, error=16, paused=32, auto=64, loaded=128
+%M - 状态信息 (状态栏)\r\n%I - 十六进位制特征码\r\n%K - Torrent类型 (单一文件|多个文件)\r\n状态是以下的组合: 已开始 = 1, 检查中 = 2, 检查后开始 = 4,\r\n已检查 = 8, 错误 = 16, 已暂停 = 32, 自动 = 64, 已载入 = 128
+
+Update URL
+Update URL
+
+Dialog
+Dialog
+
+OK
+确定
+
+Cancel
+取消
+
+µTorrent Visualization
+µTorrent 可视化效果
+
+Close
+关闭
+
+Converted
+已转换
+
+A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you like to downgrade to %d.%d.%d build %d?\nChoose "No" to continue running µTorrent.
+A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you like to downgrade to %d.%d.%d build %d?\nChoose "No" to continue running µTorrent.
+
+Downloading %s ...
+下载中 %s ...
+
+Failed to download translation. Please try again.
+Failed to download translation. Please try again.
+
+Your translations are up to date.
+Your translations are up to date.
+
+Edit RSS Feed
+编辑 RSS 订阅
+
+Failed to download your Pro licence key. Please try again.
+Failed to download your Pro licence key. Please try again.
+
+torrent is not valid bencoding
+该 Torrent 编码无效
+
+Invalid download state, try resuming
+无效下载状态，正在尝试恢复
+
+invalid 'file' field
+无效的'file'区域
+
+torrent info-hash does not match magnet link
+Torrent 特征码与 Magnet 链接不匹配
+
+invalid path in torrent
+无效的 Torrent 路径
+
+Invalid torrent file
+无效的 Torrent 文件
+
+out of memory
+内存不足
+
+Torrent contains no name field
+没有包含名称区域
+
+torrent contains no piece hashes
+没有区块校验码
+
+torrent contains no pieces
+没有包含区块
+
+unable to parse magnet URI
+unable to parse magnet URI
+
+torrent contains too many pieces (%Ld)
+Torrent 包含过多区块 (%Ld)
+
+Torrent file changed
+Torrent 文件已改变
+
+unsupported piece size (%Z)
+不支持的区块大小 (%Z)
+
+unsupported torrent size (%Z)
+不支持的 Torrent 大小 (%Z)
+
+&Clear Feed History
+清除订阅历史(&C)
+
+&Delete Feed
+删除订阅(&D)
+
+Dis&able Feed
+禁用订阅(&A)
+
+&Edit Feed...
+编辑订阅(&E)
+
+En&able Feed
+启用订阅(&A)
+
+&Update Feed
+更新订阅(&U)
+
+ffmpeg Process aborted with error %d. Unknown error\nMore information may be found in the transcript log at %%appdata%%\\\\%S\\\\media
+ffmpeg 因错误被终止 %d. 未知错误\n更多信息可能会在记录日志中找到 %%appdata%%\\\\%S\\\\media
+
+Transcode process failed to start
+Transcode 进程启动出错
+
+File move target %s already exists.  Overwrite?
+文件移动目标 %s 已经存在。覆盖？
+
+File already exists.
+文件已存在.
+
+1
+1
+
+2
+3
+
+3
+3
+
+Filter My Torrents
+过滤我的 Torrent
+
+Search the web for content
+在网页上搜索内容
+
+A web page showing results will launch
+一个显示有结果的网页将被加载
+
+... There is no step three!
+... 没有第三步！
+
+Manage Search Providers...
+管理搜索提供者...
+
+Think content titles, how-to descriptions, etc.
+考虑内容标题，如何描述，等等
+
+You will see links to Torrent files,\nclick on what you want.
+您将看见 Torrent 文件链接，\n单击您需要的链接。
+
+But you can alternately copy and paste Torrent URLs into the client.
+But you can alternately copy and paste Torrent URLs into the client.
+
+Problem
+问题
+
+Not Scanned
+未扫描
+
+Quarantined
+已隔离
+
+Queued
+排队中
+
+Scanning
+扫描中
+
+Updating definitions
+更新特征库
+
+Scanned
+已扫描
+
+Codecs
+编码
+
+Path
+路径
+
+For device
+为设备
+
+Done
+完成率
+
+Duration
+时间
+
+Encoding
+编码
+
+Time Left
+剩余时间
+
+First Piece
+首个区块
+
+Has header
+拥有头部
+
+Media Length
+媒体长度
+
+Mode
+模式
+
+Name
+名称
+
+# Pieces
+区块数
+
+#
+#
+
+%
+完成率
+
+Pieces
+区块视图
+
+Play
+播放
+
+Priority
+优先级
+
+Rate
+速度
+
+Resolution
+分辨率
+
+Size
+大小
+
+Status
+状态
+
+Streamable
+可串流
+
+Playback
+播放
+
+Torrent
+Torrent
+
+#Transfers
+#传输
+
+Media
+Media
+
+*
+*
+
+read
+读取
+
+write
+写入
+
+skip
+跳过
+
+low
+较低
+
+normal
+正常
+
+high
+较高
+
+There was an error opening %s.\r\n\r\nMaybe the file hasn't been fully downloaded yet?
+您尝试打开 %s 时出错。\r\n\r\n可能文件还没有完全下载？
+
+failed to launch player\n\n[%s]
+无法打开播放器\n\n[%s]
+
+Failed to open browser\n\n [%S]
+无法打开浏览器\n\n [%S]
+
+There is no media player associated with the %s%sfile type.
+没有默认播放 %s%s文件类型的媒体播放程序。
+
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff from %s. \n\n Your free stuff is one click away.
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff from %s. \n\n Your free stuff is one click away.
+
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff. \n\n Your free stuff is one click away.
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff. \n\n Your free stuff is one click away.
+
+YOU JUST ADDED A BITTORRENT BUNDLE
+YOU JUST ADDED A BITTORRENT BUNDLE
+
+Update
+Update
+
+View
+显示
+
+Before you delete %s, have you unlocked all the free content? One click and you'll get more. *
+Before you delete %s, have you unlocked all the free content? One click and you'll get more. *
+
+Before you delete, have you unlocked all the free content? One click and you'll get more. *
+Before you delete, have you unlocked all the free content? One click and you'll get more. *
+
+BUT WAIT. THIS BUNDLE HAS MORE.
+BUT WAIT. THIS BUNDLE HAS MORE.
+
+The BitTorrent Bundle has new content available. Click update to get the new content!
+The BitTorrent Bundle has new content available. Click update to get the new content!
+
+The BitTorrent Bundle %s has new content available. Click update to get the new content!
+The BitTorrent Bundle %s has new content available. Click update to get the new content!
+
+NEW BUNDLE CONTENT AVAILABLE
+NEW BUNDLE CONTENT AVAILABLE
+
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+
+NEW BUNDLE CONTENT HAS DOWNLOADED
+NEW BUNDLE CONTENT HAS DOWNLOADED
+
+&Copy
+复制(&C)
+
+uTorrent lets you download the content you want, in just three simple steps.
+uTorrent 让您透过三个简单步骤下载您想要的内容.
+
+To FIND what you're after, click here to browse through exciting content from our growing list of partners such as TEDTalks and Vodo Movies.
+要搜索您想要的东西, 点击这里浏览我们的伙伴如TEDTalks和Vodo Movies提供的刺激内容。
+
+OR enter a search term to explore the world of torrents.
+或输入关键字并在 Torrent 全球查找。
+
+Be prepared.
+准备好了。
+
+You will leave uTorrent and your browser will open to unaffiliated Web sites.
+您将离开 uTorrent 同时打开浏览器在第三方网站上查找。
+
+Some sites will have many links -
+一些网站会有很多链接 -
+
+remember you're looking for a link to a torrent download.
+请记住您在搜索 Torrent 的下载链接
+
+If you did the first step correctly, you will have downlaoded a file that ends in (dot) torrent
+如果您的第一步正确， 您将会下载到一个以 .torrent 结尾的文件
+
+Simply open the file,
+只要打开该文件，
+
+and then return to uTorrent and click here to watch the action as uTorrent trades bits and pieces with others until you have a complete torrent file.
+然后回到 uTorrent 并点击这里以查看整个文件的传输过程， 直到文件完成下载.
+
+Finally, once your download is complete,
+最后， 当您的下载完成后，
+
+options such as PLAY will be selectable.
+开启相关应用程序, 例如播放程序。
+
+With Utorrent, downloading the content you want is made simple
+使用 uTorrent, 下载您想要的文件将变得非常简单。
+
+Availability:
+健康程度:
+
+[DHT]
+[DHT]
+
+announcing...
+通告中...
+
+disabled
+已禁用
+
+inactive
+不活动
+
+not allowed
+不允许
+
+waiting for announce...
+等待通告...
+
+working
+工作中
+
+%z/s
+%z/s
+
+Downloaded:
+已经下载:
+
+ [Limited]
+ [限制]
+
+%z/s (avg. %Z/s)
+%z/s (平均 %Z/s)
+
+%z/s
+%z/s
+
+General
+常规
+
+%#Z (%d hashfails)
+%#Z (%d个散列错误)
+
+[Local Peer Discovery]
+[本地用户发现]
+
+disabled
+已禁用
+
+inactive
+不活动
+
+not allowed
+不允许
+
+working
+工作中
+
+*
+*
+
+[Peer Exchange]
+[用户交换]
+
+disabled
+已禁用
+
+inactive
+不活动
+
+not allowed
+不允许
+
+working
+工作中
+
+%d x %#z (have %u)
+%d x %#z (存在 %u)
+
+scrape not supported
+不支持状态查询
+
+scrape ok
+状态查询成功
+
+scraping
+状态查询中
+
+%#Z (%#Z done) (%#Z total)
+%#Z (完成 %#Z) (总计 %#Z)
+
+%#Z (%#Z done)
+%#Z (%#Z 完成)
+
+Time Elapsed:
+已用时间:
+
+Downloaded:
+已经下载:
+
+Uploaded:
+已经上传:
+
+Seeds:
+种子数量:
+
+Remaining:
+剩余时间:
+
+Download Speed:
+下载速度:
+
+Upload Speed:
+上传速度:
+
+Peers:
+用户数量:
+
+Share Ratio:
+分享率:
+
+Down Limit:
+下载限制:
+
+Up Limit:
+上传限制:
+
+Wasted:
+丢弃数据:
+
+Save As:
+文件位置:
+
+Pieces:
+区块数量:
+
+Comment:
+说明:
+
+Total Size:
+总计大小:
+
+Hash:
+校验码:
+
+Created On:
+创建时间:
+
+Status:
+传输状态:
+
+Transfer
+传输
+
+disabled
+已禁用
+
+updating...
+更新中...
+
+%z/s
+%z/s
+
+%z/s (avg. %Z/s)
+%z/s (平均 %Z/s)
+
+%z/s
+%z/s
+
+%d of %d connected (%d in swarm)
+%d/%d 已连接 (缓存: %d)
+
+Bytes Read - Time
+读取字节 - 时间
+
+Bytes Written - Time
+写入字节 - 时间
+
+Number of Reads - Time
+读取次数 - 时间
+
+Number of Writes - Time
+写入次数 - 时间
+
+Transfer Cap is Not Set
+Transfer Cap is Not Set
+
+Disk Statistics
+Disk Statistics
+
+Disk Timing
+Disk Timing
+
+Download
+下载
+
+Grid: %d days
+网格: %d 天
+
+Network Overhead
+Network Overhead
+
+%d days
+%d 天
+
+%#z of %#z
+%#z 于 %#z
+
+Streaming
+串流
+
+Transfer Cap
+传输限制
+
+Transfer History
+Transfer History
+
+Upload
+上传
+
+Upload & Download
+Upload & Download
+
+uTP Delay
+uTP Delay
+
+Grid: 10 seconds
+格线: 10 秒
+
+Grid: 1 minute
+格线: 1 分钟
+
+Grid: 5 minutes
+格线: 5 分钟
+
+Grid: 1 hour
+格线: 1 小时
+
+Time (%s step)
+时间 (每 %s)
+
+1 second
+1 秒
+
+5 seconds
+5 秒
+
+30 seconds
+30 秒
+
+5 minutes
+5 分钟
+
+k\nB\n/\ns
+K\nB\n/\ns
+
+m\ns
+m\ns
+
+Could not download help file. Error: %s
+无法下载帮助文件。错误: %s
+
+Help file not found in settings directory, attempting to download
+无法在设置目录中找到帮助文件，尝试下载
+
+Cannot launch help file, as it is still downloading
+无法执行帮助文件，仍在下载过程中
+
+Invalid redirect (%S)
+无效重定向(%S)
+
+invalid http reply
+无效 HTTP 响应
+
+invalid transfer encoding
+无效传输编码
+
+invalid URL
+无效链接
+
+can't open file
+无法打开文件
+
+can't unzip
+无法解压
+
+unable to write to file
+无法写入文件
+
+unable to write to file
+无法写入文件
+
+Too many redirects (%S)
+重定向过多 (%S)
+
+A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you like to downgrade to %d.%d.%d build %d?\nClicking "No" runs your installed version of µTorrent.
+A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you like to downgrade to %d.%d.%d build %d?\nClicking "No" runs your installed version of µTorrent.
+
+A newer version of µTorrent is already running.
+A newer version of µTorrent is already running.
+
+An older version of µTorrent is already running.
+An older version of µTorrent is already running.
+
+Please shut down µTorrent and try again *
+Please shut down µTorrent and try again *
+
+Incomplete
+不完整
+
+Installing %s ...
+正在安装 %s ...
+
+I &Agree
+我同意(&A)
+
+Seamlessly update to the latest, most secure version of µTorrent.
+Seamlessly update to the latest, most secure version of µTorrent.
+
+Automatic Updates
+自动更新
+
+Choose Install Options
+Choose Install Options
+
+Choose a directory to put the application file in:
+选择放置应用程序的目录:
+
+Select µTorrent configurations (recommended settings are pre-selected)
+选择 µTorrent 配置(推荐设置已选中)
+
+Configuration
+配置
+
+&Finish
+完成(&F)
+
+Select "Accept" or "Decline".
+选择"接受"或"拒绝".
+
+By clicking "I Agree", you acknowledge that you have read and agree to the End User License Agreement and <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>.
+By clicking "I Agree", you acknowledge that you have read and agree to the End User License Agreement and <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>.
+
+Scroll down to see the rest of the agreement.
+向下滚动以查看协议的剩余部分。
+
+&Next >
+下一步(&N) >
+
+Please review the license terms before installing µTorrent
+请在安装前审阅许可条款
+
+License Agreement
+许可协议
+
+Beware of online scams! A number of websites have taken our free µTorrent client and attempt to charge money for it through some sort of "fee" or "subscription" or else they install it for free but infect your computer with malicious code in the process. To protect yourself, be sure to only download our software from http://www.utorrent.com. You should NEVER under any circumstances pay for free µTorrent software.
+请注意网络欺诈！很多网站采用我们免费的 µTorrent 客户端并试图通过某种“费用”或“捐助”的方式进行收费，或通过免费安装的方式在您的电脑进程中安装恶意软件。要保护您自己，请仅在我们的网站 http://www.utorrent.com 下载软件。您不应在任何情况下为我们免费的 µTorrent 软件付费。
+
+From BitTorrent, Inc. - the publishers of µTorrent
+来自 BitTorrent, Inc. - µTorrent 的发布人
+
+Warning
+警告
+
+&Upgrade
+&Upgrade
+
+Unsupported Operating System (OS)
+不支持的操作系统 (OS)
+
+NOTICE
+注意
+
+This wizard will guide you through the installation of %s®, the #1 torrent download client on desktops and mobile devices worldwide.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s) by BitTorrent, Inc.\r\n\r\nClick Next to continue.
+This wizard will guide you through the installation of %s®, the #1 torrent download client on desktops and mobile devices worldwide.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s) by BitTorrent, Inc.\r\n\r\nClick Next to continue.
+
+This wizard will guide you through the installation of the official %s® torrent download client from BitTorrent Inc., the inventors of the BitTorrent protocol.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+This wizard will guide you through the installation of the official %s® torrent download client from BitTorrent Inc., the inventors of the BitTorrent protocol.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+
+Welcome to the µTorrent® Setup Wizard
+Welcome to the µTorrent® Setup Wizard
+
+%s does not not support the Windows 2000 OS and may not\r\nrun properly.  We recommend you upgrade to\r\na newer Windows OS.
+%s 不支持 Windows 2000 或无法正常运行。\r\n建议您升级到新版 Windows 操作系统。
+
+Invalid folder specified. Please choose another folder.
+指定的目录无效，请选择其他目录。
+
+Invalid queue indicator
+无效队列指示
+
+Failed to add file to iTunes\n%s\nerror: %d
+无法添加文件到 iTunes\n%s\n错误: %d
+
+Kill hanging %s processes?
+Kill hanging %s processes?
+
+There were errors loading the language file. Please see the file uTorrent.exe.log in the application directory.
+载入语言文件时出现错误。请查看程序目录中的 uTorrent.exe.log 文件。
+
+Testing alternate servers...
+测试替代服务器...
+
+The install of %s failed.\n(%s)
+安装 %s 失败。\n(%s)
+
+&Add Tracker...
+添加 Tracker(&A)...
+
+Clear &all logging flags
+清除所有的日志标识(&A)
+
+Enter logfile
+输入日志文件
+
+Enter the name of the file to log to:
+输入保存日志的文件名:
+
+Log aggregated messages
+记录聚合数据消息
+
+Log blocked connections
+记录拦截连接
+
+Clear &Log
+清除日志(&L)
+
+&Copy
+复制(&C)
+
+Dump DHT &Buckets
+显示 DHT 节点信息(&B)
+
+Dump DHT &Tracked
+显示 DHT 连接信息(&T)
+
+Log disconnects
+记录断开连接
+
+&Error Logging
+记录错误(&E)
+
+Log bad cancels
+记录坏的取消
+
+Log bad donthaves
+Log bad donthaves
+
+Log bad haves
+记录坏的获取
+
+Log bad piece requests
+记录坏的请求
+
+Log bad rejections
+记录坏的拒绝
+
+Log incoming donthave messages
+Log incoming donthave messages
+
+Log incoming have messages
+记录传入获取消息
+
+Log holepunch
+记录打洞
+
+Log incoming connections
+记录传入连接
+
+&Dump Memory Info
+转储内存信息(&D)
+
+Log finished metadata
+记录完成的元数据
+
+Log misc errors
+记录其他错误
+
+Log NATPMP messages
+记录 NATPMP 消息
+
+Log NATPMP errors
+记录 NATPMP 错误
+
+Dump &Network Info
+转存 &网络数据
+
+Log outgoing connections
+记录传出连接
+
+&Peer Traffic Logging
+记录用户通讯信息(&P)
+
+Log PEX
+记录 PEX
+
+Log piece picker
+记录块分拣
+
+Log RSS messages
+RSS 日志消息
+
+Log RSS errors
+RSS 日志错误
+
+Log outgoing have messages
+记录传出获取消息
+
+Dump &Sockets
+转存 &Sockets
+
+Log to &file...
+保存日志到文件(&F)...
+
+Log unchoke errors
+记录疏通错误
+
+Log UPnP messages
+记录 UPnP 消息
+
+Log UPnP errors
+记录 UPnP 错误
+
+&Verbose Logging
+详细日志(&V)
+
+Log WebUI requests
+记录网页界面请求
+
+&Remove Tracker
+移除 Tracker(&R)
+
+&Update Tracker
+更新 Tracker(&U)
+
+Use &DHT
+使用 DHT(&D)
+
+Use &Local Peer Discovery
+使用本地用户发现(&L)
+
+Use &Peer Exchange
+使用用户交换(&P)
+
+Unable to contact update server.
+Unable to contact update server.
+
+Unable to load "%s": %s!
+未能载入 "%s": %s！
+
+Unable to load "%s": %s!
+未能载入 "%s": %s！
+
+Unable to save the resume file. Some data may be lost.\r\nAnother program might have the file open, or the disk is full. Please correct this and click Retry. If you press Cancel, the resume file will not be saved.
+无法保存续传文件。一些数据可能丢失。\r\n可能被其他程序占用，或磁盘已满。请更正后再重试。如果您选择取消，将不会保存续传文件。
+
+Unable to save the resume file. Another program might have the file open, or the disk is full.
+无法保存续传文件。可能被其他程序占用，或磁盘已满。
+
+Unable to copy .torrent from '%s' to '%s': (%d) %s
+无法将 Torrent 文件从 '%s' 复制到 '%s': (%d) %s
+
+Unable to verify the integrity of µTorrent's update server.
+无法校检 µTorrent 更新服务器的完整性。
+
+Choose where to download '%s' to:
+选择下载 '%s' 到:
+
+Choose where to save %s
+选择保存 %s 到
+
+Failed to connect to %s Remote because your client is not compatible.\n\nWould you like to upgrade to the latest client?\n
+Failed to connect to %s Remote because your client is not compatible.\n\nWould you like to upgrade to the latest client?\n
+
+Some software installed on your computer prevents %s\nfrom working properly. This is possibly caused by the following DLLs '%S %S'
+您计算机上安装的一些软件阻止 %s\n正常工作。这可能是由以下DLL文件造成的: '%S %S'
+
+Last %d days
+持续 %d 天
+
+DHT: Disabled
+DHT: 禁用
+
+ (Login)
+ (登录)
+
+DHT: %d nodes%s
+DHT: %d 个节点 %s
+
+ (Updating)
+ (更新中)
+
+DHT: Waiting to log in
+DHT: 等待登录
+
+Torrents (*.torrent)||*.torrent||All files (*.*)||*.*||
+Torrent 文件 (*.torrent)||*.torrent||所有文件 (*.*)||*.*||
+
+It looks like the file you are about to download already exists in the folder for completed downloads.\r\nDo you want to use the data in that directory instead?
+您要下载的文件似乎已经存在于下载目录中。\r\n\是否用目录中存在的数据？
+
+Abort - Don't load this torrent; just skip it.
+放弃 - 不要加载此 Torrent，跳过。
+
+No - Download the torrent from scratch.
+不 - 从暂存中下载 Torrent。
+
+Yes - Use the data in the complete folder.
+是 - 使用下载目录中的数据。
+
+%s detected '%S' (%S) appears to be installed on your computer. That is known malware, and might cause %s to crash or behave strangely, including but not limited to using up all your RAM and freezing. Please run a virus/malware checker.
+%s detected '%S' (%S) appears to be installed on your computer. That is known malware, and might cause %s to crash or behave strangely, including but not limited to using up all your RAM and freezing. Please run a virus/malware checker.
+
+Would you like to make %s the default torrent application?
+Would you like to make %s the default torrent application?
+
+You appear to be running version %02d.%02d of the NVIDIA Network Access Management tool.\n\nThis version has known issues which may create problems with %s.\n\nPlease upgrade your NVIDIA software to at least version %02d.%02d.
+You appear to be running version %02d.%02d of the NVIDIA Network Access Management tool.\n\nThis version has known issues which may create problems with %s.\n\nPlease upgrade your NVIDIA software to at least version %02d.%02d.
+
+Are you sure you want to add %d torrents?
+您确定要新增 %d 个种子吗？
+
+Are you sure you want to exit %s?
+Are you sure you want to exit %s?
+
+One or more torrents have not finished uploading.\nAre you sure you want to exit %s?
+One or more torrents have not finished uploading.\nAre you sure you want to exit %s?
+
+Registration failure%S%S
+注册失败%S%S
+
+Failure reclaiming account%S%S
+取回帐户失败%S%S
+
+Failure registering security question%S%S
+注册安全提问失败%S%S
+
+Resume file successfully saved.
+续传文件保存成功。
+
+D: %s%z/s
+下载: %s%z/s
+
+ L: %z/s
+ 本地: %z/s
+
+ O: %z/s
+ 开销: %z/s
+
+ T: %Z
+ 传输: %Z
+
+U: %s%z/s
+上传: %s%z/s
+
+Select a .torrent to open
+选择打开一个 Torrent 文件
+
+connection closed
+连接关闭
+
+%s: ERROR MSG: %s\n
+%s: 错误消息: %s\n
+
+%s: ERROR: received message type %d (expected %d)\n
+%s: 错误: 收到消息类型 %d (预期 %d)\n
+
+Connection
+连接
+
+Data read
+读取数据
+
+Data send
+发送数据
+
+\r\nUploaded this run: %#Z\r\nDownloaded this run: %#Z\r\nUploaded Today: %#Z\r\nDownloaded Today: %#Z\r\nTransferred last %d days: %#Z\r\nTotal Uploaded: %#Z\r\nTotal Downloaded: %#Z\r\nTotal Ratio: %:.3d\r\nTotal Running Time: %d:%.2d:%.2d\r\nNumber of torrents added: %d\r\nProgram launched: %d times\r\n\r\nLast launched: %s\r\n# incoming conns since start: %d\r\n# outgoing conns since start: %d\r\n# handshake: %d\r\n# connections: %d\r\n# uTP connecting: %d\r\n# TCP connecting: %d\r\n# half-open: %d (%d queued)\r\n
+\r\n本次运行上传: %#Z\r\n本次运行下载: %#Z\r\n今日上传: %#Z\r\n今日下载: %#Z\r\n最近 %d 天传输: %#Z\r\n总上传: %#Z\r\n总下载: %#Z\r\n总分享率: %:.3d\r\n总运行时间: %d:%.2d:%.2d\r\n添加的Torrent数量: %d\r\n程序启动: %d 次\r\n\r\n最后启动: %s\r\n# 启动后连入连接数: %d\r\n# 启动后连出连接数: %d\r\n# 握手次数: %d\r\n# 连接数: %d\r\n# uTP 连接数: %d\r\n# TCP 连接数: %d\r\n# 半开连接数: %d (%d 队列)\r\n
+
+Allocating files
+分配文件
+
+Disk Cache overloaded %d %%
+Disk Cache overloaded %d %%
+
+*
+*
+
+Listen error\r\nYou should change the listen port.
+监听错误\r\n您必须更换监听端口。
+
+Network OK\r\nYour network connection is working as it should.
+网络正常\r\n您的网络连接工作正常。
+
+Not connectable\r\nA firewall/router is limiting your network traffic. You need to open up a port so others can connect to you.
+未能连接\r\n防火墙/路由器限制了您的网络通讯。您需要打开一个端口以便他人连接。
+
+No incoming connections\r\nUnless the icon turns green, it could indicate a problem with your network configuration.
+无传入连接\r\n除非图标变绿，否则表明您的网络配置存在问题。
+
+Limited by scheduler
+被计划任务限制
+
+Stopped by transfer cap
+被传输限制停止
+
+Click to access the transfer cap settings
+单击访问传输限定设置
+
+Click to access the scheduler settings
+单击以访问计划任务设置
+
+Seeding only
+仅仅做种
+
+Stopped by speed test
+被速度测试停止
+
+Click to access the speed test
+点击访问速度测试
+
+Stopped by scheduler
+被计划任务停止
+
+Stopped by user activity
+由用户停止
+
+Click to access the bandwidth settings
+单击以访问带宽设置
+
+%s\r\n%d(%d) downloading, %d(%d) seeding\r\n%z/s down, %z/s up
+%s\r\n%d(%d) 个下载中 | %d(%d) 个做种中\r\n下载速度 %z/s | 上传速度 %z/s
+
+D:%s U:%s - %s
+下载:%s 上传:%s - %s
+
+Unlimited
+无限制
+
+Select a .torrent to update to
+Select a .torrent to update to
+
+Be sure to exit %s before you unplug the USB drive!
+请确认退出 %s 之后才移除 USB 驱动器!
+
+Failed to connect to %s Remote %S%S%s
+Failed to connect to %s Remote %S%S%s
+
+\n\nPress "OK" to review your login settings.
+\n\n按"确定"检查登录设置.
+
+Failed to connect to %s Remote because the username or password was wrong.\n\nWould you like to register a new account under the name "%S"?\n
+Failed to connect to %s Remote because the username or password was wrong.\n\nWould you like to register a new account under the name "%S"?\n
+
+&About µTorrent
+关于 µTorrent(&A)
+
+Add Device...
+添加设备...
+
+Add RSS Feed...
+添加 RSS 订阅...
+
+&Add Torrent...
+添加 Torrent(&A)...
+
+A&dd Torrent (choose save dir)...
+添加 Torrent 文件 (非默认位置)...
+
+Add Torrent from &URL...
+从链接添加 Torrent(&U)...
+
+&Bundle Webpage
+&Bundle Webpage
+
+Crash the client
+Crash the client
+
+&Create New Torrent...
+制作 Torrent(&C)...
+
+E&xit
+退出(&X)
+
+&File
+文件(&F)
+
+µTorrent &Forums
+µTorrent 论坛(&F)
+
+&Help
+帮助(&H)
+
+&Ad-Free Account
+&Ad-Free Account
+
+µTorrent FA&Q
+µTorrent 常见问题(&Q)
+
+µTorrent &Help
+µTorrent 帮助(&H)
+
+My &Plus Account
+My &Plus Account
+
+&Learn more about %s Pro
+&Learn more about %s Pro
+
+My &Pro Account
+My &Pro Account
+
+BitTorrent &Labs
+BitTorrent &Labs
+
+&Options
+选项(&O)
+
+&Get %s Pro
+&Get %s Pro
+
+&Preferences
+设置(&P)
+
+&Release Notes
+&Release Notes
+
+&RSS Downloader
+RSS 订阅(&R)
+
+Save default skin colors
+保存默认界面颜色
+
+Send &Beta Feedback
+发送测试版反馈(&B)
+
+Show Side&bar
+显示侧边栏(&B)
+
+Compact Category &List
+紧凑类项列表(&L)
+
+Show &Detailed Info
+显示详细信息(&D)
+
+Show &Devices
+显示设备(&D)
+
+Show &Bundles
+Show &Bundles
+
+&Download Bar
+下载栏(&D)
+
+&Narrow Toolbar
+窄工具栏(&N)
+
+Show &Status Bar
+显示状态栏(&S)
+
+&Icons on Tabs
+显示标签图标(&I)
+
+Show &Toolbar
+显示工具栏(&T)
+
+&Auto Shutdown
+自动关闭(&A)
+
+Disabled
+已禁用
+
+Quit when Downloads Complete
+下载任务完成后退出
+
+Shutdown when Everything Completes
+所有任务完成后关机
+
+Quit when Everything Completes
+所有任务完成后退出
+
+Hibernate when Downloads Complete
+下载任务完成后休眠
+
+Hibernate when Everything Completes
+所有任务完成后休眠
+
+Standby when Downloads Complete
+下载任务完成后待机
+
+Standby when Everything Completes
+所有任务完成后待机
+
+Reboot when Downloads Complete
+下载任务完成后重启
+
+Reboot when Everything Completes
+所有任务完成后重启
+
+Shutdown when Downloads Complete
+下载任务完成后关机
+
+Setup &Guide
+设置向导(&G)
+
+&Show Statistics
+显示统计(&S)
+
+Test hang report
+测试挂起报告
+
+&Download Translation
+下载语言文件(&D)
+
+&Check for Updates
+检查更新(&C)
+
+µTorrent &Webpage
+µTorrent 主页(&W)
+
+Scan for &viruses
+扫描病毒(&V)
+
+&Don't Download
+取消下载(&D)
+
+&Priority
+优先级(&P)
+
+&High
+较高(&H)
+
+&Low
+较低(&L)
+
+&Normal
+正常(&N)
+
+&Open
+打开(&O)
+
+Open &Containing Folder
+打开所在目录(&C)
+
+Copy Stream &URL
+Copy Stream &URL
+
+Prioritize by File &Order
+按照文件顺序排列优先级(&O)
+
+&Relocate...
+重定位(&R)...
+
+%s - %z/s
+%s - %z/s
+
+%s %#Z of %#Z
+%s %#Z of %#Z
+
+%s - %s remaining
+%s - %s 剩余
+
+%s - Initializing download
+%s - 启动下载
+
+%s - WARNING: Possibly insufficient sources
+%s - 警告: 可能来源不足
+
+&About App
+关于软件(&A)
+
+A&dd RSS Feed...
+添加 RSS 订阅(&D)...
+
+&Add Torrent...
+添加 Torrent(&A)...
+
+&Advanced
+高级(&A)
+
+Scan for &viruses
+扫描病毒(&V)
+
+Band&width Allocation
+带宽分配
+
+Active&X
+背景执行(&B)
+
+&Backgrounding
+&后台运行
+
+&Torrent Creation
+&Torrent 创建
+
+&Read Permission
+&读取权限
+
+&Write Permission
+&写入权限
+
+&Clear Peer List
+清理用户列表(&C)
+
+Comment
+说明
+
+Convert For
+转换
+
+Copy &Magnet URI
+复制 Magnet 链接(&M)
+
+Move Down Queue
+下移队列
+
+Move Up Queue
+上移队列
+
+Pause
+暂停
+
+Remove
+移除
+
+Start
+开始
+
+De&lete Data
+删除数据(&L)
+
+&Delete .torrent
+删除 Torrent(&D)
+
+D&elete .torrent + Data
+删除 Torrent 和数据(&E)
+
+Show Download &Bar
+显示下载栏(&B)
+
+Remove
+移除
+
+Show In Folder
+在文件夹中显示
+
+Pop in
+进入
+
+Pop out
+弹出
+
+Force Re-C&heck
+强制重校验(&H)
+
+&Force Start
+强制开始(&F)
+
+Fullscreen
+全屏
+
+Hide Devices
+隐藏设备
+
+Hide Featured Content
+隐藏特色内容
+
+Hide Now Playing
+隐藏正在播放
+
+&High
+较高(&H)
+
+Implement me!
+实施它!
+
+&Labels
+标签(&L)
+
+&Low
+较低(&L)
+
+Move &Down Queue
+下移(&D)
+
+Move &Up Queue
+上移(&U)
+
+&New Window
+新建窗口(&N)
+
+&Normal
+正常(&N)
+
+&Open
+打开(&O)
+
+Open &Containing Folder
+打开所在目录(&C)
+
+Show Converted Files
+显示已转换文件
+
+&RSS Downloader
+RSS 订阅(&R)
+
+Open URL in Bro&wser
+在浏览器中打开链接(&W)
+
+&Pause
+暂停(&P)
+
+Convert For..
+转换..
+
+Transfer To..
+传输到..
+
+Force Streaming
+强制串流
+
+Prop&erties
+属性(&E)
+
+&Remove
+移除(&R)
+
+&Remove
+移除(&R)
+
+Remove and delete .&torrent
+移除并删除 Torrent(&T)
+
+Remove and delete &Data
+移除并删除下载的数据(&D)
+
+Remove and d&elete .torrent + Data
+移除并删除 Torrent 和数据(&E)
+
+Move to &trash if possible
+如果可以则移至回收站(&T)
+
+Remove A&nd
+移除并(&N)
+
+Remove Device
+移除设备
+
+&Reset Bans
+重置阻止用户(&R)
+
+&RSS Options
+RSS 选项(&R)
+
+Send Torrent
+发送 Torrent
+
+Set Destination &Name...
+Set Destination &Name...
+
+Set &Download Limit
+设置下载限制(&D)
+
+S&et Download Location...
+设置下载位置(&E)...
+
+Set &Upload Limit
+设置上传限制(&U)
+
+&Start
+开始(&S)
+
+S&top
+停止(&S)
+
+&Torrent Options
+Torrent 选项(&T)
+
+&Uninstall App
+卸载软件(&U)
+
+&Unlock Torrent
+&Unlock Torrent
+
+Update Tor&rent...
+Update Tor&rent...
+
+Update Trac&ker
+更新 Tracker(&K)
+
+Alt+
+Alt+
+
+Ctrl+
+Shift+
+
+Shift+
+Shift+
+
+More than 5 hours
+超过5小时
+
+Error moving file: %S (%d)
+删除文件出错: %S (%d)
+
+&Add Peer...
+添加用户(&A)...
+
+&Whole peer list
+&完整用户列表
+
+C&opy Selected Hosts
+复制选定主机(&O)
+
+&Copy Peer List
+复制用户列表(&C)
+
+&Log piece info...
+记录区块信息(&L)...
+
+Reload &IPFilter
+重新载入&IPFilter
+
+&Resolve IPs
+解析 IP 地址(&R)
+
+&Log Traffic to Logger Tab
+记录通讯到日志窗口(&L)
+
+Failed to relocate file %s, %s
+无法移动文件 %s, %s
+
+Today is your lucky day! %s will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+Today is your lucky day! %s will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+
+Today is your lucky day! we will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+Today is your lucky day! we will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+
+In order to gain access to any free updates from %s, you have to keep it in your queue. Easy, right?
+In order to gain access to any free updates from %s, you have to keep it in your queue. Easy, right?
+
+In order to gain access to any free updates, you have to keep the torrent file in your queue. Easy, right?
+In order to gain access to any free updates, you have to keep the torrent file in your queue. Easy, right?
+
+Read bad message
+读取错误消息
+
+Bad port number
+错误端口数
+
+Bad Port number received
+收到错误端口号
+
+Failed bind
+失败绑定
+
+Checking for forwarded port
+检测转送端口
+
+Checking intermediate networks ...
+检测中间网络...
+
+Server does not support this client
+服务器不支持此客户端
+
+Failure closing socket
+关闭套接字失败
+
+A local networking problem closed the connection.
+一个本地网络问题关闭此连接。
+
+The server is down.
+服务器已关闭。
+
+Server closed the connection.
+服务器关闭此连接。
+
+System Call failed: CreateEvent
+系统寻呼失败: 创建事件
+
+System Call failed: CreateThread
+系统寻呼失败: 创建线程
+
+Download
+下载
+
+Protocol error in download test
+下载测试中协议错误
+
+Problem reading download speed from server.
+从服务器读取下载速度出现问题
+
+Download test: wrong message type
+下载测试: 错误消息类型
+
+Unexpected empty message body
+意外的空消息内容
+
+%s error: %s (%d)
+%s 错误: %s (%d)
+
+Connection failed
+连接失败
+
+Failure reading message body
+读取消息内容失败
+
+Internal Error
+内部错误
+
+Invalid message argument sending message
+正在发送的消息中有不正确参数
+
+Invalid test ID
+无效测试 ID
+
+Error logging in: Couldn't receive test order
+错误日志: 无法接受测试指令
+
+Error logging in: version check
+错误日志: 版本检测
+
+Lookup
+查找
+
+Failed hostname lookup
+主机名查找失败
+
+Message too large
+消息太大
+
+Middlebox
+中间体
+
+Wrong message at end of test
+测试最后的错误消息
+
+Timed out waiting for message from server.
+等待服务器消息超时
+
+Please check your networking configuration.
+请检测您的网络配置
+
+Problem logging into server
+记录至服务器错误
+
+Protocol error - message type out of range
+协议错误 - 消息类型超范围
+
+Problem reading midbox download speed.
+读取中间体下载速度错误
+
+Problem reading upload speed.
+读取上传速度错误
+
+Error sending message body
+发送消息内容错误
+
+Error sending message header
+发送消息头错误
+
+Server Busy: Too many clients waiting in queue, please try again later
+服务器忙: 过多客户端等待队列，请稍候再试
+
+Server Busy: Please wait 60 seconds for the current test to finish
+服务器忙: 请等待 60 秒以便当前测试结束
+
+Server Connection:
+服务器连接:
+
+Server version is too old.
+服务器版本过旧。
+
+Simple firewall
+简单防火墙
+
+Results: Upload: *
+结果: 上传: *
+
+)     Download: *
+)  下载: *
+
+Results: Speed test aborted by user.
+结果: 用户放弃速度测试。
+
+Results: Speed test failed.
+结果: 速度测试失败。
+
+Running Download test ...
+正在运行下载测试...
+
+Download: TEST_START
+下载: TEST_START
+
+Sending Metadata ...
+正在发送元数据...
+
+Metadata: TEST_START
+元数据：TEST_START
+
+Running Upload test ...
+正在运行上传测试...
+
+Failure while decoding test order
+解码测试指令失败
+
+Connect failure
+连接失败
+
+Read failure
+读取失败
+
+Error reading TEST_PREPARE message
+读取 TEST_PREPARE 消息错误
+
+Timed out.
+超时。
+
+Upload
+上传
+
+Upload: TEST_START
+上传: TEST_START
+
+Problem reading web100 variables.
+读取 web100 变量错误。
+
+Added On:
+添加日期:
+
+Completed On:
+完成日期:
+
+Created By:
+创建于:
+
+No
+否
+
+Go to Bundles to get torrents.
+Go to Bundles to get torrents.
+
+Access violation
+访问冲突
+
+Array bounds exceeded
+阵列跨越超过
+
+Breakpoint
+断点
+
+connection closed by peer
+被用户关闭连接
+
+Datatype misalignment
+数据类型失调
+
+File exceeds filesystem size limit
+文件超出文件系统大小限制
+
+Float denormal operand
+浮点反常运算
+
+Float divide by zero
+浮点除以零
+
+Float inexact result
+浮点不精确结果
+
+Float invalid operation
+浮点无效操作
+
+Float overflow
+浮点溢出
+
+Float stack check
+浮点堆栈检测
+
+Float underflow
+浮点下溢
+
+Guard page
+指南页面
+
+hostname not found
+无法找到主机名
+
+Illegal instruction
+非法指令
+
+Integer divide by zero
+整数除以零
+
+Integer overflow
+整数溢出
+
+Invalid disposition
+无效安排
+
+Invalid handle
+无效句柄
+
+In page error
+于页面错误
+
+Noncontinuable exception
+非可持续性例外
+
+offline (timed out)
+离线 (超时)
+
+Integer private instruction
+整数私有指令
+
+Single step
+单步执行
+
+Stack overflow
+堆栈溢出
+
+Volume unmounted
+卷未弹出
+
+Manually Transfer
+手动传输
+
+Sync via iTunes
+通过 iTunes 同步
+
+Add Feed
+添加订阅
+
+Add Url
+添加链接
+
+Add Device
+添加设备
+
+High
+较高
+
+Low
+较低
+
+Metadata
+原始数据
+
+Normal
+正常
+
+Active
+活动
+
+Torrents
+任务
+
+All Feeds
+订阅
+
+Completed
+已完成
+
+Conversions
+转换
+
+Devices
+设备
+
+Downloading
+正在下载
+
+Feeds
+订阅
+
+Bundles
+Bundles
+
+Inactive
+不活动
+
+Labels
+标签
+
+Now Playing
+正在播放
+
+No Label
+其他
+
+Anti-virus Protection
+Anti-virus Protection
+
+Play Anywhere
+Play Anywhere
+
+HD Media Player
+HD Media Player
+
+Upgrade to Plus
+Upgrade to Plus
+
+Upgrade to Pro
+Upgrade to Pro
+
+Seeding
+做种中
+
+Added
+添加日期
+
+Antivirus
+防病毒
+
+||Avail.||Availability
+||健康度||健康度
+
+||Bw.Alloc||Bandwidth Allocation
+||带宽配置||带宽配置
+
+Completed Bytes
+完成字节
+
+Completed On
+完成时间
+
+Debug
+调试
+
+Disk Job
+磁盘工作
+
+Done
+完成率
+
+Downloaded
+已下载
+
+Down Limit
+下载限制
+
+Down Speed
+下载速度
+
+Elapsed
+已用
+
+Episode
+季集
+
+ETA
+剩余时间
+
+Format
+格式
+
+Health
+健康度
+
+Label
+标签
+
+Last Active
+上次活动
+
+Name
+名称
+
+Name ...\r\nA new line of text
+名称 ...\r\n新的文本行
+
+#
+#
+
+Peers
+用户
+
+Rating
+评分
+
+Remaining
+剩余
+
+Save Directory
+保存目录
+
+Seeds
+种子
+
+Seeds/Peers
+种子/用户
+
+Selected Size
+选定大小
+
+Ratio
+分享率
+
+Size
+大小
+
+Source URL
+来源链接
+
+Status
+状态
+
+Playback
+播放
+
+Tracker
+Tracker
+
+Tracker Status
+Tracker 状态
+
+Uploaded
+已上传
+
+Up Limit
+上传限制
+
+Up Speed
+上传速度
+
+Are you sure you want to remove the %d selected torrents%s?
+您确定要移除 %d 选定 Torrent%s?
+
+Are you sure you want to remove the selected torrent%s?
+您确定要移除选定 Torrent%s?
+
+Create
+创建
+
+ and all associated data
+ 与所有关联数据
+
+Remove
+移除
+
+unsupported
+不支持
+
+Filter Torrents
+过滤 Torrent
+
+Checked %:.1d%%
+已检查 %:.1d%%
+
+Connecting to peers
+连接到用户
+
+Deleting
+Deleting
+
+Downloading
+正在下载
+
+Downloading metadata
+正在下载元数据
+
+Error: %s
+错误: %s
+
+Finding peers
+寻找用户
+
+Finished
+已完成
+
+Flushing to disk (%d)
+写入磁盘 (%d)
+
+[F] Downloading
+[强制]下载
+
+[F] Seeding
+[强制] 做种
+
+[F] Initial-Seeding
+[强制] 初始做种
+
+Moving...
+移动中...
+
+Need DHT (enable DHT to download)
+需要DHT(启用DHT后下载)
+
+Paused
+已暂停
+
+Allocating...
+正在定位...
+
+Quarantine
+Quarantine
+
+Queued
+排队中
+
+Queued Seed
+排队做种
+
+Resolving %:.1d%%
+Resolving %:.1d%%
+
+RSS
+RSS
+
+Previously downloaded
+Previously downloaded
+
+Seeding
+做种中
+
+Stopped
+已停止
+
+Initial-Seeding
+初始做种
+
+Writing %:.1d%%
+Writing %:.1d%%
+
+Load
+载入
+
+Down
+下移
+
+Up
+上移
+
+Enter label
+输入标签
+
+Enter the new label for the selected torrents:
+为选定的 Torrent 输入新的标签:
+
+New Label...
+新建标签...
+
+Play
+播放
+
+Stream
+串流
+
+Ready in %s
+准备就绪 %s
+
+Days
+天
+
+Disables in
+禁用于
+
+Expired
+已过期
+
+Upgrade
+升级
+
+Prefs
+偏好
+
+Stream
+串流
+
+Set Primary
+设置为主要
+
+Search
+搜索
+
+*
+*
+
+Send
+发送
+
+Download
+下载
+
+Stop
+停止
+
+Recommended
+Recommended
+
+Files
+文件
+
+Info
+信息
+
+Logger
+日志
+
+Peers
+用户
+
+Pieces
+区块视图
+
+Playback (Beta)
+Playback (Beta)
+
+Ratings
+评分
+
+Related
+Related
+
+Speed
+速度
+
+Trackers
+Trackers
+
+Updates
+Updates
+
+Add Torrent
+添加 Torrent
+
+Add Torrent from URL
+从链接添加 Torrent
+
+Virus Scan
+病毒扫描
+
+Create New Torrent
+制作 Torrent
+
+Toggle Torrent View
+切换任务视图
+
+Move Down Queue
+下移队列
+
+Move Up Queue
+上移队列
+
+Preferences
+设置
+
+Remove
+移除
+
+Add RSS Feed
+添加 RSS 订阅
+
+*
+*
+
+Search
+搜索
+
+Send
+发送
+
+Start Torrent
+开始 Torrent
+
+Stop Torrent
+停止 Torrent
+
+Remote
+远程
+
+Unlock Bundle
+Unlock Bundle
+
+Toggle view
+切换视图
+
+Unlock
+Unlock
+
+uT remote
+远程控制
+
+Virus Scan
+病毒扫描
+
+Answer a few questions to help us show you better advertisements
+Answer a few questions to help us show you better advertisements
+
+Please feel free to read our <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>
+Please feel free to read our <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>
+
+Age:
+Age:
+
+Submit My Responses
+Submit My Responses
+
+Gender:
+Gender:
+
+Help BitTorrent show you more relevant advertisements
+Help BitTorrent show you more relevant advertisements
+
+Interests:
+Interests:
+
+Relationship Status:
+Relationship Status:
+
+We want to show your the most meaningful advertisements we can
+We want to show your the most meaningful advertisements we can
+
+Close
+关闭
+
+Thank you for taking our survey!
+Thank you for taking our survey!
+
+At BitTorrent, we're always trying to improve our\nproducts.  Your feedback is incredibly helpful to\nus.  We really appreciate your valuable input.
+At BitTorrent, we're always trying to improve our\nproducts.  Your feedback is incredibly helpful to\nus.  We really appreciate your valuable input.
+
+a day ago
+一天前
+
+%d days ago
+%d 天前
+
+an hour ago
+一小时前
+
+%d hours ago
+%d 小时前
+
+less than a minute ago
+少于一分钟前
+
+a minute ago
+一分钟前
+
+%d minutes ago
+%d 分钟前
+
+a month ago
+一个月前
+
+%d months ago
+%d 月前
+
+a week ago
+一周前
+
+%d weeks ago
+%d 周前
+
+a year ago
+一年前
+
+%d years ago
+%d 年前
+
+PAUSED %:.1d %%
+已停止 %:.1d %%
+
+Failed to connect to %s Remote. This appears to have happened because you are running a peer blocking application such as PeerGuardian or PeerBlock. These programs are not currently compatible with %s Remote. You should either disable your peer blocking application, or disable %s Remote.
+Failed to connect to %s Remote. This appears to have happened because you are running a peer blocking application such as PeerGuardian or PeerBlock. These programs are not currently compatible with %s Remote. You should either disable your peer blocking application, or disable %s Remote.
+
+Client
+客户端
+
+Debug
+调试
+
+||Peer dl.||Peer Download Rate
+||用户下载速度||用户下载速度
+
+Downloaded
+已下载
+
+Down Speed
+下载速度
+
+Socket State
+Socket State
+
+Flags
+标识
+
+Hasherr
+校验错误
+
+Inactive
+不活动
+
+IP
+IP
+
+MaxDown
+最大下载
+
+MaxUp
+最大上传
+
+%
+完成率
+
+Port
+端口
+
+Queued
+排队中
+
+Quota
+配额
+
+Relevance
+关联
+
+Reqs
+请求
+
+Uploaded
+已上传
+
+Up Speed
+上传速度
+
+Waited
+等待
+
+Availability
+健康度
+
+Blocks
+区块视图
+
+Completed
+已完成
+
+Mode
+模式
+
+# of Blocks
+区块数量
+
+#
+#
+
+Priority
+优先级
+
+Size
+大小
+
+Timeout
+超时
+
+fast
+较快
+
+medium
+中等
+
+slow
+较慢
+
+Play downloaded file
+Play downloaded file
+
+Play streamable file
+Play streamable file
+
+Try to stream file
+Try to stream file
+
+Congratulations! Your software is turning into %s Plus as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Plus forums.
+Congratulations! Your software is turning into %s Plus as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Plus forums.
+
+Plus install in progress. \nUpdates will be available shortly.
+Plus install in progress. \nUpdates will be available shortly.
+
+Your plus player is expired. The free player will be used to play the media file
+您的plus player已过期. 媒体文件将使用免费播放器播放
+
+Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Plus to protect yourself from viruses hiding in torrents.
+Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Plus to protect yourself from viruses hiding in torrents.
+
+Convert
+转换
+
+Open
+打开
+
+Port Forward test complete. %s
+端口转送测试完成。%s
+
+Results: Port not open.
+结果: 端口未打开。
+
+Results: Proxy detected. Results inconclusive.
+结果: 检测到代理服务器。结果不确定。
+
+Too many activations\nA single purchased copy of %s Pro can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+Too many activations\nA single purchased copy of %s Pro can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+
+Congratulations! Your software is turning into %s Pro as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Pro forums.
+Congratulations! Your software is turning into %s Pro as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Pro forums.
+
+Downloading the Pro package failed
+Downloading the Pro package failed
+
+Pro install in progress.\nUpdates will be available shortly.
+Pro install in progress.\nUpdates will be available shortly.
+
+Your Pro player is expired. The free player will be used to play the media file
+Your Pro player is expired. The free player will be used to play the media file
+
+%s Pro Player is installing. Please try again shortly.
+%s Pro Player is installing. Please try again shortly.
+
+Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Pro to protect yourself from viruses hiding in torrents.
+Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Pro to protect yourself from viruses hiding in torrents.
+
+This device can't play this type of media file.\n\nUpgrade to %s Pro to convert this file so it can be played.
+This device can't play this type of media file.\n\nUpgrade to %s Pro to convert this file so it can be played.
+
+%u Comments
+%u 评论
+
+Queued
+排队中
+
+Copying: Queued
+正在复制: 已队列
+
+Retry
+重试
+
+ALL
+全部
+
+RSS: Feed already exists "%s"
+RSS: 订阅已经存在 "%s"
+
+Download Date
+下载日期
+
+Feed
+订阅
+
+Full Name
+全称
+
+URL
+链接
+
+Really delete RSS Feed "%s"?
+确定删除 RSS 订阅 "%s" 吗？
+
+Really delete %d RSS Feeds?
+Really delete %d RSS Feeds?
+
+(All)
+(全部)
+
+RSS Feed not found.
+找不到 RSS 订阅
+
+Open URL in &Browser
+在浏览器中打开链接(&B)
+
+&Delete
+删除(&D)
+
+(match always)||(match only once)||12 hours||1 day||2 days||3 days||4 days||1 week||2 weeks||3 weeks||1 month||
+(总是匹配)||(此次匹配)||12 小时|| 1 天|| 2 天|| 3 天|| 4 天|| 1 周|| 2 周|| 3 周||每月||
+
+Date of last match: %s\r\nLast episodes matched: %s\r\n\r\nMatching releases:\r\n%s
+上次匹配时间: %s\r\n上次匹配季集: %s\r\n\r\n匹配发布:\r\n%s
+
+N/A
+无
+
+New Filter
+新建过滤器
+
+None
+无
+
+&Download
+下载(&D)
+
+&Add to Favorites
+添加到收藏(&A)
+
+Open URL in &Browser
+在浏览器中打开链接(&B)
+
+ALL
+全部
+
+Really delete RSS Filter "%s"?
+确定删除 RSS 过滤器 "%s" 吗？
+
+Really delete %d history entries?
+确定删除 %d 历史项目吗？
+
+RSS: Smart filter has rejected "%S"
+RSS: 智能过滤已拒绝 "%S"
+
+Favorites||History||
+收藏||历史||
+
+Too many
+过多
+
+RSS: Unable to load "%S": %s
+RSS: 无法载入 "%S": %s
+
+RSS: Unable to download "%s": %s
+RSS: 无法下载 "%s": %s
+
+     Scheduled (Downloading)
+     计划任务 (正在下载)
+
+Exception aborted.
+Exception aborted.
+
+Failed to disconnect correctly. Error %d
+无法正确断开连接。 错误 %d
+
+Failed to disconnect correctly due to a security context error.
+无法正确地断开连接由于安全问题的错误。
+
+Failed to disconnect correctly because the server could not be sent to.
+无法正确断开连接因为服务器无法发送资料。
+
+Could not establish secure connection. Error %d
+不能新建安全连接。错误 %d
+
+Could not initialize security context. Error %d
+不能初始化安全相关的信息。错误 %d
+
+Out of memory
+缓存不足
+
+Could not verify server identity
+无法验证服务器
+
+Could not decrypt data. Error %d
+无法解析数据。错误 %d
+
+Could not send data. Error %d
+无法发送数据。错误 %d
+
+Could not obtain SSL chunk size.
+不能获取 SSL 区块大小。
+
+Could not encrypt data. Error %d
+无法加密数据。 错误 %d
+
+Send to server failed.
+发送至服务器失败。
+
+Could not validate server cert chain
+无法验证服务器证书链
+
+Transfer files converted for Android.
+传输文件转换为 Android。
+
+Transfer files converted for BT Certified Device.
+传输文件转换为 BT 认证设备。
+
+Transfer files.
+传输文件。
+
+Transfer files converted for PS3.
+传输转换为 PS3 的文件 。
+
+Transfer files converted for XBox 360.
+传输转换为 XBox 360 的文件。
+
+audio
+音频
+
+Mon||Tue||Wed||Thu||Fri||Sat||Sun||
+周一||周二||周三||周四||周五||周六||周日||
+
+Friday
+星期五
+
+Monday
+星期一
+
+Saturday
+星期六
+
+Sunday
+星期日
+
+Thursday
+星期四
+
+Tuesday
+星期二
+
+Wednesday
+星期三
+
+documents
+文档
+
+The file '%s' could not be read.
+The file '%s' could not be read.
+
+The file '%s' could not be written to.
+The file '%s' could not be written to.
+
+The file '%s' is in use by another process and can't be opened.
+文件 '%s' 被另外的线程使用，无法打开。
+
+The file '%s' was not found.
+The file '%s' was not found.
+
+Unknown error opening file '%s'
+Unknown error opening file '%s'
+
+The file '%s' has been recovered.
+The file '%s' has been recovered.
+
+You have to restart %s for the changes to take effect.
+You have to restart %s for the changes to take effect.
+
+Select your preferred player
+选择您喜欢的播放器
+
+Executable (*.exe)||*.exe||All files (*.*)||*.*||
+可执行文件 (*.exe)||*.exe||所有文件 (*.*)||*.*||
+
+Full speed
+全速
+
+Full speed -\nUses normal global\nbandwidth limits
+全速 -\n使用常规全局的\n带宽设置
+
+Limited
+限速
+
+Limited -\nUses scheduler-specified\nbandwidth limits
+限速 -\n使用计划制定的\n带宽设置
+
+Seeding only
+仅仅做种
+
+Seeding only -\nOnly uploads data\n(including incomplete)
+做种 -\n仅上传数据\n(包括未完成任务)
+
+Turn off
+关闭
+
+Turn off -\nStops all torrents\nthat are not forced
+关闭 -\n停止所有非强制\nTorrent
+
+video
+视频
+
+To get the most accurate readings, please choose the Server nearest you.
+要取得最准确的读取，请选择最靠近您的服务器。
+
+Please Select a server
+请选择服务器
+
+More info is in the <a href="http://www.utorrent.com/faq">FAQ</a> and at <a href="http://portforward.com/">portforward.com</a>
+更多信息位于 <a href="http://www.utorrent.com/faq">常见问题</a> 以及 <a href="http://portforward.com/">portforward.com</a>
+
+*
+*
+
+PostMessage failed h:%d i:%d t:%d e:%d
+发送消息失败 h:%d i:%d t:%d e:%d
+
+Results: Port is not open (you are still able to download).
+结果: 端口未打开 (您仍可以下载)。
+
+ Port mapping will speed downloads and enable seeding. More info in FAQ and at portforward.com
+ 端口映射将提升下载速度并可以做种。更多信息位于 "常见问题" 以及"portforward.com"
+
+Results: Port is open. Your network is properly configured.
+结果: 端口打开。您的网络已正确配置。
+
+This test will verify your router settings and highlight any configuration issues.
+此测试将验证您的路由器设置并标注出任何配置问题。
+
+Run Tests
+运行测试
+
+This test will use <a href="http://www.utorrent.com/faq#mlabs">Measurement Lab</a> tools to check and set your bandwidth limits.
+此测试将使用 <a href="http://www.utorrent.com/faq#mlabs">测试实验室</a>工具检测和设置您的带宽限制。
+
+If no location is near, you can test at <a href="http://dslreports.com/speedtest/">dslreports</a> and input your upload speed.
+如果没有靠近的地址，您可以在 <a href="http://dslreports.com/speedtest/">dslreports</a> 测试并输入您的上传速度。
+
+Stop Tests
+停止测试
+
+%s Setup Guide
+%s Setup Guide
+
+%s Bandwidth Configuration
+%s Bandwidth Configuration
+
+%s will test your network and configure itself for best performance.
+%s will test your network and configure itself for best performance.
+
+Choose the closest test location ...
+选择最近的测试位置...
+
+Downloading Server List ...
+下载服务器列表...
+
+Please enter a valid port number from 0-65535.
+请在 0-65535 范围内输入有效的端口号。
+
+This is a likely service port. Please choose another.\n(You can change this setting in bt.no_connect_to_services_list)
+这是一个可能的服务端口。请选择另一个。\n(您可以更改 bt.no_connect_to_services_list 的设置)
+
+Copy the link below to share the torrent you just created.
+复制下面的链接以分享您新添加的 Torrent.
+
+Send files to friends and family using torrents
+发送文件给亲朋好友以分享 Torrent.
+
+Cancel
+取消
+
+Get Link
+取得链接
+
+A torrent file has been created! Share this link!
+Torrent 文件已经新建! 分享该链接!
+
+Creating Torrent..
+制作 Torrent..
+
+Send Files
+发送文件
+
+Send File
+发送文件
+
+Tried to redirect to invalid url
+尝试重定向到无效链接
+
+Will redirect to URL: %S
+将重定向链接: %S
+
+Automatic Shutdown will initiate in %d seconds.\r\nPress Cancel to abort.
+自动关闭将在 %d 秒后初始化。\r\n请单击 "取消" 放弃。
+
+FAILED
+失败
+
+Hibernating computer... %s
+计算机休眠中... %s
+
+OK
+确定
+
+Quitting program
+程序退出中
+
+Restarting computer... %s
+重启电脑... %s
+
+Shutting down computer... %s
+计算机关闭中... %s
+
+Stand-by computer... %s
+计算机待机... %s
+
+(Alternate speed test at <a href="http://dslreports.com/speedtest/">dslreports</a>)
+(通过<a href="http://dslreports.com/speedtest/">dslreports</a>测试网络速度)
+
+upload rate limit
+上传速度限制
+
+download rate limit
+下载速度限制
+
+TCP upload rate
+TCP 上传速度
+
+TCP download rate
+TCP 下载速度
+
+send rate to player
+发送比率到播放器
+
+cache reading
+缓存读取
+
+file reading
+文件读取
+
+cache writing
+缓存写入
+
+file writing
+文件写入
+
+transfer cap
+限速
+
+upload + download
+上传 + 下载
+
+downloaded
+已经下载
+
+upload rate (payload)
+上传速度(有效负载)
+
+uploaded
+已经上传
+
+ack upload
+确认上传
+
+ack download
+确认下载
+
+header upload
+头部上传
+
+header download
+头部下载
+
+connect upload
+连接上传
+
+connect download
+连接下载
+
+close upload
+关闭上传
+
+close download
+关闭下载
+
+retransmission upload
+中继上传
+
+download rate (payload)
+下载速度(有效负载)
+
+retransmission download
+中继下载
+
+peak send delay
+最大发送延迟
+
+average send delay
+平均发送延迟
+
+min send delay
+最小发送延迟
+
+peak receive delay
+最大接受延迟
+
+average receive delay
+平均接受延迟
+
+min receive delay
+最小接受延迟
+
+target delay
+目标延迟
+
+read
+读取
+
+write
+写入
+
+upload rate (local peers)
+上传速度(本地用户)
+
+hash chunks
+哈希校验块
+
+hash piece
+哈希碎片
+
+preallocate
+预分配
+
+move files
+移动文件
+
+close
+关闭
+
+fix partfile
+修复部分文件
+
+repair
+修复
+
+import
+导入
+
+shutdown
+关闭
+
+move one file
+移动一个文件
+
+download rate (local peers)
+下载速度(本地用户)
+
+delayed torrent work
+延迟torrent工作
+
+delete torrent
+删除文件
+
+delete files
+删除文件
+
+arbitrary read
+arbitrary read
+
+copy file
+复制文件
+
+quarantine
+隔离
+
+create torrent
+创建 torrent
+
+upload rate (incl. overhead)
+上传速度(包括开销)
+
+download rate (incl. overhead)
+下载速度(包括开销)
+
+TCP upload rate limit
+TCP 上传速度限制
+
+TCP download rate limit
+TCP 下载速度限制
+
+non-critical requests
+非关键请求
+
+buffer size
+缓冲大小
+
+secs ahead of ghost
+秒在Ghost前
+
+secs ahead of eye
+秒在可视前
+
+seconds of underrun
+截止区块
+
+total pieces
+所有区块
+
+critical requests
+关键请求
+
+critical cancellations
+关键取消
+
+%s is still starting up
+%s is still starting up
+
+Please tell us more about your experience.
+Please tell us more about your experience.
+
+Please select stream quality.
+Please select stream quality.
+
+Buffering...
+Buffering...
+
+\nYou can try playing it in a different media player\nafter it finishes downloading
+\nYou can try playing it in a different media player\nafter it finishes downloading
+
+Unable to stream/play this file
+Unable to stream/play this file
+
+\nYou can try streaming again later or wait until it\nfinishes downloading
+\nYou can try streaming again later or wait until it\nfinishes downloading
+
+Unable to stream this file right now
+Unable to stream this file right now
+
+Audio issues / No audio
+Audio issues / No audio
+
+Bad
+Bad
+
+Many stops / buffering
+Many stops / buffering
+
+Select stream quality...
+Select stream quality...
+
+Good
+Good
+
+Other...
+Other...
+
+Trying to stream...
+Trying to stream...
+
+Converted File
+已转换文件
+
+New
+New
+
+Advanced
+高级
+
+UI Extras
+界面附加
+
+Anti-virus
+防病毒
+
+Bandwidth
+带宽
+
+Connection
+连接
+
+Disk Cache
+缓存
+
+Directories
+目录
+
+General
+常规
+
+UI Settings
+界面设置
+
+Label
+标签
+
+Transfer Cap
+传输限制
+
+Paired Devices
+已配对设备
+
+Devices
+设备
+
+Run Program
+运行程序
+
+Scheduler
+计划
+
+Queueing
+队列
+
+Playback
+播放
+
+BitTorrent
+任务
+
+Remote
+远程
+
+Web UI
+远程
+
+Show Properties||Start/Stop||Open Folder||Show Download Bar||Play||
+Show Properties||Start/Stop||Open Folder||Show Download Bar||Play||
+
+Disabled||Enabled||Forced||
+禁用||启用||强制||
+
+1||2||5||7||10||14||15||20||21||28||30||31||
+1||2||5||7||10||14||15||20||21||28||30||31||
+
+MB||GB||
+MB||GB||
+
+(none)||Socks4||Socks5||HTTPS||HTTP||
+(无)||Socks4||Socks5||HTTPS||HTTP||
+
+(Never)||
+(从不)||
+
+5||10||25||50||100||
+5||10||25||50||100||
+
+Definition
+定义
+
+Directory
+目录
+
+Label
+标签
+
+Name
+名称
+
+Value
+数值
+
+Contains: "%s"
+Contains: "%s"
+
+Please enter a valid disk cache size 32-1800.
+Please enter a valid disk cache size 32-1800.
+
+The transfer cap must be greater than zero.
+传输上限必须大于零。
+
+Please enter a valid port number from 0-65535.
+请在 0-65535 范围内输入有效的端口号。
+
+Select a program to run:
+选择运行程序:
+
+Select a program to run:
+选择运行程序:
+
+The specified number is not a valid integer. Please enter a valid integer.
+指定的数字不是一个有效的整数。请输入一个有效的整数。
+
+Forget Paired Device
+移除已配对设备
+
+Paired Devices
+已配对设备
+
+Date Added
+添加日期
+
+Name
+名称
+
+Do you really want to reset your bandwidth usage history?\n\nThis operation cannot be undone.
+你真的要重新设置的带宽使用历史？\n\n此操作无法撤消。
+
+You can use the following parameters:\r\n\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%P - Previous state of torrent\r\n%L - Label\r\n%T - Tracker\r\n%M - Status message string (same as status column)\r\n%I - hex encoded info-hash\r\n%S - State of torrent\r\n%K - kind of torrent (single|multi)\r\n\r\nWhere State is one of:\r\n\r\nError - 1\r\nChecked - 2\r\nPaused - 3\r\nSuper seeding - 4\r\nSeeding - 5\r\nDownloading - 6\r\nSuper seed [F] - 7\r\nSeeding [F] - 8\r\nDownloading [F] - 9\r\nQueued seed - 10\r\nFinished - 11\r\nQueued - 12\r\nStopped - 13\r\nQueued - 12\r\nPreallocating - 17\r\nDownloading Metadata - 18\r\nConnecting to Peers - 19\r\nMoving - 20\r\nFlushing - 21\r\nNeed DHT - 22\r\nFinding Peers - 23\r\nResolving - 24\r\nWriting - 25
+You can use the following parameters:\r\n\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%P - Previous state of torrent\r\n%L - Label\r\n%T - Tracker\r\n%M - Status message string (same as status column)\r\n%I - hex encoded info-hash\r\n%S - State of torrent\r\n%K - kind of torrent (single|multi)\r\n\r\nWhere State is one of:\r\n\r\nError - 1\r\nChecked - 2\r\nPaused - 3\r\nSuper seeding - 4\r\nSeeding - 5\r\nDownloading - 6\r\nSuper seed [F] - 7\r\nSeeding [F] - 8\r\nDownloading [F] - 9\r\nQueued seed - 10\r\nFinished - 11\r\nQueued - 12\r\nStopped - 13\r\nQueued - 12\r\nPreallocating - 17\r\nDownloading Metadata - 18\r\nConnecting to Peers - 19\r\nMoving - 20\r\nFlushing - 21\r\nNeed DHT - 22\r\nFinding Peers - 23\r\nResolving - 24\r\nWriting - 25
+
+In which city or town were you born?
+您出生在哪个城镇?
+
+A security question can be used later to transfer your %s Remote username to another computer. Would you like to create one now?
+A security question can be used later to transfer your %s Remote username to another computer. Would you like to create one now?
+
+Select a folder
+选择目录
+
+Select a folder where you want to store the active downloads:
+选择一个目录用来保存当前活动的下载:
+
+<a>Try our new Android app!</a>
+<a>Try our new Android app!</a>
+
+Current Settings (
+当前设置 (
+
+Test Result (
+测试结果 (
+
+Unlimited
+无限制
+
+Test queued...
+测试队列...
+
+%dd %dh
+%d 天 %d 小时
+
+%dh %dm
+%d 小时 %d 分钟
+
+%dm %ds
+%d 分钟 %d 秒
+
+%ds
+%d 秒
+
+%dw %dd
+%d 周 %d 天
+
+%dy %dw
+%d 年 %d 周
+
+Check For Updates
+Check For Updates
+
+Update Now
+立即更新
+
+Check back for updates soon
+Check back for updates soon
+
+ADDITIONAL CONTENT LOCKED
+ADDITIONAL CONTENT LOCKED
+
+BUNDLE UPDATE AVAILABLE
+BUNDLE UPDATE AVAILABLE
+
+BUNDLE CURRENTLY UP TO DATE
+BUNDLE CURRENTLY UP TO DATE
+
+Enter your email and unlock free stuff
+Enter your email and unlock free stuff
+
+Enter your email and unlock free content
+Enter your email and unlock free content
+
+Logon to facebook and unlock free stuff
+Logon to facebook and unlock free stuff
+
+Logon to bank account and unlock free stuff
+Logon to bank account and unlock free stuff
+
+Click update to update now
+Click update to update now
+
+&Enable DHT
+启用 DHT(&E)
+
+&Enable Scheduler
+启用计划任务(&E)
+
+&Download Limit
+下载限制(&D)
+
+E&xit
+退出(&X)
+
+&Hide/Show µTorrent
+隐藏/显示 µTorrent(&H)
+
+&Pause all torrents
+暂停所有的 Torrent(&P)
+
+&Resume all torrents
+续传所有的 Torrent(&R)
+
+&Enable Scheduler
+启用计划任务(&E)
+
+Stats Dialog...
+统计对话框...
+
+&Upload Limit
+上传限制(&U)
+
+General||Advanced||
+常规||高级||
+
+Add Peer
+添加用户
+
+Enter the IP:port / [IPv6]:port of the peer to add:
+输入 IP:端口 / [IPv6]:添加的用户端口:
+
+Executable files (*.exe)||*.exe||All files (*.*)||*.*||
+可执行文件 (*.exe)||*.exe||全部文件 (*.*)||*.*||
+
+Select a file
+选择文件
+
+     Transferred
+     Transferred
+
+Download Complete|%s has finished downloading.
+下载完成|%s 已经下载完成。
+
+A BitTorrent Featured Bundle|%S
+A BitTorrent Featured Bundle|%S
+
+New Download from RSS|%s has started downloading.
+从 RSS 新建下载|%s 已经开始下载。
+
+New version|A new version of %s is now available!
+New version|A new version of %s is now available!
+
+!Error|There is not enough disk space to move %s to its final location
+！错误|没有足够的磁盘空间将 %s 移至其最终的位置
+
+!Torrent Error|File: %s\n%s
+！Torrent 错误|文件: %s\n%s
+
+Announces
+通告
+
+Downloaded
+已下载
+
+Interval
+间隔
+
+Min Interval
+最小间隔
+
+Name
+名称
+
+Peers
+用户
+
+Scrapes
+状态查询
+
+Seeds
+种子
+
+Status
+状态
+
+Update In
+更新于
+
+Can't accept %S with invalid character '%S'
+Can't accept %S with invalid character '%S'
+
+Can't accept %S with length %u greater than %d characters.
+Can't accept %S with length %u greater than %d characters.
+
+Please enter a %S.
+Please enter a %S.
+
+Are you sure you want to remove the %d selected trackers?
+您确定要移除选定的 %d 个 Tracker 吗？
+
+Are you sure you want to remove the selected tracker?
+您确定要移除选定的 Tracker 吗？
+
+You must enter a password to use %s Remote.
+You must enter a password to use %s Remote.
+
+Could not contact the %s Remote service to register.
+Could not contact the %s Remote service to register.
+
+There is already a computer using the username "%S".
+早已经有人使用该用户名 "%S".
+
+That was not the correct security answer for the username "%S". Try again.
+该帐户的安全问题答案不正确 "%S". 请重试.
+
+Status: Accessible
+状态: 可存取
+
+Status: Connecting...
+状态: 正在连接...
+
+Status: Not accessible
+状态: 无法获取
+
+Status: Could not reclaim account
+状态: 无法取回帐号
+
+Status: Registration failed
+状态: 注册失败
+
+Status: Registration failed
+状态: 注册失败
+
+Status: Reclaimed account
+状态: 已重新找回帐号
+
+Status: Reconnecting in %d seconds
+状态: 重新连结在 %d 秒
+
+Status: Registered
+状态: 注册成功
+
+Status: Registered
+状态: 注册成功
+
+Status: Registering...
+状态: 注册成功
+
+Status: Registering security question
+状态: 安全提问注册中
+
+Status: failed to load Secur32.dll or Security.dll
+状态: 无法载入 Secur32.dll 或 Security.dll
+
+Status: Reclaiming username
+状态: 取回帐号中
+
+Uninstalling %s ...
+移除中 %s...
+
+Are you sure you'd like to uninstall %s?\n\nThis will remove the %s app only. None of your in-\nprogress and completed downloads will be removed
+您确定要移除 %s 吗?\n\n这只会移除 %s 该应用程序. 不会移除您已完成的任何文件
+
+Are you sure you want to uninstall µTorrent?
+您确定要卸载 µTorrent 吗？
+
+Uninstallation failed.
+卸载失败。
+
+Unable to terminate currently running copies of the application.\r\nTerminating the uninstallation procedure.
+无法终止当前运行的程序副本。\r\n终止卸载进程。
+
+Remove settings
+移除设置
+
+Take uninstall survey
+卸载反馈
+
+kB/s
+KB/s
+
+%s failed to update. Please try again.
+%s failed to update. Please try again.
+
+µTorrent Failed to update. Please try again.
+µTorrent Failed to update. Please try again.
+
+µTorrent is up to date.
+µTorrent is up to date.
+
+Update History
+Update History
+
+%s update failed. Unable to start the new process.
+%s update failed. Unable to start the new process.
+
+failed to launch exe %s
+无法启动 exe %s
+
+failed to acquire mutex %s
+无法取得互斥变量 %s
+
+attempted downgrade %x -> %x
+尝试降级 %x -> %x
+
+A new version of µTorrent is ready!\r\nWould you like to restart µTorrent now?
+A new version of µTorrent is ready!\r\nWould you like to restart µTorrent now?
+
+failed to save the update. Please try again
+failed to save the update. Please try again
+
+failed to save file
+保存文件失败
+
+Update Details
+Update Details
+
+View this bundle
+View this bundle
+
+Updated on: *
+Updated on: *
+
+Total updates: *
+Total updates: *
+
+No update available for this torrent.
+No update available for this torrent.
+
+Failed to verify the downloaded update. Please try updating again.
+Failed to verify the downloaded update. Please try updating again.
+
+failed to verify the update. Please try again.
+failed to verify the update. Please try again.
+
+mismatching exe versions
+不匹配的 exe 版本
+
+%s Upgrade
+%s Upgrade
+
+Enjoy Seamless Updating
+Enjoy Seamless Updating
+
+Welcome to the µTorrent Upgrade Wizard
+Welcome to the µTorrent Upgrade Wizard
+
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+
+This wizard will guide you through the %s upgrade process.\r\nVersion: %s (Build %s)
+This wizard will guide you through the %s upgrade process.\r\nVersion: %s (Build %s)
+
+Updates are now build into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+Updates are now build into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+
+Updates are now built into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+Updates are now built into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+
+This wizard will guide you through the upgrade of %s by BitTorrent, Inc. - the world's premiere, feature-rich torrent client.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+This wizard will guide you through the upgrade of %s by BitTorrent, Inc. - the world's premiere, feature-rich torrent client.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+
+Welcome to the µTorrent® Upgrade Wizard
+Welcome to the µTorrent® Upgrade Wizard
+
+Get the VLC player (Recommended)
+使用 VLC 播放器  (推荐)
+
+  (Recommended)
+  (推荐)
+
+Sorry, we could not start the player.  Please try again.
+Sorry, we could not start the player.  Please try again.
+
+Password did not match.
+密码不匹配。
+
+Don't show this dialog again.
+不要再显示该对话框.
+
+Cancel
+取消
+
+OK
+确定
+
+Are you sure you want to remove the selected torrent?
+您确定要移除选定的 Torrent 吗？
+
+Help your fellow users - rate this before you delete it.
+帮助其他使用者 - 删除先前的评分.
+
+Could not download WebUI file. Error: %s
+无法下载网页界面文件。错误: %s
+
+Could not download WebUI information. Error: %s
+无法下载 WebUI 信息，错误: %s
+
+WebUI file not found - attempting to download
+找不到 WebUI 文件 - 正尝试从网络下载
+
+%s has requested permissions on %s:\n%s\nDo you want to allow access?\nIf you did not initiate this request, press NO.
+%s has requested permissions on %s:\n%s\nDo you want to allow access?\nIf you did not initiate this request, press NO.
+
+%s has requested access to %s.\nDo you want to allow access?\nIf you did not initiate this request, press NO.
+%s has requested access to %s.\nDo you want to allow access?\nIf you did not initiate this request, press NO.
+
+Wrong pin entered
+输入了错误的PIN码
+
+Yes
+是
+
