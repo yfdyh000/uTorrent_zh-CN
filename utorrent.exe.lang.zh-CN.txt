@@ -2164,8 +2164,8 @@ Transmit
 Close
 关闭
 
-μTorrent Automatic Shutdown
-μTorrent 自动关闭
+µTorrent Automatic Shutdown
+µTorrent 自动关闭
 
 &Cancel
 取消(&C)
