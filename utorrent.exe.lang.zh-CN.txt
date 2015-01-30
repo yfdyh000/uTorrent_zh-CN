@@ -77,22 +77,22 @@ Anti-virus Information
 防病毒信息
 
 %s application %s failed to copy to %s
-%s application %s failed to copy to %s
+%s 应用程序 %s 复制到 %s 失败
 
 \nThis app was downloaded from %S
-\n此程序下载于 %S
+\n此应用已下载，从 %S
 
 Installing %s
 正在安装... %s
 
 This %s app was downloaded from a website.\nOnly install it if it came from a trusted source.\nWould you like to install?\n\nTitle: %s\nPublisher: %S\nUpdate URL: %S
-该程序 %s 是从网站上下载.\n如果来源于正规网站则可以安装.\n你将希望安装吗?\n\n标题: %s\n发布者: %S\n更新网址: %S
+%s 应用是从一个网站上下载的。\n应该只安装来源于可信任网站的应用。\n您要安装吗?\n\n标题: %s\n发布者: %S\n更新网址: %S
 
 Are you sure you want to open the containing folders for %d torrents?\n
-您确定要打开 %d Torrent 所在文件夹?\n
+您确定要打开 %d Torrent 所在的文件夹吗?\n
 
 Are you sure you want to open the converted files for %d torrents?\n
-你确定想为 %d Torrents 打开转换后的文件？
+您确定要打开 %d Torrents 转换后的文件吗？
 
 Are you sure you want to open %d torrents?\n
 您确定要打开 %d Torrent?\n
@@ -158,7 +158,7 @@ All files (*.*)||*.*||
 所有文件 (*.*)||*.*||
 
 The app '%s' is requesting access to:\n%s%s%s%s%s%s%s%s%s%s\n\nWould you like to grant this app access?
-应用程序 '%s' 正在请求访问:\n%s%s%s%s%s%s%s%s%s%s\n\n您要授权该程序访问吗?
+应用程序 '%s' 正在请求访问:\n%s%s%s%s%s%s%s%s%s%s\n\n您要授权此应用访问吗?
 
 Access to ActiveX Controls
 访问 ActiveX 控件
@@ -176,16 +176,16 @@ Write access to all torrents
 写入全部 Torrent
 
 This btapp requires ActiveX, but it is disabled in advanced preferences.
-该程序需要 ActiveX 控件，但它已在高级设置中被禁用。
+此 BT 应用需要 ActiveX 控件，但它已在高级设置中被禁用。
 
 Missing app name
-缺少程序名称
+缺少应用名称
 
 Missing update url
-缺少更新链接
+缺少更新网址
 
 App is not compatible with client
-程序与客户端不兼容
+应用与客户端不兼容
 
 Missing index.html
 缺少 index.html 文件
@@ -197,10 +197,10 @@ GetContentFile() does not contain [btinstall.txt]
 GetContentFile() 未包含 [btinstall.txt]
 
 App load failed (%s)
-程序载入失败 (%s)
+应用载入失败 (%s)
 
 BtApp does not contain index.html
-该程序不包含 Index.html 文件
+BtApp 未包含 Index.html 文件
 
 Failed to load btapp as a zipfile
 将 BtApp 作为压缩文件载入失败
@@ -257,7 +257,7 @@ Unable to load "%s": %s!
 未能载入 "%s": %s!
 
 Unable to save .torrent to '%s'.
-无法另存 Torrent 为 '%s'。
+无法将 .torrent 另存为 '%s'。
 
 Unknown torrent
 未知的 Torrent
@@ -308,7 +308,7 @@ The size of the selected data is 0 bytes. Please specify another file or directo
 选定数据的大小为 0 字节。请指定其他文件或目录。
 
 The directory you have selected contains more than 1000 files. The resulting .torrent will get very large. A better idea is to put the files into a compressed file and then share that file.\r\n\r\nDo you want to continue anyway?
-您选定的目录所含的文件多于 1000 个。这将导致生成的 Torrent 文件非常大。更好的方法是压缩为一个文件后再分享该文件。\r\n\r\n您坚持要继续吗？
+您选定的目录所含的文件多于 1000 个。这将导致生成的 .torrent 文件非常大。更好的方法是压缩为一个文件后再分享该文件。\r\n\r\n您坚持要继续吗？
 
 Drag either a single file or a folder to the window.
 把单个文件或目录拖拽到窗口中。
@@ -347,7 +347,7 @@ Too many pieces in the torrent. Select a larger piece size.
 重置(&R)
 
 Select where to save the .torrent
-选择保存 Torrent 文件的位置
+选择保存 .torrent 文件的位置
 
 Select a file
 选择文件
@@ -2447,7 +2447,7 @@ File already exists.
 1
 
 2
-3
+2
 
 3
 3
@@ -2576,7 +2576,7 @@ Torrent
 #传输
 
 Media
-Media
+媒体
 
 *
 *
@@ -3353,7 +3353,7 @@ U: %s%z/s
 上传: %s%z/s
 
 Select a .torrent to open
-选择一个要打开的 Torrent 文件
+选择一个要打开的 .torrent 文件
 
 connection closed
 连接已关闭
@@ -3890,7 +3890,7 @@ Alt+
 Alt+
 
 Ctrl+
-Shift+
+Ctrl+
 
 Shift+
 Shift+
