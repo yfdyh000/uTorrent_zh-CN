@@ -254,7 +254,7 @@ working
 工作中
 
 Unable to load "%s": %s!
-未能载入 "%s": %s！
+未能载入 "%s": %s!
 
 Unable to save .torrent to '%s'.
 无法另存 Torrent 为 '%s'。
@@ -389,7 +389,7 @@ Submit
 提交
 
 Worst Rating
-最差评分
+最低评分
 
 Your rating
 您的评分
@@ -527,7 +527,7 @@ Simple, secure access to your %s client on any device
 %s\\\\u00ae For Mobile
 
 %s\\\\u00ae Remote
-%s\\\\u00ae Remote
+%s\\\\u00ae 远程控制
 
 Enable USB Storage on Device
 启用设备上的 USB 存储
@@ -737,7 +737,7 @@ Feed
 订阅
 
 Feed URL:
-订阅链接:
+订阅 URL:
 
 &Custom Alias:
 自定别名(&C):
@@ -800,7 +800,7 @@ Unlock Bundle
 解锁包
 
 Create New Torrent
-制作新 Torrent
+制作新的 Torrent
 
  Select Source *
  选择来源 *
@@ -821,7 +821,7 @@ Trackers:
 Tracker:
 
 Web Seeds:
-网页速度:
+Web Seeds:
 
 Comment:
 说明:
@@ -1316,13 +1316,13 @@ Quality:
 季集数字(&E): [例如: 1x12-14]
 
 &Filter matches original name instead of decoded name
-过滤器将匹配原始名称而不是解码后名称(&F)
+过滤器匹配原始名称而不是解码后名称(&F)
 
 Don't start downloads automatically
 不要自动开始下载
 
 &Give download highest priority
-赋予下载最高优先级(&G)
+赋予最高下载优先级(&G)
 
 Smart ep. filter
 智能季集过滤器
@@ -1451,7 +1451,7 @@ C&heck association on startup
 启动时检查文件关联(&H)
 
 Define Minimize in UI Settings
-在界面设置中定义最小化
+在“界面”设置中定义最小化行为
 
 Install IPv6/Teredo
 安装 IPv6/Teredo
@@ -1469,7 +1469,7 @@ Update to beta versions
 更新到测试版
 
 Send detailed info when checking for updates (always anonymous)
-检查更新时发送细节信息 (匿名)
+检查更新时发送细节信息(匿名)
 
 &Boss-Key:
 老板键(&B):
@@ -1493,7 +1493,7 @@ Pr&event standby if there are active torrents
 有活动 Torrent 时阻止进入待机
 
 &Language:
-选用语言(&L)
+界面语言(&L)
 
  Display Options *
  显示选项 *
@@ -1508,7 +1508,7 @@ S&how confirmation dialog on exit
 退出时显示确认对话框(&H)
 
 A&lternate list background color
-交替显示列表背景色(&L)
+隔行显示列表背景色(&L)
 
 Show current speed in the &title bar
 在标题栏显示当前速度(&T)
@@ -1541,7 +1541,7 @@ Show &balloon notifications in tray
 系统托盘显示气泡提示(&B)
 
 Al&ways activate when clicked
-点击时总是激活(&W)
+点击托盘图标只激活不关闭(&W)
 
  When Adding Torrents *
  添加任务时 *
@@ -1556,7 +1556,7 @@ S&how options to change the name and location of the torrent data
 在 Torrent 数据中显示更改名称和位置的选项
 
  Actions for Double Click *
- 双击操作 *
+ 双击时执行操作 *
 
 For seeding torrents:
 正在做种的 Torrent:
@@ -1718,7 +1718,7 @@ Transfer Cap:
 传输限额:
 
 Time Period (days):
-时间期间(天): 
+时间周期(天): 
 
 Limit Type:
 限制类型: 
@@ -1829,7 +1829,7 @@ Minimum number of available seeds:
  当 µTorrent 达到做种目标时 *
 
 Limit the upload rate to (kB/s): [0 = stop]
-限定上传比率为(KB/s): [0 = 停止]
+限定上传速率为(KB/s): [0 = 停止]
 
 &Enable Scheduler
 启用计划任务(&E)
@@ -1850,10 +1850,10 @@ Limited download rate (kB/s):
 限制下载速度为(KB/s):
 
 µTorrent Remote provides an easy and highly secure way of accessing your client through a browser.
-µTorrent 远程控制提供简单和安全的方法让您用浏览器来访问您的客户端。
+µTorrent 远程控制提供简单且安全的方法让您用浏览器来访问您的客户端。
 
 Just enable the connection below, choose a computer name and password and remember to leave this computer on.
-只需启用下面的连接，选择一个计算机名和密码，然后保持该计算机开机。
+只需启用下面的选项，设置一个计算机名和密码，然后保持该计算机开机。
 
 Learn More
 进一步了解
@@ -1886,7 +1886,7 @@ Set Security Question
 <a>SysLink1</a>
 
 For a new torrent, always convert it for playback on the selected devices:
-对于新的 Torrent, 在下列选中的设备上总是将它转换为可播放:
+对于新的 Torrent，在下列选中的设备上总是将它转换为可播放:
 
 Enable &Web UI
 启用网页界面(&W)
@@ -1901,7 +1901,7 @@ Enable &Web UI
 密码(&P):
 
 Enable &Guest account with username:
-启用访客帐户所使用的用户名(&G):
+启用访客帐户，使用用户名(&G):
 
  Connectivity *
  连接设置 *
@@ -1922,7 +1922,7 @@ Remove
 移除
 
  Advanced Options [WARNING: Do not modify!] *
- 高级选项 [警告: 请勿修改！] *
+ 高级选项 [警告: 请勿修改!] *
 
 &Filter:
 过滤器(&F):
@@ -1958,19 +1958,19 @@ Download speed list:
  永久标签 [请用 | 字符分隔多个标签]
 
  Search Engines [Format: name|URL] *
- 搜索引擎 [格式: 名称|链接] *
+ 搜索引擎 [格式: 名称|URL] *
 
  Basic Cache Settings *
  基本缓存设置 *
 
 The disk cache is used to keep frequently accessed data in memory to reduce the number of reads and writes to the hard drive. µTorrent normally manages the cache automatically, but you may change its behavior by modifying these settings.
-磁盘缓存的作用是将用户频繁访问的数据保存在内存中，从而减少读写硬盘的次数。µTorrent 通常自动管理缓存，但您也可以通过修改以下设置更改其操作模式。
+磁盘缓存的作用是将用户频繁访问的数据保存在内存中，从而减少读写硬盘的次数。\nµTorrent 通常自动管理缓存，但您也可以通过修改以下设置更改其操作模式。
 
 &Override automatic cache size and specify the size manually (MB):
 手动指定并覆盖自动设置的缓存大小(MB)(&O):
 
 &Reduce memory usage when the cache is not needed
-不需要缓存时减少内存的使用量(&R)。
+不需要缓存时减少内存的使用量(&R)
 
  Advanced Cache Settings *
  高级缓存设置 *
@@ -2312,7 +2312,7 @@ Minimum number of available seeds:
 本地用户发现(&L)
 
 Web Seeds
-网络种子
+Web Seeds
 
  Run Program *
  运行程序 *
@@ -2453,7 +2453,7 @@ File already exists.
 3
 
 Filter My Torrents
-过滤我的 Torrent
+筛选我的 Torrent
 
 Search the web for content
 在网络上搜索内容
@@ -2462,7 +2462,7 @@ A web page showing results will launch
 将启动一个网页显示结果
 
 ... There is no step three!
-... 没有第三步！
+... 没有第三步!
 
 Manage Search Providers...
 管理搜索提供者...
@@ -2612,10 +2612,10 @@ There is no media player associated with the %s%sfile type.
 没有已关联的播放 %s%s文件类型的媒体播放程序。
 
 Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff from %s. \n\n Your free stuff is one click away.
-今天是你的幸运日！输入您的电子邮件地址，您将自动解锁更多来自 %s 的免费东西。\n\n领取您的免费东西，只需一次点击。
+今天是你的幸运日! 输入您的电子邮件地址，您将自动解锁更多来自 %s 的免费东西。\n\n领取您的免费东西，只需一次点击。
 
 Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff. \n\n Your free stuff is one click away.
-今天是你的幸运日！输入您的电子邮件地址，您将自动解锁更多免费东西。\n\n领取您的免费东西，只需一次点击。
+今天是你的幸运日! 输入您的电子邮件地址，您将自动解锁更多免费东西。\n\n领取您的免费东西，只需一次点击。
 
 YOU JUST ADDED A BITTORRENT BUNDLE
 您刚刚添加了一个 BitTorrent 包
@@ -2636,19 +2636,19 @@ BUT WAIT. THIS BUNDLE HAS MORE.
 但请等等。此包还有更多东西。
 
 The BitTorrent Bundle has new content available. Click update to get the new content!
-该 BitTorrent 包有新的内容可用。点击更新获得新的内容！
+该 BitTorrent 包有新的内容可用。点击更新获得新的内容!
 
 The BitTorrent Bundle %s has new content available. Click update to get the new content!
-BitTorrent 包 %s 有新的内容可用。点击更新获得新的内容！
+BitTorrent 包 %s 有新的内容可用。点击更新获得新的内容!
 
 NEW BUNDLE CONTENT AVAILABLE
 新的包内容可用
 
 The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
-BitTorrent 包 %s 有新的内容刚刚下载了。点击下面查看新内容！
+BitTorrent 包 %s 有新的内容刚刚下载了。点击下面查看新内容!
 
 The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
-BitTorrent 包 %s 有新的内容刚刚下载了。点击下面查看新内容！
+BitTorrent 包 %s 有新的内容刚刚下载了。点击下面查看新内容!
 
 NEW BUNDLE CONTENT HAS DOWNLOADED
 新的包内容已下载
@@ -2684,13 +2684,13 @@ Simply open the file,
 只需打开该文件，
 
 and then return to uTorrent and click here to watch the action as uTorrent trades bits and pieces with others until you have a complete torrent file.
-然后回到 uTorrent 并点击这里以查看整个文件的传输过程，直到文件完成下载.
+然后回到 uTorrent，点击这里可观察整个文件的传输过程，直到文件下载完成。
 
 Finally, once your download is complete,
-最后，当您的下载完成后，
+最后，在您的下载完成后，
 
 options such as PLAY will be selectable.
-使用相关的应用程序打开或播放，任您选择。
+即可使用相关的应用程序打开或播放，任您选择。
 
 With Utorrent, downloading the content you want is made simple
 使用 uTorrent，下载您想要的文件将变得非常简单。
@@ -2738,7 +2738,7 @@ General
 常规
 
 %#Z (%d hashfails)
-%#Z (%d个散列错误)
+%#Z (%d 次校验失败)
 
 [Local Peer Discovery]
 [本地用户发现]
@@ -2774,7 +2774,7 @@ working
 工作中
 
 %d x %#z (have %u)
-%d x %#z (存在 %u)
+%d x %#z (已有 %u)
 
 scrape not supported
 不支持状态查询
@@ -2840,10 +2840,10 @@ Total Size:
 总计大小:
 
 Hash:
-校验码:
+散列:
 
 Created On:
-创建于:
+创建时间:
 
 Status:
 传输状态:
@@ -3002,7 +3002,7 @@ An older version of µTorrent is already running.
 µTorrent 的一个较旧版本已在运行。
 
 Please shut down µTorrent and try again *
-请关闭 µTorrent 后再试。
+请关闭 µTorrent 后再试。 *
 
 Incomplete
 不完整
@@ -3053,7 +3053,7 @@ License Agreement
 许可协议
 
 Beware of online scams! A number of websites have taken our free µTorrent client and attempt to charge money for it through some sort of "fee" or "subscription" or else they install it for free but infect your computer with malicious code in the process. To protect yourself, be sure to only download our software from http://www.utorrent.com. You should NEVER under any circumstances pay for free µTorrent software.
-请注意网络欺诈！很多网站采用我们免费的 µTorrent 客户端并试图通过某种“费用”或“捐助”的方式进行收费，或通过免费安装的方式在您的电脑进程中安装恶意软件。为了保护您自己，请仅在我们的网站 http://www.utorrent.com 下载我们的软件。您不应在任何情况下为我们免费的 µTorrent 软件付费。
+请警惕网络欺诈! 很多网站采用我们免费的 µTorrent 客户端并试图通过某种“费用”或“捐助”的方式进行收费，或通过免费安装的方式在您的电脑进程中安装恶意软件。为了保护您自己，请仅在我们的网站 http://www.utorrent.com 下载我们的软件。您不应在任何情况下为我们免费的 µTorrent 软件付费。
 
 From BitTorrent, Inc. - the publishers of µTorrent
 来自 BitTorrent 公司 - µTorrent 的发布者
@@ -3155,10 +3155,10 @@ Log bad rejections
 记录不良的拒绝
 
 Log incoming donthave messages
-记录传入的非拥有消息
+记录传入非拥有消息
 
 Log incoming have messages
-记录传入的拥有消息
+记录传入拥有消息
 
 Log holepunch
 记录打洞
@@ -3245,10 +3245,10 @@ Unable to contact update server.
 无法连接到更新服务器。
 
 Unable to load "%s": %s!
-未能载入 "%s": %s！
+未能载入 "%s": %s!
 
 Unable to load "%s": %s!
-未能载入 "%s": %s！
+未能载入 "%s": %s!
 
 Unable to save the resume file. Some data may be lost.\r\nAnother program might have the file open, or the disk is full. Please correct this and click Retry. If you press Cancel, the resume file will not be saved.
 无法保存续传文件。一些数据可能丢失。\r\n文件可能已其他程序占用，或者磁盘已满。请纠正问题后再试。如果您选择取消，将不会保存该续传文件。
@@ -3269,7 +3269,7 @@ Choose where to save %s
 选择保存 %s 到
 
 Failed to connect to %s Remote because your client is not compatible.\n\nWould you like to upgrade to the latest client?\n
-连接 %s 远端失败，您的客户端不兼容。\n\n您想升级到最新版的客户端吗？\n
+连接 %s 远程控制失败，您的客户端不兼容。\n\n您想升级到最新版的客户端吗？\n
 
 Some software installed on your computer prevents %s\nfrom working properly. This is possibly caused by the following DLLs '%S %S'
 您计算机上安装的一些软件阻止 %s\n正常工作。这可能是由以下DLL文件造成的: '%S %S'
@@ -3374,7 +3374,7 @@ Data send
 发送数据
 
 \r\nUploaded this run: %#Z\r\nDownloaded this run: %#Z\r\nUploaded Today: %#Z\r\nDownloaded Today: %#Z\r\nTransferred last %d days: %#Z\r\nTotal Uploaded: %#Z\r\nTotal Downloaded: %#Z\r\nTotal Ratio: %:.3d\r\nTotal Running Time: %d:%.2d:%.2d\r\nNumber of torrents added: %d\r\nProgram launched: %d times\r\n\r\nLast launched: %s\r\n# incoming conns since start: %d\r\n# outgoing conns since start: %d\r\n# handshake: %d\r\n# connections: %d\r\n# uTP connecting: %d\r\n# TCP connecting: %d\r\n# half-open: %d (%d queued)\r\n
-\r\n本次运行上传: %#Z\r\n本次运行下载: %#Z\r\n今日上传: %#Z\r\n今日下载: %#Z\r\n最近 %d 天传输: %#Z\r\n总上传: %#Z\r\n总下载: %#Z\r\n总分享率: %:.3d\r\n总运行时间: %d:%.2d:%.2d\r\n添加的Torrent数量: %d\r\n程序启动: %d 次\r\n\r\n最后启动: %s\r\n# 启动后连入连接数: %d\r\n# 启动后连出连接数: %d\r\n# 握手次数: %d\r\n# 连接数: %d\r\n# uTP 连接数: %d\r\n# TCP 连接数: %d\r\n# 半开连接数: %d (%d 队列)\r\n
+\r\n本次运行上传: %#Z\r\n本次运行下载: %#Z\r\n今日上传: %#Z\r\n今日下载: %#Z\r\n最近 %d 天传输: %#Z\r\n总上传: %#Z\r\n总下载: %#Z\r\n总分享率: %:.3d\r\n总运行时间: %d:%.2d:%.2d\r\n已添加种子总计: %d 个\r\n程序启动: %d 次\r\n\r\n上次启动: %s\r\n# 启动后连入连接数: %d\r\n# 启动后连出连接数: %d\r\n# 握手次数: %d\r\n# 连接数: %d\r\n# uTP 连接数: %d\r\n# TCP 连接数: %d\r\n# 半开连接数: %d (%d 排队)\r\n
 
 Allocating files
 分配文件
@@ -3410,7 +3410,7 @@ Click to access the scheduler settings
 点击访问计划任务设置
 
 Seeding only
-仅仅做种
+仅做种
 
 Stopped by speed test
 被速度测试停止
@@ -3443,13 +3443,13 @@ Be sure to exit %s before you unplug the USB drive!
 请在移除 USB 驱动器前退出 %s!
 
 Failed to connect to %s Remote %S%S%s
-连接到 %s 远端 %S%S%s 失败
+连接到 %s 远程控制 %S%S%s 失败
 
 \n\nPress "OK" to review your login settings.
 \n\n按"确定"检查您的登录设置。
 
 Failed to connect to %s Remote because the username or password was wrong.\n\nWould you like to register a new account under the name "%S"?\n
-连接 %s 远端失败，用户名或密码错误。\n\n您想用“%S”名称创建一个新账号吗？\n
+连接 %s 远程控制失败，用户名或密码错误。\n\n您想用“%S”名称创建一个新账号吗？\n
 
 &About µTorrent
 关于 µTorrent(&A)
@@ -3917,7 +3917,7 @@ C&opy Selected Hosts
 记录区块信息(&L)...
 
 Reload &IPFilter
-重新载入&IPFilter
+重新载入 &IPFilter
 
 &Resolve IPs
 解析 IP 地址(&R)
@@ -3929,10 +3929,10 @@ Failed to relocate file %s, %s
 未能重定位文件 %s, %s
 
 Today is your lucky day! %s will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
-今天是你的幸运日！%s 将定期自动更新 - 将新内容交付予你。\n\n只需保持它，免费内容源源不断!
+今天是你的幸运日! %s 将定期自动更新 - 将新内容交付予你。\n\n只需保持它，免费内容源源不断!
 
 Today is your lucky day! we will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
-今天是你的幸运日！我们将将定期自动更新 - 将新内容交付予你。\n\n只需保持它，免费内容源源不断!
+今天是你的幸运日! 我们将将定期自动更新 - 将新内容交付予你。\n\n只需保持它，免费内容源源不断!
 
 In order to gain access to any free updates from %s, you have to keep it in your queue. Easy, right?
 为了获得 %s 免费更新的访问权限，您必须将它在保留在队列中。很容易，对不对？
@@ -4124,13 +4124,13 @@ Problem reading web100 variables.
 读取 web100 变量出现问题。
 
 Added On:
-添加日期:
+添加时间:
 
 Completed On:
-完成日期:
+完成时间:
 
 Created By:
-创建于:
+创建工具:
 
 No
 否
@@ -4304,7 +4304,7 @@ Seeding
 做种中
 
 Added
-添加日期
+添加时间
 
 Antivirus
 防病毒
@@ -4664,7 +4664,7 @@ Stop Torrent
 停止 Torrent
 
 Remote
-远程
+远程控制
 
 Unlock Bundle
 解锁包
@@ -4676,7 +4676,7 @@ Unlock
 解锁
 
 uT remote
-远程控制
+uT 远程控制
 
 Virus Scan
 病毒扫描
@@ -4712,7 +4712,7 @@ Close
 关闭
 
 Thank you for taking our survey!
-感谢您参与我们的调查问卷！
+感谢您参与我们的调查问卷!
 
 At BitTorrent, we're always trying to improve our\nproducts.  Your feedback is incredibly helpful to\nus.  We really appreciate your valuable input.
 在 BitTorrent，我们始终尝试在改善我们的产品。\n您的反馈对我们非常有帮助。\n我们非常感谢您的宝贵意见。
@@ -4970,7 +4970,7 @@ Open URL in &Browser
 删除(&D)
 
 (match always)||(match only once)||12 hours||1 day||2 days||3 days||4 days||1 week||2 weeks||3 weeks||1 month||
-(总是匹配)||(此次匹配)||12 小时|| 1 天|| 2 天|| 3 天|| 4 天|| 1 周|| 2 周|| 3 周||每月||
+(总是匹配)||(匹配一次)||12 小时|| 1 天|| 2 天|| 3 天|| 4 天|| 1 周|| 2 周|| 3 周||每月||
 
 Date of last match: %s\r\nLast episodes matched: %s\r\n\r\nMatching releases:\r\n%s
 上次匹配时间: %s\r\n上次匹配季集: %s\r\n\r\n匹配发布:\r\n%s
@@ -5147,7 +5147,7 @@ Limited -\nUses scheduler-specified\nbandwidth limits
 限速 -\n使用计划制定的\n带宽设置
 
 Seeding only
-仅仅做种
+仅做种
 
 Seeding only -\nOnly uploads data\n(including incomplete)
 做种 -\n仅上传数据\n(包括未完成任务)
@@ -5192,7 +5192,7 @@ Run Tests
 运行测试
 
 This test will use <a href="http://www.utorrent.com/faq#mlabs">Measurement Lab</a> tools to check and set your bandwidth limits.
-此测试将使用 <a href="http://www.utorrent.com/faq#mlabs">Measurement Lab</a>工具检测和设置您的带宽限制。
+此测试将使用 <a href="http://www.utorrent.com/faq#mlabs">Measurement Lab</a> 工具检测并设置您的带宽限制。
 
 If no location is near, you can test at <a href="http://dslreports.com/speedtest/">dslreports</a> and input your upload speed.
 如果没有附近的地址，您可以在 <a href="http://dslreports.com/speedtest/">dslreports</a> 测试然后输入您的上传速度。
@@ -5210,7 +5210,7 @@ Stop Tests
 %s 将测试您的网络并进行自我配置以获得最佳性能。
 
 Choose the closest test location ...
-选择最接近的测试位置...
+请选择最接近的测试位置...
 
 Downloading Server List ...
 正在下载服务器列表...
@@ -5549,13 +5549,13 @@ General
 常规
 
 UI Settings
-界面设置
+界面
 
 Label
 标签
 
 Transfer Cap
-传输限额
+限额
 
 Paired Devices
 已配对设备
@@ -5570,7 +5570,7 @@ Scheduler
 计划
 
 Queueing
-排队中
+队列
 
 Playback
 播放
@@ -5657,7 +5657,7 @@ Do you really want to reset your bandwidth usage history?\n\nThis operation cann
 您真的要重置您的带宽使用历史？\n\n此操作无法撤消。
 
 You can use the following parameters:\r\n\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%P - Previous state of torrent\r\n%L - Label\r\n%T - Tracker\r\n%M - Status message string (same as status column)\r\n%I - hex encoded info-hash\r\n%S - State of torrent\r\n%K - kind of torrent (single|multi)\r\n\r\nWhere State is one of:\r\n\r\nError - 1\r\nChecked - 2\r\nPaused - 3\r\nSuper seeding - 4\r\nSeeding - 5\r\nDownloading - 6\r\nSuper seed [F] - 7\r\nSeeding [F] - 8\r\nDownloading [F] - 9\r\nQueued seed - 10\r\nFinished - 11\r\nQueued - 12\r\nStopped - 13\r\nQueued - 12\r\nPreallocating - 17\r\nDownloading Metadata - 18\r\nConnecting to Peers - 19\r\nMoving - 20\r\nFlushing - 21\r\nNeed DHT - 22\r\nFinding Peers - 23\r\nResolving - 24\r\nWriting - 25
-您可以使用下列参数：\r\n\r\n%F - 已下载文件的名称 (对于单文件的种子)\r\n%D - 保存文件的目录\r\n%N - 种子的标题\r\n%P - 此前种子的状态\r\n%L - 标签\r\n%T - Tracker\r\n%M - 状态消息字符串 (与状态列相同)\r\n%I - 十六进制编码的散列信息\r\n%S - 种子的状态\r\n%K - 种子的种类 (single|multi)\r\n\r\n状态可能是:\r\n\r\n错误 - 1\r\n已检查 - 2\r\n已暂停 - 3\r\n超级做种中 - 4\r\n做种中 - 5\r\n下载中 - 6\r\n超级种子 [强制] - 7\r\n做种中 [强制] - 8\r\n下载中 [强制] - 9\r\n排队种子 - 10\r\n已完成 - 11\r\n排队中 - 12\r\n已停止 - 13\r\n排队中 - 12\r\n预分配中 - 17\r\n元数据下载中 - 18\r\n正在连接用户 - 19\r\n移动中 - 20\r\n实际写入中 - 21\r\n需要 DHT - 22\r\n查找用户中 - 23\r\n解析中 - 24\r\n等待中 - 25
+您可以使用下列参数：\r\n\r\n%F - 已下载文件的名称 (对于单文件的种子)\r\n%D - 保存文件的目录\r\n%N - 种子的标题\r\n%P - 种子的上一个状态\r\n%L - 标签\r\n%T - Tracker\r\n%M - 状态消息字符串 (与状态列相同)\r\n%I - 十六进制编码的散列信息\r\n%S - 种子的状态\r\n%K - 种子的种类 (single|multi)\r\n\r\n状态可能是:\r\n\r\n错误 - 1\r\n已检查 - 2\r\n已暂停 - 3\r\n超级做种中 - 4\r\n做种中 - 5\r\n下载中 - 6\r\n超级种子 [强制] - 7\r\n做种中 [强制] - 8\r\n下载中 [强制] - 9\r\n排队种子 - 10\r\n已完成 - 11\r\n排队中 - 12\r\n已停止 - 13\r\n排队中 - 12\r\n预分配中 - 17\r\n元数据下载中 - 18\r\n正在连接用户 - 19\r\n移动中 - 20\r\n实际写入中 - 21\r\n需要 DHT - 22\r\n查找用户中 - 23\r\n解析中 - 24\r\n等待中 - 25
 
 In which city or town were you born?
 您出生在哪个城市或城镇?
@@ -5774,7 +5774,7 @@ Add Peer
 添加用户
 
 Enter the IP:port / [IPv6]:port of the peer to add:
-输入 IP:端口 / [IPv6]:添加的用户端口:
+请输入要添加的用户的 IP:端口 或 [IPv6]:端口 信息:
 
 Executable files (*.exe)||*.exe||All files (*.*)||*.*||
 可执行文件 (*.exe)||*.exe||全部文件 (*.*)||*.*||
@@ -5798,10 +5798,10 @@ New version|A new version of %s is now available!
 新版本|一个新版本的 %s 现在可用!
 
 !Error|There is not enough disk space to move %s to its final location
-！错误|没有足够的磁盘空间将 %s 移至其最终的位置
+!错误|没有足够的磁盘空间将 %s 移至其最终的位置
 
 !Torrent Error|File: %s\n%s
-！Torrent 错误|文件: %s\n%s
+!Torrent 错误|文件: %s\n%s
 
 Announces
 通告
@@ -5849,10 +5849,10 @@ Are you sure you want to remove the selected tracker?
 您确定要移除选定的 Tracker 吗？
 
 You must enter a password to use %s Remote.
-您必须输入一个密码以使用 %s 远端。
+您必须输入一个密码以使用 %s 远程控制。
 
 Could not contact the %s Remote service to register.
-无法连接 %s 远端服务进行注册。
+无法连接 %s 远程控制服务进行注册。
 
 There is already a computer using the username "%S".
 已经有人使用了用户名 "%S"。
@@ -6038,7 +6038,7 @@ Are you sure you want to remove the selected torrent?
 您确定要移除选定的 Torrent 吗？
 
 Help your fellow users - rate this before you delete it.
-帮助其他使用者 - 在您删除前进行评分。
+帮助其他使用者 - 删除前进行评分。
 
 Could not download WebUI file. Error: %s
 无法下载网页界面文件。错误: %s
