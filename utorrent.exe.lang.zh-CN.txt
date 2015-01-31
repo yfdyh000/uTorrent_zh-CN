@@ -956,7 +956,7 @@ Rate
 速度
 
 Hashing
-正在计算散列
+计算散列
 
 &Reset
 重置(&R)
@@ -2354,7 +2354,7 @@ A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you 
 µTorrent 的新版本 %d.%d.%d build %d 已经安装。您希望降级到 %d.%d.%d build %d 吗?\n选择“否”继续运行 µTorrent。
 
 Downloading %s ...
-正在下载 %s ...
+正在下载 %s...
 
 Failed to download translation. Please try again.
 下载翻译失败。请重试。
@@ -2903,7 +2903,7 @@ Network Overhead
 %d 天
 
 %#z of %#z
-%#z 于 %#z
+%#z / %#z
 
 Streaming
 串流
@@ -2912,7 +2912,7 @@ Transfer Cap
 传输限额
 
 Transfer History
-转移历史记录
+传输记录
 
 Upload
 上传
@@ -3008,7 +3008,7 @@ Incomplete
 不完整
 
 Installing %s ...
-正在安装 %s ...
+正在安装 %s...
 
 I &Agree
 我同意(&A)
@@ -3647,7 +3647,7 @@ Prioritize by File &Order
 按照文件顺序排列优先级(&O)
 
 &Relocate...
-重定位(&R)...
+重定位置(&R)...
 
 %s - %z/s
 %s - %z/s
@@ -3809,10 +3809,10 @@ Open URL in Bro&wser
 暂停(&P)
 
 Convert For..
-转换..
+转换...
 
 Transfer To..
-传输到..
+传输到...
 
 Force Streaming
 强制串流
@@ -3926,7 +3926,7 @@ Reload &IPFilter
 记录通讯到日志窗口(&L)
 
 Failed to relocate file %s, %s
-未能重定位文件 %s, %s
+文件 %s, %s 重定位置失败
 
 Today is your lucky day! %s will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
 今天是你的幸运日! %s 将定期自动更新 - 将新内容交付予你。\n\n只需保持它，免费内容源源不断!
@@ -4013,7 +4013,7 @@ Invalid test ID
 无效的测试 ID
 
 Error logging in: Couldn't receive test order
-日志错误: 无法接受测试指令
+日志错误: 无法接收测试指令
 
 Error logging in: version check
 日志错误: 版本检查
@@ -4325,13 +4325,13 @@ Debug
 调试
 
 Disk Job
-磁盘工作
+磁盘任务
 
 Done
 完成率
 
 Downloaded
-已下载
+已经下载
 
 Down Limit
 下载限制
@@ -4340,7 +4340,7 @@ Down Speed
 下载速度
 
 Elapsed
-已用
+已经用时
 
 Episode
 季集
@@ -4364,7 +4364,7 @@ Name
 名称
 
 Name ...\r\nA new line of text
-名称 ...\r\n新的文本行
+名称...\r\n新的文本行
 
 #
 #
@@ -4376,7 +4376,7 @@ Rating
 评分
 
 Remaining
-剩余
+剩余大小
 
 Save Directory
 保存目录
@@ -4412,7 +4412,7 @@ Tracker Status
 Tracker 状态
 
 Uploaded
-已上传
+已经上传
 
 Up Limit
 上传限制
@@ -4439,7 +4439,7 @@ unsupported
 不支持
 
 Filter Torrents
-过滤 Torrent
+筛选 Torrent
 
 Checked %:.1d%%
 已检查 %:.1d%%
@@ -4634,10 +4634,10 @@ Toggle Torrent View
 切换任务视图
 
 Move Down Queue
-下移队列
+队列中下移
 
 Move Up Queue
-上移队列
+队列中上移
 
 Preferences
 设置
@@ -5201,7 +5201,7 @@ Stop Tests
 停止测试
 
 %s Setup Guide
-%s 安装向导
+%s 设置向导
 
 %s Bandwidth Configuration
 %s 带宽配置
@@ -5294,16 +5294,16 @@ send rate to player
 发送到播放器的速率
 
 cache reading
-缓存读取
+读取缓存
 
 file reading
-文件读取
+读取文件
 
 cache writing
-缓存写入
+写入缓存
 
 file writing
-文件写入
+写入文件
 
 transfer cap
 传输限额
