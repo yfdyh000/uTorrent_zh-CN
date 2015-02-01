@@ -920,7 +920,7 @@ From File
 读取文件
 
 #
-#
+次数
 
 Amount
 总计
@@ -938,7 +938,7 @@ Cache:
 缓存:
 
 #
-#
+次数
 
 To Cache
 写入缓存
@@ -1982,7 +1982,7 @@ Wr&ite out untouched blocks every 2 minutes
 每 2 分钟写入未使用的区块(&I)
 
 Wri&te out finished pieces immediately
-立即写入已下载完毕的区块(&T)
+立即写入已下载完成的区块(&T)
 
 Enable caching of disk &reads
 启用磁盘读取缓存(&R)
@@ -2324,7 +2324,7 @@ Run this program when the download finishes:
 ...
 
 You can use these commands:\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%S - State of torrent\r\n%L - Label\r\n%T - Tracker
-您可以使用以下命令:\r\n%F - 下载文件的名称 (单文件 Torrent 适用)\r\n%D - 文件保存的目录\r\n%N - Torrent 的标题\r\n%S - Torrent 的状态\r\n%L - 标签\r\n%T - Tracker
+您可以使用下列参数:\r\n%F - 下载文件的名称 (单文件 Torrent 适用)\r\n%D - 文件保存的目录\r\n%N - Torrent 的标题\r\n%S - Torrent 的状态\r\n%L - 标签\r\n%T - Tracker
 
 %M - Status message string (status column)\r\n%I - hex encoded info-hash\r\n%K - kind of torrent (single|multi)\r\n\r\nState: combo of:\r\nstarted=1, checking=2, start-after-check=4,\r\nchecked=8, error=16, paused=32, auto=64, loaded=128
 %M - 状态信息 (状态栏)\r\n%I - 十六进位制特征码\r\n%K - Torrent类型 (单一文件|多个文件)\r\n状态是以下的组合: 已开始 = 1, 检查中 = 2, 检查后开始 = 4,\r\n已检查 = 8, 错误 = 16, 已暂停 = 32, 自动 = 64, 已载入 = 128
@@ -5384,10 +5384,10 @@ upload rate (local peers)
 上传速度(本地用户)
 
 hash chunks
-散列区块
+计算单元散列
 
 hash piece
-散列块
+计算区块散列
 
 preallocate
 预分配
@@ -5417,10 +5417,10 @@ download rate (local peers)
 下载速度(本地用户)
 
 delayed torrent work
-已延迟的 Torrent 工作
+延迟的 Torrent 工作
 
 delete torrent
-删除文件
+删除 Torrent
 
 delete files
 删除文件
