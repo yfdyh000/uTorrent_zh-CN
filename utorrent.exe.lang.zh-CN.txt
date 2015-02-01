@@ -83,7 +83,7 @@ Anti-virus Information
 \n此应用已下载，从 %S
 
 Installing %s
-正在安装... %s
+正在安装...%s
 
 This %s app was downloaded from a website.\nOnly install it if it came from a trusted source.\nWould you like to install?\n\nTitle: %s\nPublisher: %S\nUpdate URL: %S
 %s 应用是从一个网站上下载的。\n应该只安装来源于可信任网站的应用。\n您要安装吗?\n\n标题: %s\n发布者: %S\n更新网址: %S
@@ -263,7 +263,7 @@ Unknown torrent
 未知的 Torrent
 
 Former volume not mounted
-Former volume not mounted
+此前的卷未挂载
 
 Warning: %s
 警告: %s
@@ -275,7 +275,7 @@ Checking auto portmap configuration ...
 正在检查自动端口映射配置...
 
 Checking queue ... we are #%d.
-正在检查队列... 我们是 #%d。
+正在检查队列...我们是 #%d。
 
 Offer
 提供
@@ -1124,7 +1124,7 @@ Add an exception for µTorrent in Windows Firewall
 添加 µTorrent 到 Windows 防火墙例外
 
 Start µTorrent when Windows starts up
-系统启动时运行 µTorrent
+Windows 启动时运行 µTorrent
 
 Select which file types you would like µTorrent to handle by default.
 选择您希望 µTorrent 默认处理哪些文件类型。
@@ -1349,7 +1349,7 @@ Label for new torrents:
 删除(&D)
 
 µTorrent Remote
-远程控制
+µTorrent 远程控制
 
 Your µTorrent Remote account does not currently have a security question set. A security question can be used later to transfer your username to another computer. Would you like to create one now?
 您的 µTorrent 远程控制账号尚未设置一个安全问题。设置一个安全问题可以使您能在另一台计算机上使用同一账号。您希望立即创建一个问题吗？
@@ -1367,13 +1367,13 @@ No thanks
 取消
 
 µTorrent Remote
-远程控制
+µTorrent 远程控制
 
 There is already a computer using the username *
-该帐户名已被使用 *
+该用户名已被使用 *
 
 If this username is yours, please enter your security answer below to confirm your identity and transfer the username to this computer.
-如果该帐户名是你的，请在下方输入您的安全问题的答案以确认您的身份并转移该帐户到这台计算机。
+如果该用户名是你的，请在下方输入您的安全问题的答案以确认您的身份并转移该账号到这台计算机。
 
 Question:
 问题:
@@ -1901,7 +1901,7 @@ Enable &Web UI
 密码(&P):
 
 Enable &Guest account with username:
-启用访客帐户，使用用户名(&G):
+启用访客账号，使用用户名(&G):
 
  Connectivity *
  连接设置 *
@@ -2462,7 +2462,7 @@ A web page showing results will launch
 将启动一个网页显示结果
 
 ... There is no step three!
-... 没有第三步!
+...没有第三步!
 
 Manage Search Providers...
 管理搜索提供者...
@@ -3329,7 +3329,7 @@ Registration failure%S%S
 注册失败%S%S
 
 Failure reclaiming account%S%S
-取回帐户失败%S%S
+取回账号失败%S%S
 
 Failure registering security question%S%S
 注册安全问题失败%S%S
@@ -4217,7 +4217,7 @@ Stack overflow
 堆栈溢出
 
 Volume unmounted
-卷未弹出
+卷未挂载
 
 Manually Transfer
 手动传输
@@ -5258,7 +5258,7 @@ FAILED
 失败
 
 Hibernating computer... %s
-计算机正在进入休眠状态... %s
+计算机正在进入休眠状态...%s
 
 OK
 确定
@@ -5267,16 +5267,16 @@ Quitting program
 程序正在退出
 
 Restarting computer... %s
-正在重启计算机... %s
+正在重启计算机...%s
 
 Shutting down computer... %s
-正在关闭计算机... %s
+正在关闭计算机...%s
 
 Stand-by computer... %s
-计算机正在进入待机状态... %s
+计算机正在进入待机状态...%s
 
 (Alternate speed test at <a href="http://dslreports.com/speedtest/">dslreports</a>)
-(通过<a href="http://dslreports.com/speedtest/">dslreports</a>测试网络速度)
+(通过 <a href="http://dslreports.com/speedtest/">dslreports</a> 测试网络速度)
 
 upload rate limit
 上传速度限制
@@ -5858,7 +5858,7 @@ There is already a computer using the username "%S".
 已经有人使用了用户名 "%S"。
 
 That was not the correct security answer for the username "%S". Try again.
-“%S”帐户的安全问题答案不正确。请重试。
+“%S”账号的安全问题答案不正确。请重试。
 
 Status: Accessible
 状态: 可存取
@@ -5870,7 +5870,7 @@ Status: Not accessible
 状态: 无法获取
 
 Status: Could not reclaim account
-状态: 无法取回帐号
+状态: 无法取回账号
 
 Status: Registration failed
 状态: 注册失败
@@ -5879,7 +5879,7 @@ Status: Registration failed
 状态: 注册失败
 
 Status: Reclaimed account
-状态: 已重新找回帐号
+状态: 已找回账号
 
 Status: Reconnecting in %d seconds
 状态: 重新连接在 %d 秒
