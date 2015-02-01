@@ -1820,7 +1820,7 @@ Minimum seeding time (minutes):
 最小做种时间(分钟):
 
 Minimum number of available seeds:
-最少可用种子数量:
+最小可用种源数量:
 
 &Seeding tasks have higher priority than downloading tasks
 做种任务的优先级高于下载任务(&S)
@@ -2294,7 +2294,7 @@ Minimum seeding time (minutes):
 最小做种时间(分): 
 
 Minimum number of available seeds:
-最少可用种子数量:
+最小可用种源数量:
 
  Other Settings *
  其他设置 *
@@ -2423,7 +2423,7 @@ Dis&able Feed
 禁用订阅(&A)
 
 &Edit Feed...
-编辑订阅(&E)
+编辑订阅(&E)...
 
 En&able Feed
 启用订阅(&A)
@@ -2786,10 +2786,10 @@ scraping
 状态查询中
 
 %#Z (%#Z done) (%#Z total)
-%#Z (完成 %#Z) (总计 %#Z)
+%#Z (已完成 %#Z) (总计 %#Z)
 
 %#Z (%#Z done)
-%#Z (%#Z 完成)
+%#Z (已完成 %#Z)
 
 Time Elapsed:
 已用时间:
@@ -2801,7 +2801,7 @@ Uploaded:
 已经上传:
 
 Seeds:
-种子数量:
+种源数量:
 
 Remaining:
 剩余时间:
@@ -3005,7 +3005,7 @@ Please shut down µTorrent and try again *
 请关闭 µTorrent 后再试。 *
 
 Incomplete
-不完整
+未完成
 
 Installing %s ...
 正在安装 %s...
@@ -3065,22 +3065,22 @@ Warning
 升级(&U)
 
 Unsupported Operating System (OS)
-不支持的操作系统 (OS)
+不支持的操作系统
 
 NOTICE
 注意
 
 This wizard will guide you through the installation of %s®, the #1 torrent download client on desktops and mobile devices worldwide.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s) by BitTorrent, Inc.\r\n\r\nClick Next to continue.
-本向导将引导您完成安装 %s® 的过程，#1 Torrent 下载客户端已安装在桌面和移动设备上。%s® 是一个 Torrent 下载客户端，可让您快速、高效地下载文件。\r\n\r\n版本: %s (Build %s) BitTorrent 公司发行。\r\n\r\n点击“下一步”继续。
+本向导将引导您安装 %s®，#1 是桌面和移动设备上的 Torrent 下载客户端。%s® 是一个 Torrent 下载客户端，可让您快速、高效地下载文件。\r\n\r\n版本: %s (Build %s) BitTorrent 公司发行。\r\n\r\n点击“下一步”继续。
 
 This wizard will guide you through the installation of the official %s® torrent download client from BitTorrent Inc., the inventors of the BitTorrent protocol.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
-本向导将引导您完成官方的 %s® Torrent 下载客户端，出自 BitTorrent 公司，BitTorrent 协议的发明者。%s® 是一个 Torrent 下载客户端，可让您快速、高效地下载文件。\r\n\r\n版本: %s (Build %s)\r\n\r\n点击“下一步”继续。
+本向导将引导您安装 %s® Torrent 下载客户端，本软件出自 BitTorrent 公司，BitTorrent 协议的发明者。%s® 是一个 Torrent 下载客户端，可让您快速、高效地下载文件。\r\n\r\n版本: %s (Build %s)\r\n\r\n点击“下一步”继续。
 
 Welcome to the µTorrent® Setup Wizard
 欢迎使用 µTorrent® 安装向导
 
 %s does not not support the Windows 2000 OS and may not\r\nrun properly.  We recommend you upgrade to\r\na newer Windows OS.
-%s 不支持 Windows 2000 并可能无法正常运行。\r\n建议您升级到新版 Windows 操作系统。
+%s 不支持 Windows 2000 操作系统，并可能无法正常运行。\r\n建议您升级到新版 Windows 操作系统。
 
 Invalid folder specified. Please choose another folder.
 指定的目录无效。请选择其他目录。
@@ -3113,7 +3113,7 @@ Enter logfile
 输入日志文件
 
 Enter the name of the file to log to:
-输入保存日志的文件名:
+请输入保存日志的文件名:
 
 Log aggregated messages
 记录汇总信息
@@ -4382,10 +4382,10 @@ Save Directory
 保存目录
 
 Seeds
-种子
+种源
 
 Seeds/Peers
-种子/用户
+种源/用户
 
 Selected Size
 选定大小
@@ -5825,7 +5825,7 @@ Scrapes
 状态查询
 
 Seeds
-种子
+种源
 
 Status
 状态
