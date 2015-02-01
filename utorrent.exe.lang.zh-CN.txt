@@ -38,13 +38,13 @@ Current Directory
 取消全选(&D)
 
  (disk space: %#Z)
- (剩余空间: %#Z)
+ (磁盘空间: %#Z)
 
  (of %#Z)
  (总计 %#Z)
 
 There is not enough free disk space to save the files in the folder you selected.\r\nDo you want to continue anyway?
-没有足够的剩余空间用以存放您所选定的文件。\r\n确定要继续吗？
+没有足够的磁盘空间用以存放您选定的文件。\r\n您坚持继续吗？
 
 The directory you chose is not on the same drive as the %s client. It will not come along when you move the USB drive. Are you sure you want to continue?
 您选择的不是相同的路径 %s 客户端将不会找到该路径.当你移动 USB 驱动器时. 你是否要继续吗？
@@ -56,7 +56,7 @@ The directory you chose is not on the same drive as the %s client. It will not c
 全选(&S)
 
 One or more files exceed the filesystem size limit, these files can not be saved properly.\r\nDo you want to continue anyway?
-一个或多个文件超出系统文件大小限制，这些文件无法被正确保存。\r\n您希望继续吗？
+一个或多个文件超出文件系统的大小限制，这些文件无法被正确保存。\r\n您坚持继续吗？
 
 Please add fewer torrents at once.
 请一次添加少量 Torrent。
@@ -83,7 +83,7 @@ Anti-virus Information
 \n此应用已下载，从 %S
 
 Installing %s
-正在安装...%s
+正在安装 %s
 
 This %s app was downloaded from a website.\nOnly install it if it came from a trusted source.\nWould you like to install?\n\nTitle: %s\nPublisher: %S\nUpdate URL: %S
 %s 应用是从一个网站上下载的。\n应该只安装来源于可信任网站的应用。\n您要安装吗?\n\n标题: %s\n发布者: %S\n更新网址: %S
@@ -146,7 +146,7 @@ Torrent 内容正在等待检查病毒与间谍软件。
 忽略并且不处理病毒 (不建议)\r\n
 
 The torrent you downloaded contains a virus! We have safely\r\nquarantined the virus. What do you want to do?\r\n\r\n
-您下载的 Torrent 内容中包含病毒!我们已安全地\r\n隔离病毒。您想做什么操作?\r\n\r\n
+您下载的 Torrent 内容中包含病毒! 我们已安全地\r\n隔离病毒。您想执行什么操作?\r\n\r\n
 
 Torrent name: *
 Torrent 名称: *
@@ -188,7 +188,7 @@ App is not compatible with client
 应用与客户端不兼容
 
 Missing index.html
-缺少 index.html 文件
+缺少 index.html
 
 GetContentFile() does not contain a file [BtApp]
 GetContentFile() 未包含文件 [BT应用程序]
@@ -308,7 +308,7 @@ The size of the selected data is 0 bytes. Please specify another file or directo
 选定数据的大小为 0 字节。请指定其他文件或目录。
 
 The directory you have selected contains more than 1000 files. The resulting .torrent will get very large. A better idea is to put the files into a compressed file and then share that file.\r\n\r\nDo you want to continue anyway?
-您选定的目录所含的文件多于 1000 个。这将导致生成的 .torrent 文件非常大。更好的方法是压缩为一个文件后再分享该文件。\r\n\r\n您坚持要继续吗？
+您选定的目录所含的文件多于 1000 个。这将导致生成的 .torrent 文件非常大。更好的方法是压缩为一个文件后再分享该文件。\r\n\r\n您坚持继续吗？
 
 Drag either a single file or a folder to the window.
 把单个文件或目录拖拽到窗口中。
@@ -377,7 +377,7 @@ Newest
 最新
 
 %u Ratings
-%u 评分
+%u 条评分
 
 Oldest
 最旧
@@ -623,7 +623,7 @@ Add New Torrent
 添加新的 Torrent
 
  Save In *
-保存到 *
+保存在 *
 
 ...
 ...
@@ -632,7 +632,7 @@ Add New Torrent
 名称 *
 
 Don't show this again
-不再显示这个
+不再显示此对话框
 
  Convert on Completion for *
  转换完成 *
@@ -1301,7 +1301,7 @@ Not:
 非:
 
 Save in:
-保存到:
+保存在:
 
 ...
 ...
@@ -1469,7 +1469,7 @@ Update to beta versions
 更新到测试版
 
 Send detailed info when checking for updates (always anonymous)
-检查更新时发送细节信息(匿名)
+检查更新时发送详细信息(匿名)
 
 &Boss-Key:
 老板键(&B):
@@ -2267,7 +2267,7 @@ Cancel
 取消
 
  Trackers (separate tiers with an empty line) *
- Tracker (用一个空行来分割) *
+ Tracker (用一个空行来分隔) *
 
  Bandwidth Settings *
  带宽设置 *
@@ -3374,7 +3374,7 @@ Data send
 发送数据
 
 \r\nUploaded this run: %#Z\r\nDownloaded this run: %#Z\r\nUploaded Today: %#Z\r\nDownloaded Today: %#Z\r\nTransferred last %d days: %#Z\r\nTotal Uploaded: %#Z\r\nTotal Downloaded: %#Z\r\nTotal Ratio: %:.3d\r\nTotal Running Time: %d:%.2d:%.2d\r\nNumber of torrents added: %d\r\nProgram launched: %d times\r\n\r\nLast launched: %s\r\n# incoming conns since start: %d\r\n# outgoing conns since start: %d\r\n# handshake: %d\r\n# connections: %d\r\n# uTP connecting: %d\r\n# TCP connecting: %d\r\n# half-open: %d (%d queued)\r\n
-\r\n本次运行上传: %#Z\r\n本次运行下载: %#Z\r\n今日上传: %#Z\r\n今日下载: %#Z\r\n最近 %d 天传输: %#Z\r\n总上传: %#Z\r\n总下载: %#Z\r\n总分享率: %:.3d\r\n总运行时间: %d:%.2d:%.2d\r\n已添加种子总计: %d 个\r\n程序启动: %d 次\r\n\r\n上次启动: %s\r\n# 启动后连入连接数: %d\r\n# 启动后连出连接数: %d\r\n# 握手次数: %d\r\n# 连接数: %d\r\n# uTP 连接数: %d\r\n# TCP 连接数: %d\r\n# 半开连接数: %d (%d 排队)\r\n
+\r\n本次运行上传: %#Z\r\n本次运行下载: %#Z\r\n今日上传: %#Z\r\n今日下载: %#Z\r\n最近%d天传输: %#Z\r\n总上传: %#Z\r\n总下载: %#Z\r\n总分享率: %:.3d\r\n总运行时间: %d:%.2d:%.2d\r\n已添加种子总计: %d 个\r\n程序启动: %d 次\r\n\r\n上次启动: %s\r\n# 启动后传入连接数: %d\r\n# 启动后传出连接数: %d\r\n# 握手次数: %d\r\n# 当前连接数: %d\r\n# uTP 连接数: %d\r\n# TCP 连接数: %d\r\n# 半开连接数: %d (%d 排队)\r\n
 
 Allocating files
 分配文件
@@ -3440,13 +3440,13 @@ Select a .torrent to update to
 选择一个 .torrent 来更新到
 
 Be sure to exit %s before you unplug the USB drive!
-请在移除 USB 驱动器前退出 %s!
+请在拔出 USB 驱动器前退出 %s!
 
 Failed to connect to %s Remote %S%S%s
 连接到 %s 远程控制 %S%S%s 失败
 
 \n\nPress "OK" to review your login settings.
-\n\n按"确定"检查您的登录设置。
+\n\n按"确定"查阅您的登录设置。
 
 Failed to connect to %s Remote because the username or password was wrong.\n\nWould you like to register a new account under the name "%S"?\n
 连接 %s 远程控制失败，用户名或密码错误。\n\n您想用“%S”名称创建一个新账号吗？\n
@@ -3656,7 +3656,7 @@ Prioritize by File &Order
 %s %#Z / %#Z
 
 %s - %s remaining
-%s - %s 剩余
+%s - 剩余 %s
 
 %s - Initializing download
 %s - 正在初始化下载
@@ -3923,7 +3923,7 @@ Reload &IPFilter
 解析 IP 地址(&R)
 
 &Log Traffic to Logger Tab
-记录通讯到日志窗口(&L)
+记录通讯到日志(&L)
 
 Failed to relocate file %s, %s
 文件 %s, %s 重定位置失败
