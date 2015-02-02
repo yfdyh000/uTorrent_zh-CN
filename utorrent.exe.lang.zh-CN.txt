@@ -1697,7 +1697,7 @@ Stop transfers on user interaction
 连接数
 
 Global maximum number of connections:
-全局最大连接数量:
+全局最大连接数:
 
 Maximum number of connected peers per torrent:
 每个任务的最大连接用户数:
@@ -1943,10 +1943,10 @@ False(&F)
 重置(&R)
 
  Speed Popup List [Separate multiple values with a comma]
- 速度弹出列表 [用逗号分隔多重数值]
+ 速度列表 [用逗号分隔多个数值]
 
 &Override automatic speed popup list
-覆盖自动的速度弹出列表(&O)
+覆盖自动的速度列表(&O)
 
 Upload speed list:
 上传速度列表:
@@ -1955,7 +1955,7 @@ Download speed list:
 下载速度列表:
 
  Persistent Labels [Separate multiple labels with a | character]
- 永久标签 [请用 | 字符分隔多个标签]
+ 持久标签 [用 | 字符分隔多个标签]
 
  Search Engines [Format: name|URL] *
  搜索引擎 [格式: 名称|URL] *
@@ -5114,7 +5114,7 @@ The file '%s' could not be written to.
 无法写入文件 '%s'。
 
 The file '%s' is in use by another process and can't be opened.
-文件 '%s' 被另外的线程使用，无法打开。
+文件 '%s' 已被其他进程占用，无法打开。
 
 The file '%s' was not found.
 找不到文件 '%s'。
@@ -5138,25 +5138,25 @@ Full speed
 全速
 
 Full speed -\nUses normal global\nbandwidth limits
-全速 -\n使用常规的全局\n带宽设置
+全速 -\n使用正常的全局带宽设置
 
 Limited
 限速
 
 Limited -\nUses scheduler-specified\nbandwidth limits
-限速 -\n使用计划制定的\n带宽设置
+限速 -\n使用计划任务的带宽设置
 
 Seeding only
 仅做种
 
 Seeding only -\nOnly uploads data\n(including incomplete)
-做种 -\n仅上传数据\n(包括未完成任务)
+仅做种 -\n仅上传数据\n(包括未完成任务)
 
 Turn off
 关闭
 
 Turn off -\nStops all torrents\nthat are not forced
-关闭 -\n停止所有非强制\n任务
+关闭 -\n停止所有非强制任务
 
 video
 视频
@@ -5174,7 +5174,7 @@ More info is in the <a href="http://www.utorrent.com/faq">FAQ</a> and at <a href
 *
 
 PostMessage failed h:%d i:%d t:%d e:%d
-发送消息失败 h:%d i:%d t:%d e:%d
+PostMessage 失败 h:%d i:%d t:%d e:%d
 
 Results: Port is not open (you are still able to download).
 结果: 端口未打开 (您仍可以下载)。
@@ -5528,7 +5528,7 @@ Advanced
 高级
 
 UI Extras
-界面附加
+界面组件
 
 Anti-virus
 防病毒
@@ -5657,7 +5657,7 @@ Do you really want to reset your bandwidth usage history?\n\nThis operation cann
 您真的要重置您的带宽使用历史？\n\n此操作无法撤消。
 
 You can use the following parameters:\r\n\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%P - Previous state of torrent\r\n%L - Label\r\n%T - Tracker\r\n%M - Status message string (same as status column)\r\n%I - hex encoded info-hash\r\n%S - State of torrent\r\n%K - kind of torrent (single|multi)\r\n\r\nWhere State is one of:\r\n\r\nError - 1\r\nChecked - 2\r\nPaused - 3\r\nSuper seeding - 4\r\nSeeding - 5\r\nDownloading - 6\r\nSuper seed [F] - 7\r\nSeeding [F] - 8\r\nDownloading [F] - 9\r\nQueued seed - 10\r\nFinished - 11\r\nQueued - 12\r\nStopped - 13\r\nQueued - 12\r\nPreallocating - 17\r\nDownloading Metadata - 18\r\nConnecting to Peers - 19\r\nMoving - 20\r\nFlushing - 21\r\nNeed DHT - 22\r\nFinding Peers - 23\r\nResolving - 24\r\nWriting - 25
-您可以使用下列参数: \r\n\r\n%F - 已下载文件的名称 (对于单文件的种子)\r\n%D - 保存文件的目录\r\n%N - 种子的标题\r\n%P - 种子的上一个状态\r\n%L - 标签\r\n%T - Tracker\r\n%M - 状态消息字符串 (与状态列相同)\r\n%I - 十六进制编码的散列信息\r\n%S - 种子的状态\r\n%K - 种子的种类 (single|multi)\r\n\r\n状态可能是:\r\n\r\n错误 - 1\r\n已检查 - 2\r\n已暂停 - 3\r\n超级做种中 - 4\r\n做种中 - 5\r\n下载中 - 6\r\n超级种子 [强制] - 7\r\n做种中 [强制] - 8\r\n下载中 [强制] - 9\r\n排队种子 - 10\r\n已完成 - 11\r\n排队中 - 12\r\n已停止 - 13\r\n排队中 - 12\r\n预分配中 - 17\r\n元数据下载中 - 18\r\n正在连接用户 - 19\r\n移动中 - 20\r\n实际写入中 - 21\r\n需要 DHT - 22\r\n查找用户中 - 23\r\n解析中 - 24\r\n等待中 - 25
+您可以使用下列参数: \r\n\r\n%F - 已下载文件的名称 (对于单文件的种子)\r\n%D - 保存文件的目录\r\n%N - 种子的标题\r\n%P - 种子的上一个状态\r\n%L - 标签\r\n%T - Tracker\r\n%M - 状态消息字符串 (与状态列相同)\r\n%I - 十六进制编码的散列信息\r\n%S - 种子的状态\r\n%K - 种子的种类 (single|multi)\r\n\r\n状态可能是:\r\n\r\n错误 - 1\r\n已检查 - 2\r\n已暂停 - 3\r\n超级做种中 - 4\r\n做种中 - 5\r\n下载中 - 6\r\n超级种子 [强制] - 7\r\n做种中 [强制] - 8\r\n下载中 [强制] - 9\r\n种源排队 - 10\r\n已完成 - 11\r\n排队中 - 12\r\n已停止 - 13\r\n排队中 - 12\r\n预分配中 - 17\r\n元数据下载中 - 18\r\n正在连接用户 - 19\r\n移动中 - 20\r\n实际写入中 - 21\r\n需要 DHT - 22\r\n查找用户中 - 23\r\n解析中 - 24\r\n等待中 - 25
 
 In which city or town were you born?
 您出生在哪个城市或城镇?
