@@ -1649,10 +1649,10 @@ Password:
 密码:
 
 Use proxy for hostname lookups
-对于主机名查询使用代理
+使用代理进行主机名查询
 
 Use proxy for peer-to-peer connections
-对于点对点连接使用代理
+使用代理进行点对点连接
 
  Proxy Privacy
  代理隐私
@@ -2522,7 +2522,7 @@ First Piece
 首个区块
 
 Has header
-拥有头部
+有头部
 
 Media Length
 媒体长度
@@ -2708,7 +2708,7 @@ disabled
 已禁用
 
 inactive
-不活动
+无活动
 
 not allowed
 不允许
@@ -3251,10 +3251,10 @@ Unable to load "%s": %s!
 未能载入 "%s": %s!
 
 Unable to save the resume file. Some data may be lost.\r\nAnother program might have the file open, or the disk is full. Please correct this and click Retry. If you press Cancel, the resume file will not be saved.
-无法保存续传文件。一些数据可能丢失。\r\n文件可能已其他程序占用，或者磁盘已满。请纠正问题后再试。如果您选择取消，将不会保存该续传文件。
+无法保存续传文件。一些数据可能丢失。\r\n文件可能已被其他程序占用，或者磁盘已满。请纠正问题后再试。如果您选择取消，将不会保存该续传文件。
 
 Unable to save the resume file. Another program might have the file open, or the disk is full.
-无法保存续传文件。可能已被其他程序占用，或者磁盘已满。
+无法保存续传文件。文件可能已被其他程序占用，或者磁盘已满。
 
 Unable to copy .torrent from '%s' to '%s': (%d) %s
 无法将 .torrent 文件从 '%s' 复制到 '%s': (%d) %s
@@ -3437,7 +3437,7 @@ Unlimited
 无限制
 
 Select a .torrent to update to
-选择一个 .torrent 来更新到
+选择一个 .torrent 作为更新源
 
 Be sure to exit %s before you unplug the USB drive!
 请在拔出 USB 驱动器前退出 %s!
@@ -4565,7 +4565,7 @@ Stream
 串流
 
 Set Primary
-设置为主要
+主要设置为
 
 Search
 搜索
@@ -4814,7 +4814,7 @@ Relevance
 相关性
 
 Reqs
-请求
+请求数
 
 Uploaded
 已上传
@@ -4823,7 +4823,7 @@ Up Speed
 上传速度
 
 Waited
-等待
+已等待
 
 Availability
 健康度
@@ -4841,7 +4841,7 @@ Mode
 区块数量
 
 #
-#
+编号
 
 Priority
 优先级
