@@ -410,7 +410,7 @@ Plug USB into BitTorrent Certified playback device
 插入 USB 到 BitTorrent 认证的播放设备
 
 Drag and drop a \ntorrent onto a device.
-拖放一个种子文件\n到设备。
+拖放一个种子文件到设备。
 
 Convert
 转换
@@ -419,13 +419,13 @@ Plug in your (mounted) Android.\nConverted files will be transferred.
 请插入您的(已挂载的) Android 设备。\n转换后的文件将被传输。
 
 Converted files are moved\nto iTunes automatically.
-转换后的文件已自动\n移动到 iTunes。
+转换后的文件已自动移动到 iTunes。
 
 BitTorrent MOVE devices connect to your torrent library and stream media to your TV
 BitTorrent 移动设备连接到您的 Torrent 库并同步流媒体到您的电视
 
 Plug in a USB stick, select \nconverted files, and click Transfer.
-插入一个U盘，选择转换后的\n文件，并点击传输。
+插入一个U盘，选择转换后的文件，然后点击传输。
 
 Transfer
 传输
@@ -437,28 +437,28 @@ Stream to BitTorrent Certified MOVE device
 串流到 BitTorrent 认证的移动设备
 
 Transfer to Storage
-传输到存储
+传输到存储设备
 
 Copy/Play on PS3
-复制/播放到 PS3
+复制/在 PS3 上播放
 
 Copy/Play on XBOX
-复制/播放到 XBOX
+复制/在 XBOX 上播放
 
 Now walk your USB stick over\nto your PS3 and plug it in.
-现在将您的U盘\n插入您的 PS3。
+现在将您的U盘插入您的 PS3。
 
 Now walk your USB stick over\nto your XBOX and plug it in.
-现在将您的U盘\n插入您的 XBOX。
+现在将您的U盘插入您的 XBOX。
 
 Automatically transfer newly converted media when connected
-连接时自动传输新转换的媒体
+连接时自动传输新转换的媒体文件
 
 connected
 已连接
 
 Go to iTunes to transfer converted µTorrent media onto your devices.
-转到 iTunes 来传输转换后的 µTorrent 媒体到您的设备。
+转到 iTunes 来传输转换后的 µTorrent 媒体文件到您的设备。
 
 Make media playable in BitTorrent Certified devices
 让媒体文件可在 BitTorrent 认证设备上播放
@@ -467,10 +467,10 @@ USB Storage Disabled
 USB 存储已禁用
 
 Transfer playable media to multiple removable storage devices of your choice
-按照您的选择传输可播放的媒体到多个可移动存储设备
+按照您的选择，传输可播放的媒体文件到多个可移动存储设备
 
 Ready For Transfers
-传输准备已就绪
+传输已准备就绪
 
 Not Connected
 未连接
@@ -509,16 +509,16 @@ Open iTunes
 打开 iTunes
 
 Check out these apps to experience %s\\\\u00ae on tablets, mobile devices and more
-查看这些应用来体验 %s\\\\u00在平板电脑上、移动设备上，以及
+使用这些应用来体验 %s\\\\u00ae在平板电脑、手机等移动设备上
 
 Find torrents and download them directly to your Android phone or tablet
-找到种子并直接下载它们到您的 Android 手机和平板电脑
+找到种子并直接下载它们到您的 Android 手机或平板电脑
 
 New Device Added!
 已添加新设备!
 
 Simple, secure access to your %s client on any device
-简单、安全的访问您的 %s 客户端，就在
+简单、安全的在任何设备上访问您的 %s 客户端，就用：
 
 %s\\\\u00ae For Android
 %s\\\\u00ae For Android
@@ -536,10 +536,10 @@ Connect via USB
 通过 USB 连接
 
 Transfer Selected Files to USB Storage
-传输选定文件到 USB 存储
+传输选定文件到 USB 存储设备
 
 Transfer Selected Files to Storage
-传输选定文件到存储
+传输选定文件到存储设备
 
 Connect your Android device\nand enable USB storage
 连接您的 Android 设备\n并启用 USB 存储
@@ -590,7 +590,7 @@ Remove RSS feeds
 移除 RSS 订阅
 
 Control/modify/delete torrents belonging to other entities
-控制/修改/删除术语其他实体的 Torrent
+控制/修改/删除属于其他实体的 Torrent
 
 Set torrent properties
 设置 Torrent 属性
@@ -695,7 +695,7 @@ Devices
 设备
 
 Drag torrents onto devices in the sidebar to initiate media conversions.
-拖放 Torrent 到侧边栏中的设备中开始媒体转换。
+拖放种子文件到侧边栏的设备中以开始媒体转换。
 
 Add a Device
 添加设备
@@ -704,10 +704,10 @@ Android
 Android
 
 iPods/iPhones
-iPods/iPhones
+iPod/iPhone
 
 iPads/Apple TV
-iPads/Apple TV
+iPad/Apple TV
 
 USB to PS3
 USB 到 PS3
@@ -719,7 +719,7 @@ BitTorrent Certified Device
 BitTorrent 认证设备
 
 Click on your device below to enable this feature.
-点击下方的您的设备启用此功能。
+在下方选择您的设备以启用此功能。
 
 Android
 Android
@@ -761,7 +761,7 @@ Cancel
 取消
 
 Always check for updates to this version
-总是检查更新到此版本
+总是检查到此版本的更新
 
 Yes
 是
@@ -1127,7 +1127,7 @@ Start µTorrent when Windows starts up
 Windows 启动时运行 µTorrent
 
 Select which file types you would like µTorrent to handle by default.
-选择您希望 µTorrent 默认处理哪些文件类型。
+请选择您希望 µTorrent 默认处理哪些文件类型。
 
 File Types
 文件类型
@@ -3023,7 +3023,7 @@ Choose Install Options
 选择安装选项
 
 Choose a directory to put the application file in:
-选择放置应用程序的目录:
+选择放置应用程序文件的目录:
 
 Select µTorrent configurations (recommended settings are pre-selected)
 选择 µTorrent 配置 (推荐设置已选中)
@@ -3035,7 +3035,7 @@ Configuration
 完成(&F)
 
 Select "Accept" or "Decline".
-选择“接受”或者“拒绝”。
+请选择“接受”或者“拒绝”。
 
 By clicking "I Agree", you acknowledge that you have read and agree to the End User License Agreement and <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>.
 点击“我同意”即代表您承认您已经阅读并同意最终用户许可协议和<a href="http://www.bittorrent.com/legal/privacy">隐私政策</a>。
@@ -3464,7 +3464,7 @@ Add RSS Feed...
 添加 Torrent(&A)...
 
 A&dd Torrent (choose save dir)...
-添加 Torrent 文件 (手动选择保存位置)(&D)...
+添加 Torrent (手动选择保存位置)(&D)...
 
 Add Torrent from &URL...
 从链接添加 Torrent(&U)...
@@ -5129,7 +5129,7 @@ You have to restart %s for the changes to take effect.
 您必须重新启动 %s 才能使更改生效。
 
 Select your preferred player
-选择您喜欢的播放器
+请选择您偏爱的播放器
 
 Executable (*.exe)||*.exe||All files (*.*)||*.*||
 可执行文件 (*.exe)||*.exe||所有文件 (*.*)||*.*||
@@ -5669,7 +5669,7 @@ Select a folder
 选择目录
 
 Select a folder where you want to store the active downloads:
-选择一个目录用来保存当前活动的下载:
+请选择一个目录用来保存当前活动的下载:
 
 <a>Try our new Android app!</a>
 <a>试试我们的 Android 应用吧!</a>
@@ -5684,7 +5684,7 @@ Unlimited
 无限制
 
 Test queued...
-测试排队中...
+测试已进入队列...
 
 %dd %dh
 %d 天 %d 小时
@@ -5753,10 +5753,10 @@ E&xit
 隐藏/显示 µTorrent(&H)
 
 &Pause all torrents
-暂停所有的 Torrent(&P)
+暂停所有任务(&P)
 
 &Resume all torrents
-续传所有的 Torrent(&R)
+续传所有任务(&R)
 
 &Enable Scheduler
 启用计划任务(&E)
