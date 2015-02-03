@@ -275,7 +275,7 @@ Checking auto portmap configuration ...
 正在检查自动端口映射配置...
 
 Checking queue ... we are #%d.
-正在检查队列...我们是 #%d。
+正在检查队列...我们在 #%d。
 
 Offer
 提供
@@ -1004,7 +1004,7 @@ OK
 确定
 
 Don't show me this again
-不要再显示这个
+不要再显示
 
 You Just added a ...
 您刚刚添加了一个...
@@ -1208,13 +1208,13 @@ Over 21
 大于 21 岁
 
 Gambling
-Gambling
+投机
 
 Gaming
 娱乐
 
 Dating
-Dating
+交往中
 
 Sports Fan
 体育迷
@@ -2114,7 +2114,7 @@ Automatic Port Mapping (Recommended)
 保存并关闭(&S)
 
 Don't show this again
-不要再显示这个
+不再显示此对话框
 
 Copy
 复制
@@ -2537,7 +2537,7 @@ Name
 区块数
 
 #
-#
+编号
 
 %
 完成率
@@ -3710,10 +3710,10 @@ Copy &Magnet URI
 复制 Magnet 链接(&M)
 
 Move Down Queue
-下移队列
+队列中下移
 
 Move Up Queue
-上移队列
+队列中上移
 
 Pause
 暂停
@@ -4367,7 +4367,7 @@ Name ...\r\nA new line of text
 名称...\r\n新的文本行
 
 #
-#
+编号
 
 Peers
 用户
@@ -4628,7 +4628,7 @@ Virus Scan
 病毒扫描
 
 Create New Torrent
-制作 Torrent
+制作新的 Torrent
 
 Toggle Torrent View
 切换任务视图
