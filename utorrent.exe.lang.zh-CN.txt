@@ -22,6 +22,15 @@ TB
 About %s\n\nPublisher: %S\nRelease Date: %S\nVersion: %S\nDescription: %S\nUpdate URL: %S\n
 关于 %s\n\n发布者: %S\n发布日期: %S\n版本: %S\n描述: %S\n更新网址: %S\n
 
+©2016 BitTorrent, Inc.\\r\\nAll Rights Reserved.\\r\\n\\r\\nThanks for using this FREE program. We hope you like it. If you paid for it, get a refund!\\r\\n\\r\\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+©2016 BitTorrent, Inc.\\r\\nAll Rights Reserved.\\r\\n\\r\\nThanks for using this FREE program. We hope you like it. If you paid for it, get a refund!\\r\\n\\r\\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+
+©2016 BitTorrent, Inc.\\r\\nAll Rights Reserved.\\r\\n\\r\\nThanks for using this program. We hope you like it.\\r\\n\\r\\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+©2016 BitTorrent, Inc.\\r\\nAll Rights Reserved.\\r\\n\\r\\nThanks for using this program. We hope you like it.\\r\\n\\r\\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+
+©2016 BitTorrent, Inc.\\r\\nAll Rights Reserved.\\r\\n\\r\\nThanks for using this program. We hope you like it.\\r\\n\\r\\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+©2016 BitTorrent, Inc.\\r\\nAll Rights Reserved.\\r\\n\\r\\nThanks for using this program. We hope you like it.\\r\\n\\r\\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+
 Too many activations\nA single purchased copy of %s Plus can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
 激活太多次\n购买的单个 %s Plus 副本只能被安装在一定数量的计算机上。此副本已经被在不同的计算机上安装了太多次。\n\n请选择为这台电脑购买一个新的副本，或者通过 http://help.bittorrent.com 联系我们，如果您认为您不应该遇到此信息。
 
@@ -67,11 +76,14 @@ Add RSS Feed
 Would you like to add "%s" to your search list?
 您希望将 "%s" 添加到您的搜索清单中吗？
 
-Advertisement
-广告
+ ADVERTISEMENT
+ ADVERTISEMENT
 
 This is an advertisement from one of uTorrent's partners.
 这是 uTorrent 合作伙伴的广告信息。
+
+Try µTorrent without ads
+Try µTorrent without ads
 
 Anti-virus Information
 防病毒信息
@@ -120,6 +132,9 @@ There was an error while scanning the content of this torrent.
 
 Virus Found!\r\n\r\n
 发现病毒!\r\n\r\n
+
+Torrent contents are still downloading or checking. Once this is completed, contents will be checked for viruses and spyware.
+Torrent 内容仍在下载或检查中。一旦此工作完成，将开始检查内容是否含有病毒或间谍软件。
 
 You have recently un-quarantined this possibly infected torrent
 您最近已将该可能感染的 Torrent 移出隔离区
@@ -439,17 +454,17 @@ Stream to BitTorrent Certified MOVE device
 Transfer to Storage
 传输到存储设备
 
-Copy/Play on PS3
-复制/在 PS3 上播放
+Copy/Play on Playstation
+Copy/Play on Playstation
 
-Copy/Play on XBOX
-复制/在 XBOX 上播放
+Copy/Play on Xbox
+Copy/Play on Xbox
 
-Now walk your USB stick over\nto your PS3 and plug it in.
-现在将您的U盘插入您的 PS3。
+Now walk your USB stick over\nto your Playstation and plug it in.
+Now walk your USB stick over\nto your Playstation and plug it in.
 
-Now walk your USB stick over\nto your XBOX and plug it in.
-现在将您的U盘插入您的 XBOX。
+Now walk your USB stick over\nto your Xbox and plug it in.
+Now walk your USB stick over\nto your Xbox and plug it in.
 
 Automatically transfer newly converted media when connected
 连接时自动传输新转换的媒体文件
@@ -655,9 +670,6 @@ Label:
 Add to top of queue
 添加到队列顶部
 
- Torrent Contents *
- Torrent 内容 *
-
 Name:
 名称:
 
@@ -670,26 +682,20 @@ Size:
 Date:
 日期:
 
-S&elect All
-全部选定(&E)
-
-Select &None
-全部取消(&N)
-
-&Advanced...
-高级(&A)...
-
-OK
-确定
-
 Cancel
 取消
 
-Waiting for Torrent Information
-等待 Torrent 信息
-
 Create Subfolder
 创建子目录
+
+Welcome to the fastest way to move torrent files. To get started, find a torrent using our search bar.
+Welcome to the fastest way to move torrent files. To get started, find a torrent using our search bar.
+
+Learn about torrenting
+Learn about torrenting
+
+<a>No, I got it</a>
+<a>No, I got it</a>
 
 Devices
 设备
@@ -709,11 +715,11 @@ iPod/iPhone
 iPads/Apple TV
 iPad/Apple TV
 
-USB to PS3
-USB 到 PS3
+USB to Playstation
+USB to Playstation
 
-USB to Xbox 360
-USB 到 Xbox 360
+USB to Xbox
+USB to Xbox
 
 BitTorrent Certified Device
 BitTorrent 认证设备
@@ -789,15 +795,6 @@ Retry Install
 
 Cancel
 取消
-
-Tip Title
-提示标题
-
-info....
-信息....
-
-Unlock Bundle
-解锁包
 
 Create New Torrent
 制作新的 Torrent
@@ -1152,6 +1149,15 @@ Radio1
 
 Radio2
 Radio2
+
+Hey, we notice you have not added a torrent yet, start by searching for a torrent here.
+Hey, we notice you have not added a torrent yet, start by searching for a torrent here.
+
+Learn more
+Learn more
+
+<a>No, I got it</a>
+<a>No, I got it</a>
 
 OpenCandy Offer
 OpenCandy 提供
@@ -1801,6 +1807,9 @@ Outgoing:
 Allow incoming legacy connections
 允许传入旧式连接
 
+Enable Altruistic Mode
+Enable Altruistic Mode
+
  Queue Settings *
  队列设置 *
 
@@ -1884,6 +1893,15 @@ Set Security Question
 
 <a>SysLink1</a>
 <a>SysLink1</a>
+
+Choose your default player for Playback tab (downloaded files only)
+Choose your default player for Playback tab (downloaded files only)
+
+Choose your external media player
+选择您的外部媒体播放器
+
+%1 stands for the command which is the chosen streamable file outputted by the build-in local loopback http server. You could add extra parameters for the player you selected.
+%1 代表内建本地环回服务器输出的流文件。 您可以提供额外的参数给您的播放程序。
 
 For a new torrent, always convert it for playback on the selected devices:
 对于新的 Torrent，在下列选中的设备上总是将它转换为可播放:
@@ -2116,6 +2134,21 @@ Automatic Port Mapping (Recommended)
 Don't show this again
 不再显示此对话框
 
+About Altruistic Mode
+About Altruistic Mode
+
+&Close
+关闭(&C)
+
+What is the Altruistic Mode?
+What is the Altruistic Mode?
+
+Enabling this feature will prioritize uploads. For every part you download, you will upload twice as much. This mode will guarantee your torrent maintains an upload to download ratio of 2:1 at all times as well as
+Enabling this feature will prioritize uploads. For every part you download, you will upload twice as much. This mode will guarantee your torrent maintains an upload to download ratio of 2:1 at all times as well as
+
+keeping your torrent healthy. Keep in mind that this works best for popular torrents.
+keeping your torrent healthy. Keep in mind that this works best for popular torrents.
+
 Copy
 复制
 
@@ -2311,6 +2344,9 @@ Minimum number of available seeds:
 &Local Peer Discovery
 本地用户发现(&L)
 
+Altruistic Mode
+Altruistic Mode
+
 Web Seeds
 Web Seeds
 
@@ -2364,6 +2400,9 @@ Your translations are up to date.
 
 Edit RSS Feed
 编辑 RSS 订阅
+
+Failed to download your plus licence key. Please try again.
+下载您的 Plus 许可密钥失败。请重试。
 
 Failed to download your Pro licence key. Please try again.
 下载您的 Pro 许可密钥失败。请重试。
@@ -2431,8 +2470,8 @@ En&able Feed
 &Update Feed
 更新订阅(&U)
 
-ffmpeg Process aborted with error %d. Unknown error\nMore information may be found in the transcript log at %%appdata%%\\\\%S\\\\media
-ffmpeg 进程已中止，错误 %d。未知错误\n更多信息可能在记录日志中找到 %%appdata%%\\\\%S\\\\media
+ffmpeg Process aborted with error %d. Unknown error\nMore information may be found in the transcript log at %s\\\\media
+ffmpeg Process aborted with error %d. Unknown error\nMore information may be found in the transcript log at %s\\\\media
 
 Transcode process failed to start
 Transcode 进程启动失败
@@ -2965,6 +3004,15 @@ Help file not found in settings directory, attempting to download
 Cannot launch help file, as it is still downloading
 无法启动帮助文件，仍在下载过程中
 
+Close
+关闭
+
+Unable to connect to the Internet at this time.
+Unable to connect to the Internet at this time.
+
+Please try again once you have a connection.
+Please try again once you have a connection.
+
 Invalid redirect (%S)
 无效重定向 (%S)
 
@@ -3003,6 +3051,12 @@ An older version of µTorrent is already running.
 
 Please shut down µTorrent and try again *
 请关闭 µTorrent 后再试。 *
+
+Check your User Account Control settings
+Check your User Account Control settings
+
+Please enable User Account Control and restart the installer or contact your local administrator
+Please enable User Account Control and restart the installer or contact your local administrator
 
 Incomplete
 未完成
@@ -3376,11 +3430,14 @@ Data send
 \r\nUploaded this run: %#Z\r\nDownloaded this run: %#Z\r\nUploaded Today: %#Z\r\nDownloaded Today: %#Z\r\nTransferred last %d days: %#Z\r\nTotal Uploaded: %#Z\r\nTotal Downloaded: %#Z\r\nTotal Ratio: %:.3d\r\nTotal Running Time: %d:%.2d:%.2d\r\nNumber of torrents added: %d\r\nProgram launched: %d times\r\n\r\nLast launched: %s\r\n# incoming conns since start: %d\r\n# outgoing conns since start: %d\r\n# handshake: %d\r\n# connections: %d\r\n# uTP connecting: %d\r\n# TCP connecting: %d\r\n# half-open: %d (%d queued)\r\n
 \r\n本次运行上传: %#Z\r\n本次运行下载: %#Z\r\n今日上传: %#Z\r\n今日下载: %#Z\r\n最近%d天传输: %#Z\r\n总上传: %#Z\r\n总下载: %#Z\r\n总分享率: %:.3d\r\n总运行时间: %d:%.2d:%.2d\r\n已添加种子总计: %d 个\r\n程序启动: %d 次\r\n\r\n上次启动: %s\r\n# 启动后传入连接数: %d\r\n# 启动后传出连接数: %d\r\n# 握手次数: %d\r\n# 当前连接数: %d\r\n# uTP 连接数: %d\r\n# TCP 连接数: %d\r\n# 半开连接数: %d (%d 排队)\r\n
 
-Allocating files
-分配文件
+[ALLOCFILE] *
+[ALLOCFILE] *
 
-Disk Cache overloaded %d %%
-磁盘缓存已超过 %d %%
+Disk Cache Overload
+Disk Cache Overload
+
+Cache Overload
+Cache Overload
 
 *
 *
@@ -3469,9 +3526,6 @@ A&dd Torrent (choose save dir)...
 Add Torrent from &URL...
 从链接添加 Torrent(&U)...
 
-&Bundle Webpage
-包网页(&B)
-
 Crash the client
 客户端崩溃
 
@@ -3490,14 +3544,14 @@ E&xit
 &Help
 帮助(&H)
 
-&Ad-Free Account
-无广告账号(&A)
-
 µTorrent FA&Q
 µTorrent 常见问题(&Q)
 
 µTorrent &Help
 µTorrent 帮助(&H)
+
+&Learn more about %s Plus
+详细了解 %s Plus
 
 My &Plus Account
 我的 &Plus 账号
@@ -3508,11 +3562,17 @@ My &Plus Account
 My &Pro Account
 我的 &Pro 账号
 
+&Learn how to use µTorrent
+&Learn how to use µTorrent
+
 BitTorrent &Labs
 BitTorrent &Labs
 
 &Options
 选项(&O)
+
+&Get %s Plus
+获取 %s Plus(&G)
 
 &Get %s Pro
 获取 %s Pro(&G)
@@ -3543,9 +3603,6 @@ Show &Detailed Info
 
 Show &Devices
 显示设备(&D)
-
-Show &Bundles
-显示包(&B)
 
 &Download Bar
 下载栏(&D)
@@ -3763,9 +3820,6 @@ Hide Devices
 Hide Featured Content
 隐藏精选内容
 
-Hide Now Playing
-隐藏正在播放
-
 &High
 较高(&H)
 
@@ -3865,6 +3919,9 @@ S&et Download Location...
 Set &Upload Limit
 设置上传限制(&U)
 
+About Altruistic Mode...
+About Altruistic Mode...
+
 &Start
 开始(&S)
 
@@ -3876,9 +3933,6 @@ S&top
 
 &Uninstall App
 卸载应用(&U)
-
-&Unlock Torrent
-解锁 Torrent(&U)
 
 Update Tor&rent...
 更新 Tor&rent...
@@ -4135,9 +4189,6 @@ Created By:
 No
 否
 
-Go to Bundles to get torrents.
-访问一个包以获得种子。
-
 Access violation
 访问冲突
 
@@ -4270,17 +4321,11 @@ Downloading
 Feeds
 订阅
 
-Bundles
-包
-
 Inactive
 不活动
 
 Labels
 标签
-
-Now Playing
-正在播放
 
 No Label
 其他
@@ -4288,11 +4333,11 @@ No Label
 Anti-virus Protection
 防病毒保护
 
-Play Anywhere
-随处播放
-
 HD Media Player
 高清媒体播放器
+
+Streaming
+串流
 
 Upgrade to Plus
 升级到 Plus
@@ -4438,6 +4483,9 @@ Remove
 unsupported
 不支持
 
+Feedback
+Feedback
+
 Filter Torrents
 筛选 Torrent
 
@@ -4546,17 +4594,20 @@ Stream
 Ready in %s
 准备就绪 %s
 
-Days
-天
-
-Disables in
-禁用于
-
 Expired
 已过期
 
+Expires in %d days
+Expires in %d days
+
+Expires tomorrow
+Expires tomorrow
+
 Upgrade
 升级
+
+Upgrading to Pro...
+Upgrading to Pro...
 
 Prefs
 偏好
@@ -4582,9 +4633,6 @@ Download
 Stop
 停止
 
-Recommended
-推荐
-
 Files
 文件
 
@@ -4600,8 +4648,8 @@ Peers
 Pieces
 区块视图
 
-Playback (Beta)
-播放 (Beta)
+Playback
+播放
 
 Ratings
 评分
@@ -4615,9 +4663,6 @@ Speed
 Trackers
 Tracker
 
-Updates
-更新
-
 Add Torrent
 添加 Torrent
 
@@ -4629,6 +4674,9 @@ Virus Scan
 
 Create New Torrent
 制作新的 Torrent
+
+Provide feedback!
+Provide feedback!
 
 Toggle Torrent View
 切换任务视图
@@ -4663,17 +4711,17 @@ Start Torrent
 Stop Torrent
 停止 Torrent
 
+Tutorial
+Tutorial
+
 Remote
 远程控制
-
-Unlock Bundle
-解锁包
 
 Toggle view
 切换视图
 
-Unlock
-解锁
+Tutorial
+Tutorial
 
 uT remote
 uT 远程控制
@@ -4861,6 +4909,9 @@ medium
 slow
 较慢
 
+Play downloaded file in external player
+Play downloaded file in external player
+
 Play downloaded file
 播放已下载的文件
 
@@ -4873,11 +4924,17 @@ Try to stream file
 Congratulations! Your software is turning into %s Plus as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Plus forums.
 恭喜您! 您的软件正在转变为 %s Plus，所有功能正在准备，只需大概一分钟即可完成。\n\n若要了解您的新功能，请参考 %s Plus 论坛。
 
+Downloading the plus package failed
+下载 Plus 软件包失败
+
 Plus install in progress. \nUpdates will be available shortly.
 Plus 正在安装。\n更新即将可用。
 
 Your plus player is expired. The free player will be used to play the media file
 您的增强播放器已过期。媒体文件将使用免费播放器播放
+
+%s Plus Player is installing. Please try again shortly.
+%s Plus 播放器正在安装。请稍等片刻再试。
 
 Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Plus to protect yourself from viruses hiding in torrents.
 注意 - 此种子包含可能损害您计算机的文件。\n\n升级到 %s Plus 保护您免受藏身种子中的病毒的危害。
@@ -4887,6 +4944,9 @@ Convert
 
 Open
 打开
+
+This device can't play this type of media file.\n\nUpgrade to %s Plus to convert this file so it can be played.
+此设备不能播放此类型的媒体文件。\n\n升级到 %s Plus 将此文件转换为它可以播放的格式。
 
 Port Forward test complete. %s
 端口转发测试完成。%s
@@ -5074,8 +5134,8 @@ Transfer files.
 Transfer files converted for PS3.
 传输转换后适用 PS3 的文件。
 
-Transfer files converted for XBox 360.
-传输转换后适用 XBox 360 的文件。
+Transfer files converted for XBox.
+Transfer files converted for XBox.
 
 audio
 音频
@@ -5464,6 +5524,12 @@ secs ahead of eye
 seconds of underrun
 截止区块
 
+next hole
+next hole
+
+encoded rate
+编码率
+
 total pieces
 所有区块
 
@@ -5481,6 +5547,21 @@ Please tell us more about your experience.
 
 Please select stream quality.
 请选择流质量。
+
+Click to Stream
+Click to Stream
+
+day
+day
+
+days
+天
+
+Your streaming trial ends in %d %s
+Your streaming trial ends in %d %s
+
+Streaming trial expired - Upgrade to Pro
+Streaming trial expired - Upgrade to Pro
 
 Buffering...
 缓冲中...
@@ -5523,6 +5604,12 @@ Converted File
 
 New
 新
+
+Upgrade
+升级
+
+Upgrade to µTorrent
+Upgrade to µTorrent
 
 Advanced
 高级
@@ -5683,6 +5770,9 @@ Test Result (
 Unlimited
 无限制
 
+Report Ad
+Report Ad
+
 Test queued...
 测试已进入队列...
 
@@ -5704,35 +5794,8 @@ Test queued...
 %dy %dw
 %d 年 %d 周
 
-Check For Updates
-检查更新
-
-Update Now
-立即更新
-
-Check back for updates soon
-检查即将发布的更新
-
-ADDITIONAL CONTENT LOCKED
-附加内容已锁定
-
-BUNDLE UPDATE AVAILABLE
-包有可用更新
-
-BUNDLE CURRENTLY UP TO DATE
-包目前已是最新
-
-Enter your email and unlock free stuff
-请输入您的电子邮件地址解锁免费东西
-
 Enter your email and unlock free content
 请输入您的电子邮件地址解锁免费内容
-
-Logon to facebook and unlock free stuff
-登录到 Facebook 解锁免费东西
-
-Logon to bank account and unlock free stuff
-登录到银行账户解锁免费东西
 
 Click update to update now
 点击“更新”立即更新
