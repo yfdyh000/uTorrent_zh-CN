@@ -670,6 +670,12 @@ Label:
 Add to top of queue
 添加到队列顶部
 
+Altruistic Mode
+Altruistic Mode
+
+ Torrent Contents *
+ Torrent 内容 *
+
 Name:
 名称:
 
@@ -682,8 +688,23 @@ Size:
 Date:
 日期:
 
+S&elect All
+全部选定(&E)
+
+Select &None
+全部取消(&N)
+
+&Advanced...
+高级(&A)...
+
+OK
+确定
+
 Cancel
 取消
+
+Waiting for Torrent Information
+等待 Torrent 信息
 
 Create Subfolder
 创建子目录
@@ -1582,29 +1603,14 @@ For downloading torrents:
 &Move completed downloads to:
 下载完成后移至(&M):
 
-...
-...
-
-&Only move from the default download directory
-只从默认下载目录移动(&O)
-
- Location of .torrents *
- .torrent 位置 *
+&Append the torrent's label
+添加 Torrent 标签(&A)
 
 Store .torrents in:
 保存 .torrent 到:
 
-...
-...
-
 Move .torrents for finished jobs to:
 任务完成后将 .torrent 文件移动到:
-
-...
-...
-
-&Automatically load .torrents from:
-自动载入 .torrent 从(&A):
 
 &Delete loaded .torrents
 删除已载入的 .torrent(&D)
@@ -3526,6 +3532,9 @@ A&dd Torrent (choose save dir)...
 Add Torrent from &URL...
 从链接添加 Torrent(&U)...
 
+&BitTorrent Now Webpage
+&BitTorrent Now Webpage
+
 Crash the client
 客户端崩溃
 
@@ -3565,9 +3574,6 @@ My &Pro Account
 &Learn how to use µTorrent
 &Learn how to use µTorrent
 
-BitTorrent &Labs
-BitTorrent &Labs
-
 &Options
 选项(&O)
 
@@ -3603,6 +3609,9 @@ Show &Detailed Info
 
 Show &Devices
 显示设备(&D)
+
+Show &BitTorrent Now
+Show &BitTorrent Now
 
 &Download Bar
 下载栏(&D)
@@ -3817,8 +3826,8 @@ Fullscreen
 Hide Devices
 隐藏设备
 
-Hide Featured Content
-隐藏精选内容
+Hide Media Player
+Hide Media Player
 
 &High
 较高(&H)
@@ -4189,6 +4198,9 @@ Created By:
 No
 否
 
+Go to BitTorrent Now to get torrents.
+Go to BitTorrent Now to get torrents.
+
 Access violation
 访问冲突
 
@@ -4321,11 +4333,17 @@ Downloading
 Feeds
 订阅
 
+Now
+Now
+
 Inactive
 不活动
 
 Labels
 标签
+
+Media Player
+Media Player
 
 No Label
 其他
@@ -5850,9 +5868,6 @@ Select a file
 
 Download Complete|%s has finished downloading.
 下载完成|%s 已经下载完成。
-
-A BitTorrent Featured Bundle|%S
-一个 BitTorrent 精选包|%S
 
 New Download from RSS|%s has started downloading.
 从 RSS 新建下载|%s 已经开始下载。
